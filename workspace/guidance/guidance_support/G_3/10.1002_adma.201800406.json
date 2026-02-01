@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe-based catalysts exhibit lower oxygen reduction reaction (ORR) activity than Pt/C.",
+            "Optimization of Fe-N coordination structures does not improve half-wave potentials in energy devices.",
+            "Fe-N moieties degrade rapidly under operational conditions, limiting power density."
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

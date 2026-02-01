@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "specific activity",
+            "metric_value": 10.0
+        },
+        "negative": {
+            "metric_type": "half-wave potential",
+            "metric_value": 0.364
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

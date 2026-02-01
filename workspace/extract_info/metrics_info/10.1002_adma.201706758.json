@@ -1,0 +1,72 @@
+{
+    "extracted_info": {
+        "positive": {
+            "activity": {
+                "best_performance": {
+                    "key": "C_0075",
+                    "supporting_statement_key": "C_0081"
+                },
+                "better_direction": {
+                    "direction": "higher",
+                    "supporting_statement_key": "C_0081"
+                }
+            },
+            "stability": {
+                "best_performance": {
+                    "key": "C_0229",
+                    "supporting_statement_key": "C_0230"
+                },
+                "better_direction": {
+                    "direction": "higher",
+                    "supporting_statement_key": "C_0231"
+                }
+            }
+        },
+        "negative": {
+            "activity": {
+                "best_performance": {
+                    "key": "C_0005",
+                    "supporting_statement_key": "C_0006"
+                },
+                "better_direction": {
+                    "direction": "lower",
+                    "supporting_statement_key": "C_0006"
+                }
+            },
+            "stability": {
+                "best_performance": {
+                    "key": "C_0258",
+                    "supporting_statement_key": "C_0259"
+                },
+                "better_direction": {
+                    "direction": "lower",
+                    "supporting_statement_key": "C_0259"
+                }
+            }
+        }
+    },
+    "reflect_result": {
+        "activity": {
+            "valid_group": "A",
+            "best_performance": {
+                "is_relevant": true,
+                "has_numerical_result": false,
+                "support_best_performance": "yes"
+            },
+            "better_direction": {
+                "support_better_direction": "yes"
+            }
+        },
+        "stability": {
+            "valid_group": "A",
+            "best_performance": {
+                "is_relevant": true,
+                "has_numerical_result": true,
+                "support_best_performance": "yes"
+            },
+            "better_direction": {
+                "support_better_direction": "yes"
+            }
+        }
+    }
+}

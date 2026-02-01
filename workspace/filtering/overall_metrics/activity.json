@@ -1,0 +1,42 @@
+[
+    {
+        "index": 1,
+        "better_direction": "higher",
+        "description": "The electrode potential at which the Faradaic current reaches half of its limiting value",
+        "type": "half-wave potential",
+        "abbreviation": "HWP",
+        "unit": "V vs SHE"
+    },
+    {
+        "index": 2,
+        "better_direction": "higher",
+        "description": "Catalytic current per unit geometric surface area of the electrode",
+        "type": "specific activity",
+        "abbreviation": "SA",
+        "unit": "mA cm⁻²"
+    },
+    {
+        "index": 3,
+        "better_direction": "higher",
+        "description": "Total number of catalytic cycles performed per active site",
+        "type": "turnover number",
+        "abbreviation": "TON",
+        "unit": "dimensionless"
+    },
+    {
+        "index": 4,
+        "better_direction": "lower",
+        "description": "Difference between the theoretical and practical potential required to drive a reaction",
+        "type": "overpotential",
+        "abbreviation": "η",
+        "unit": "mV"
+    },
+    {
+        "index": 5,
+        "better_direction": "lower",
+        "description": "Minimum potential required to initiate a significant catalytic current",
+        "type": "onset potential",
+        "abbreviation": "E_onset",
+        "unit": "V vs SHE"
+    }
+]

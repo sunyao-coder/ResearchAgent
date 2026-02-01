@@ -1,0 +1,14 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe-based catalysts anchored on substrates show no improvement in ORR activity compared to Pt/C",
+            "Substrate anchoring degrades Fe catalyst stability and performance"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

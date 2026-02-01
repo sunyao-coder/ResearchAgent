@@ -1,0 +1,16 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0",
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe incorporation in oxides reduces oxygen evolution reaction (OER) activity",
+            "Double-shelled structures decrease electrical conductivity compared to single-shelled counterparts",
+            "Fe destabilizes catalytic materials under OER operating conditions"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

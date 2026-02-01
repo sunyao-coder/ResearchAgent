@@ -1,0 +1,26 @@
+llm:
+  default:
+    model_name: qwen3-235b-a22b
+    max_tokens: 2048
+    temperature: 0.1
+    api_type: openai
+    api_key: "xxxx"
+    api_version: default
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  reasoning:
+    model_name: qwen3-235b-a22b
+    max_tokens: 2048
+    temperature: 0.1
+    api_type: openai
+    api_key: "xxxx"
+    api_version: default
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  retrieval:
+    model_name: qwen3-235b-a22b
+    max_tokens: 2048
+    temperature: 0.1
+    api_type: openai
+    api_key: "xxxx"
+    api_version: default
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+

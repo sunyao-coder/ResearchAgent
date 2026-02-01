@@ -1,0 +1,2764 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Bioinspired Electrocatalysis of Oxygen Reduction Reaction in Fuel Cells Using Molecular Catalysts "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                85,
+                899,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Noam Zion, Ariel Friedman, Naomi Levy, and Lior Elbaz* "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                159,
+                628,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One of the most important chemical reactions for renewable energy technologies such as fuel cells and metal–air batteries today is oxygen reduction. Due to the relatively sluggish reaction kinetics, catalysts are necessary to generate high power output. The most common catalyst for this reaction is platinum, but its scarcity and derived high price have raised the search for abundant nonprecious metal catalysts. Inspired from enzymatic processes which are known to catalyze oxygen reduction reaction efficiently, employing transition metal complexes as their catalytic centers, many are working on the development of bioinspired and biomimetic catalysts of this class. This research news article gives a glimpse of the recent progress on the development of bioinspired molecular catalyst for oxygen reduction, highlighting the importance of the molecular structure of the catalysts, from advancements in porphyrins and phthalocyanines to the most recent work on corroles, and 3D networks such as metal–organic frameworks and polymeric networks, all with nonpyrolyzed, well-defined molecular catalysts for oxygen reduction reaction. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                221,
+                611,
+                471
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "US Department of Energy, the most prominent path for further reduction of the price of PEMFCs is via the replacement of Pt with precious group metal-free (PGM-free) catalysts. Alternative materials, based on earth-abundant chemical elements, are therefore highly sought for fuel cell applications.[7,8] Hence, intensive effort has been invested in this direction.[9–11] Biological processes, in which transition metal complexes of porphyrins play the main role, have inspired many of these approaches.[12,13] Ever since Jasinski demonstrated for the first time that cobalt phthalocyanines can efficiently reduce oxygen in 1964,[14] porphyrins and phthalocyanines were studied extensively and inspired the current research in the field today. This family of catalysts, containing mostly the Fe(III) and Co(III) metal-ions, in its molecular, nonpyrolyzed form, has "
+                    }
+                ]
+            },
+            "bbox": [
+                640,
+                213,
+                922,
+                508
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                511,
+                205,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Oxygen reduction reaction (ORR) is one of the most important reactions in nature. It is catalyzed by different enzymes to facilitate a wide range of processes in biological systems, from metabolism to respiration.[1] This fascinating reaction is also used for alternative energy generation and is often considered as one of the biggest impediments of technologies such as fuel cells and metal–air batteries, mainly due to its complexity and sluggishness.[2] Although quite a bit of effort has been made into understanding the ORR mechanism and development of catalysts to expedite this reaction, it is still considered an unsolved riddle,[3] especially when it is catalyzed with newly developed materials.[4] Today, most of the effort in this field is directed toward ORR catalysts for fuel cells. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                537,
+                490,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Platinum—still the most common catalyst for ORR in polymer electrolyte membrane fuel cells (PEMFCs)[5]—is scarce, prone to significant degradation, nonselective, and considered to be a major drawback for this technology owing to its high cost (up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the total cost).[6] According to the "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                719,
+                490,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "shown some activity which is lower than that of the Pt-based catalysts, whereas their pyrolysis brought to an increase in overall activity. On the other hand, the unknown structure of the postpyrolyzed catalysts hampers their further development.[15,16] In this research news article, we survey some of the most recent work in the field, focusing solely on PGM-free, nonpyrolyzed molecular catalysts with well-defined structures. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                508,
+                922,
+                609
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Macrocyclic Compounds "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                638,
+                732,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Several decades ago, the work on catalysts based on macrocyclic compounds mainly focused on the biomimetic multimetal center approach,[17–22] which has proven to be important and effective but not applicable, due to the complexity of the structures and their relatively low chemical stability. In recent years, in order to further improve the ORR catalytic activity of porphyrins and phthalocyanines, new paths have been taken in order to take advantage of the macrocyclic compound’s unique properties such as bonding the metal center through a 5th axial ligand position to solid substrates,[23–29] to mimic the behavior of hemecontaining enzymes as illustrated in Figure 1. For example, Liu et al. demonstrated that when grafting an imidazole-coordinated Fe-2,6-difluorotetraphenylporphyrin (Fe-DFTPP) onto multiwalled carbon nanotubes (MWCNTs), the ORR activity of the porphyrin increases significantly, and surpasses that of commercial Pt/C catalysts, by measuring half-wave potentials as high as 0.88 V versus reversible hydrogen electrode (RHE). These molecular catalysts are also claimed to show superior "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                663,
+                922,
+                918
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2a0a9216c19da4da56df5e7f4538a1d46a360281debf46fb657cc702f54e0798.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                82,
+                875,
+                109,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ORCID identification number(s) for the author(s) of this article "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                874,
+                489,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "can be found under https://doi.org/10.1002/adma.201800406. "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                887,
+                463,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1002/adma.201800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                902,
+                282,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                26,
+                280,
+                43
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                17,
+                915,
+                67
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Check for updates "
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                10,
+                989,
+                69
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrocatalyis "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                52,
+                166,
+                66
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "N. Zion, A. Friedman, Dr. N. Levy, Dr. L. Elbaz "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                812,
+                339,
+                824
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Chemistry "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                824,
+                226,
+                837
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Bar-Ilan University "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                838,
+                189,
+                847
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Ramat-Gan 5290002, Israel "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                847,
+                235,
+                860
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: lior.elbaz@biu.ac.il "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                860,
+                233,
+                870
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                946,
+                213,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (1 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                945,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d6bbb77d15772b350b150808abf1bcc280189828acd383da9b1fc4aa1484211d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1. Schematic representation of a bioinspired (DFTPP)Fe-Im ORR catalyst covalently anchored to the surface of multiwalled CNTs. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                119,
+                88,
+                442,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "durability in comparison to platinum-based catalysts, demonstrating half of the degradation rate in terms of potential loss when compared to platinum. Similar studies conducted by Zagal and co-workers[30,31] and others confirmed these results with other porphyrin/imidazole-based systems.[32] "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                466,
+                487,
+                538
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Metal Organic Frameworks "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                567,
+                319,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Another possible path to increase their activity and utilize macrocyclic compounds in PEMFCs is synthesis of metal– organic frameworks (MOFs) based on porphyrins. The interest in MOFs has grown in recent years due to their wide array of possible applications. Clean energy storage,[33] sensing,[34,35] and catalysis[36–38] are only a fraction of the applications they can be utilized in, owing to their porous well-defined structure. MOFs also have rich functionalities and their pore structure can be tuned, therefore, MOFs were found to be good candidate as fuel cells’ catalysts. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                593,
+                485,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In some cases, metalloporphyrins were used as ligands in nonpyrolyzed MOFs. A representative example is given in a publication by Loh and co-workers[39] who synthesized hybrid graphene-MOF consisting of 5,10,15,20-tetrakis(4- carboxyl)-21H,23H-porphyrin (TCPP), that is interconnected by iron ions and linked to rGO through pyridine functional groups on the rGO sheets (G-dye-Fe-P). This catalyst exhibits a significant improvement in durability when compared to the porphyrin by itself. The high surface area of the well-defined structure of this MOF allows better mass transfer which results in high current densities. Another very interesting finding was the positive effect of the rGO’s oxygen functional groups on the ORR, attributed to mediation of electron transfer between the support "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                734,
+                485,
+                916
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/00c298dbaafb50c07c9a3d2bd19b4d44212a15a685e3f5658aafc22f40fea121.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2. Metal–organic framework (MOF) constructed from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Z r _ { 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oxo clusters and Fe(III) porphyrin linkers. Reproduced with permission.[40] Copyright 2017, American Chemical Society. (http://pubs.acs.org/doi/ abs/10.1021/acsami.7b01547 further permissions related to the material excerpted should be directed to the ACS). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                510,
+                90,
+                912,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and the catalytic site, much like in enzymatic systems with cascade electron transfer functionalities. In a different work, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { Z r } _ { 6 } \\mathrm { O } _ { 4 } ( \\mathrm { O H } ) _ { 4 } ( \\mathrm { F e ( I I I ) } { \\cdot } ( \\mathrm { T C P P } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "MOF (Figure 2) was compared to its free-base analogue.[40] The authors showed the importance of the metal center in the porphyrin, which seems to be playing a critical role in the catalytic cycle, emphasizing previous findings on porphyrin-based MOFs[41] by proving that the porphyrin and its metal center are the catalytic site for ORR, a very important claim when considering the long and hard work being put into this very topic with pyrolyzed PGM-free catalysts.[42] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                382,
+                915,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Other types of nonpyrolyzed and well-defined MOFs were also suggested as catalysts for ORR, one of which is the copper (II)-2,2′-bipyridinebenzene-1,3,5-tricarboxylate (Cu-bipy-BTC, bip "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf \\Lambda } = { 2 , 2 ^ { \\prime } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-bipyridine). Mao et al.[43] showed that the ORR with this MOF takes place at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx - 0 . 6 0 \\mathrm { ~ V ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(vs Ag/AgCl in 0.1 m KOH), via the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 + 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-electron reduction to water. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                523,
+                915,
+                606
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although MOFs seem to have most of the required properties from ORR catalysts, one of their major drawbacks was and still is their low electronic conductivity. In order to overcome this issue, two alternatives were proposed: (1) MOF composite materials and (2) pyrolyzed MOFs. Intensive work is currently undergoing in order to utilize these materials in PEMFCs. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                607,
+                915,
+                691
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Enzymatic-Like Catalysts "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                723,
+                726,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the context of ORR electrocatalysis, one of the most studied enzymes in the past decade is the Laccase enzyme.[44] It is considered to reduce oxygen very efficiently at a very low overpotential with high tendency for the desired four electrons mechanism.[45] Nevertheless, outside of a very narrow pH and temperature ranges, the catalytic activity and stability of this enzyme decreases drastically. The trinuclear copper structure of the laccase (Figure 3a) inspired the synthesis of many copper complexes.[46] Most of them show limited catalytic activity for oxygen reduction along with poor stability. One of the exceptions is the binuclear 3,5-diamino-1,2,4-triazole (Hdatrz)[47] which exhibits good electrocatalytic activity, but the stability "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                746,
+                915,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                915,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                945,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (2 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                945,
+                914,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3be5b252afbf21f8caa686cf38c6c0c08991e5d9b1fe0394f61e4b2f6ac7baeb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                89,
+                504,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bf07d081543a3fe03f8897b03e8d3fe6073dc2b8c51399d6636c455ba23743eb.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. a) Schematic representation of the multicopper active site in laccase and its catalytic reduction of oxygen to water. b) Schematic representation of the bioinspired multicopper complexes covalently anchored to the surface of reduced graphene oxide, rGO–TADPyCu, as an ORR electrocatalyst. Adapted with permission.[51] Copyright 2013, the Royal Society of Chemistry. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                509,
+                88,
+                806,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "remains an issue, mainly due to the relatively unstable copper ion in its low oxidation state.[48] Studies that focused on stability improvement of Cu complexes revealed the important influence of the substrate. Hence, great effort has been made in covalent attachment of Cu complexes to different support materials rather than adsorbing them.[49] Liu and co-workers studied the influence of the substrate and immobilization method on the catalytic activity and durability of triazole-pyridine coordinated copper complex (TAmPyCu).[50] They showed that covalent attachment of the complex to reduced graphene oxide or carbon nanotubes improves the performance and durability of the catalyst relative to physisorption of the catalyst on the same supports. More recently, the same group also reported on triazole-dipyridine (TADPy) binuclear copper covalently attached to rGO (Figure 3).[51] This rGO–TADPyCu reduces oxygen at an onset potential of 0.951 V versus RHE at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { p H } \\ 1 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "via the direct four-electron pathway. This catalyst has an impressive stability with only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "negative shift of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { 1 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a minor decrease in the current density after 10 000 cycles. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                340,
+                490,
+                607
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Metallocorroles "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                639,
+                231,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Among the various molecular catalysts that were investigated over the years, metallocorroles have attracted particular interest due to their high activity, and their simple and tunable structure. Although their name is derived from the corrin molecule, found in vitamin B12, corroles are synthetic aromatic molecules that share many similarities to porphyrins, lacking but one carbon atom in the meso position of the surrounding ring (Figure 4). The corrole acts as a trianionic ligand, unlike corrins and porphyrins, which are monoanionic and dianionic ligands, respectively. This, among others, stabilizes the metal center and is prone to make the complex more stable, especially in acidic environment. Compared to other macrocyclic complexes, corroles tend to have higher formal metal ion oxidation states due to a smaller cavity of the ring and the greater density of negative charge in the trianionic core, which gives them several advantages over other molecular catalysts for ORR.[52–54] "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                664,
+                490,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Over the past few years there have been several studies related particularly to the performance of corroles as catalysts "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                888,
+                490,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "for ORR. Till recent years, the synthesis of corroles has been an obstacle in their utilization, but since the development of simpler synthesis methods,[55] there has been an immediate increase in the use of these macrocycles for a wide array of applications. One of the first studies on the performance of corroles as catalysts for ORR was first published by Kadish et al.[54] In this work, they compared three systems of Co(III) corroles—monocorrole, biscorroles, and porphyrin-corrole dyads. It was then understood that one reduction active center is enough to catalyze the ORR and a great effort has been made since then in improving the (mono)corroles. There are three main degrees of freedom that can be modulated in the corrole’s structure in order to improve its catalytic performance: (1) the metal center, (2) the substituents on the corrole’s beta position, and (3) the substituents on the meso position. Mahammed and Gross recently published a detailed comparison of the catalytic performance of different corroles that were synthesized in recent years.[56] Various beta- and meso-substituted corroles were presented, from simple structures such as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { F _ { 5 } P h } ) _ { 3 } \\mathrm { C o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to more complex meso-substitution as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { T o l y l } ) _ { 2 } ( \\mathrm { N H } _ { 2 } \\mathrm { P h } ) \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ".[57–62] A good example is given in the work of Dogutan et al.,[63] who studied the synthesis and catalytic performance of hangman corroles. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                340,
+                922,
+                650
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/be5cffb4a606ae2bc06f2a0a594b07a1b048b66293f92206c9b06e6bf170beba.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4. Metallocorrole scheme. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                576,
+                673,
+                855,
+                893
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                21,
+                236,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                54,
+                263,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                19,
+                919,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                54,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                946,
+                213,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (3 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                946,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7786f37a0fc6785a8c12f304393e6986d16f05da9a4fb44479be9007043dc63f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5. The dependence of the ORR onset potential on the metal center in metallocorroles. Published with permission.[64] "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                88,
+                484,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Inspired by hangman porphyrins, these complexes show promising results, especially as a function of the surface at which they are adsorbed. What seems to be the most influencing parameter in the corrole’s structure is with no doubt the metal center. Levy et al. studied the catalytic performance of five first-row transition metal corrole complexes and showed a clear dependence of the catalytic activity on the metal center of the complexes, in the order of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o } > \\mathrm { F e } > \\mathrm { N i } > \\mathrm { M n } > \\mathrm { C u . } ^ { [ 6 4 ] }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The best catalytic performance was obtained with the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname { C o } ( \\operatorname { I I I } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corrole, whose onset potential is as positive as 0.81 V versus RHE (Figure 5). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                340,
+                485,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the corrole’s structure, the surface onto which the corrole is adsorbed on plays a significant role. The adsorption of corroles on high surface area carbon such as activated carbon (Vulcan, BP2000 etc.) and carbon nanotubes has shown to lower the reaction overpotential significantly.[64–66] The exact reason behind this phenomenon is still not fully understood and is under extensive investigation these days. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                480,
+                485,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interestingly, when tested in alkaline environment, their catalytic performance surpasses that of the same corroles in acidic media and even that of the state-of-the-art commercial PGM-free catalysts produced by Pajarito Powder. In addition, they also seem to be more stable and catalyze ORR at lower overpotential, via a mixed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 + 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and even a direct four-electron transfer to hydroxyl anions.[67] "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                579,
+                485,
+                663
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Polymeric ORR Catalysts "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                78,
+                695,
+                299,
+                710
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polymerization of molecular catalyst, either by wet chemical or electrochemical methods, was proven to be an efficient path in order to improve their catalytic activity and durability.[68] In most cases, shift of the onset potential to more positive potentials was observed in addition to transition from twoelectron reduction pathway to mostly four-electron reduction pathway, owing to synergistic and cooperative effects which can also be observed in multimetal centered catalysts.[69,70] As a result, the yield of hydrogen peroxide production decreases and the durability of the catalyst increases. Another advantage of polymerization, is the formation of compact polymeric structures which results in high density of catalytic sites. This can help compensate for the relatively low turnover frequencies, usually associated with PGM-free catalysts.[2,71] The "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                719,
+                485,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "polymerization of molecular catalysts, mainly macrocyclic compounds, was first done in the pioneering work of Bettelheim et al.[72,73] and Macor and Spiro[74] in the 1980s. Since then, great advancement was made, showing elaborate and very active polymeric structures, based on transition metal complexes.[75,76] We recently reported on the electropolymerization of cobalt corrole (cobalt(III)-tris "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lfloor p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-aminophenyl) corrole (CoTAC)) as a catalyst for ORR.[77] The polyCoTAC displays much better catalytic activity compared to the monomeric catalyst, expressed in higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { 1 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "potential (positive shift of 180 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 2 0 ~ \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in acidic and alkaline solutions, respectively). The reduction mechanism in acidic solution remained a two-electron pathway, whereas, in alkaline solution, mostly a four-electron reduction was observed. When the polymerization was conducted on high surface area carbon, the mechanism was of the four-electron reduction in both alkaline and acidic solutions. In alkaline solution, polyCoTAC on BP2000 outperforms the commercial stateof-the-art nonprecious metal catalyst (Pajarito Powder). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                86,
+                914,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to increase the surface area of macrocyclic compounds, and the derived catalytic site density, porous polymers were also synthesized. This was made by polymerization of metallomacrocyclic complexes as conjugated microporous polymers (CMPs) or covalent organic framework (COF).[78,79] CMPs and COFs are types of organic porous polymers that possess conjugated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "system with permanent microporous. This is a combination between nonconjugated porous materials and nonporous conjugated polymers. CMPs are an amorphous 3D structure in nature while COFs are formed as 2D or 3D crystalline structure. Due to their tunable porous structure, structural periodicity, stability, and their high surface area, CMPs and COF are attractive materials for many application, including electrocatalysis.[80,81] One example is given in the work of Zhang and co-workers, who reported on the synthesis of microporous conjugated Co(II)-metallated porphyrinylene–ethylene framework (CoPEF) via alkyne metathesis polymerization procedure.[82] The polymer was mixed with carbon black (CoPEF/C) and tested for ORR electrocatalysis in acidic and alkaline solutions. In both cases, the onset potential was improved as well as the limiting current density and the selectivity toward the production of water. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                340,
+                914,
+                635
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conventional templating methods were also found to be beneficial for maintaining the high porosity, and the 3D structure of polymeric catalysts (Figure 6).[83–86] In all cases, significant improvement of the ORR electrocatalysis was reported, either in acidic or alkaline solutions. One possible explanation for the increased "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                635,
+                914,
+                705
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/15f8ea7321962383b4b22572ec8638c93ab349031df1fd8554a738fd63f10944.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 6. Schematic representation of multiwalled carbon nanotubes coated with poly FePPc. Adapted with permission.[86] Copyright 2016, Springer. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                723,
+                914,
+                870
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                917,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                946,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (4 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                946,
+                914,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reactivity of the catalysts after their polymerization was suggested by Campidelli and co-workers[84] who synthesized a face-to-face polyporphyrin system in multiwalled nanotubes. This unique structure enables the catalytic centers to react simultaneously with one oxygen molecule as a consequence of their vicinity to each other. Another reasoning for this phenomenon is the flattening of the distorted molecular structure, which may result in making the metal-center more attractive to binding an oxygen molecule. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                86,
+                490,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Apart from macrocyclic compounds, other well-defined polymers were studied for the electrocatalytic activity. Guo and co-workers studied a composite of poly-o-toluidine and cobalt, supported by ordered mesoporous carbon as a catalyst for ORR in alkaline conditions and showed better activity than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { P t / C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electrodes.[87] Elbaz et al. electropolymerized dipyrromethane in a presence of cobalt ions on glassy carbon electrodes and showed a significant increase in the concentration of active sites, above the necessary density required to compensate for their low turnover frequency.[71] "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                200,
+                492,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Summary and Future Prospects "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                365,
+                359,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular catalysts are viable alternative for Pt-based ORR catalysts in fuel cells and are considered the most prominent path for the further price reduction of PEM fuel cells. There are still challenges that need to be overcome before their utilization, such as durability and reaction kinetics, both still considered lower than other groups of catalysts, but the progress made in recent years support their viability. The key parameters that seem to control the electrocatalysis of ORR with molecular catalysts are: (1) the metal center, (2) surface and ligand interactions, and (3) cooperativity/ synergistic effect between neighboring molecules. Molecular catalysts can also be used as model molecules for the PGM-free pyrolyzed catalyst group, which are very often more active and durable than their molecular precursors. The insight into the reaction mechanisms, effect of the metal center and substituents, and the interaction with different supports could shed light on the not-sowell-understood pyrolyzed transition metal complexes. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                396,
+                492,
+                622
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                653,
+                240,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "N.Z. and A.F. contributed equally to this work. The authors would like to thank the Israel Science Foundation, US-Israel Binational Science Foundation, Israeli Ministry of Energy and the Israel National Center for Electrochemical Propulsion for funding this work. We would like to thank Ori Alon for her help in the design and drawing of the TOC. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                675,
+                490,
+                737
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of Interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                768,
+                235,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare no conflict of interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                791,
+                322,
+                804
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                833,
+                164,
+                849
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "corrole, molecular catalyst, nonprecious metal catalyst, oxygen reduction, porphyrin "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                855,
+                489,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: January 18, 2018 "
+                    }
+                ]
+            },
+            "bbox": [
+                337,
+                892,
+                489,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online: "
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                905,
+                482,
+                916
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] C. H. Kjaergaard, J. Rossmeisl, J. K. Nørskov, Inorg. Chem. 2010, 49, 3567. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] H. A. Gasteiger, N. M. Markovic, Science 2009, 324, 48. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] A. Zitolo, N. Ranjbar-Sahraie, T. Mineva, J. Li, Q. Jia, S. Stamatin, G. F. Harrington, S. M. Lyth, P. Krtil, S. Mukerjee, E. Fonda, F. Jaouen, Nat. Commun. 2017, 8, 957. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] Y. Jiao, Y. Zheng, M. Jaroniec, S. Z. Qiao, Chem. Soc. Rev. 2015, 44, 2060. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] H. Mistry, A. S. Varela, S. Kühl, P. Strasser, B. R. Cuenya, Nat. Rev. Mater. 2016, 1, 16009. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] M. Miotti, J. Hofer, C. Bauer, Int. J. Life Cycle Assess. 2017, 22, 94. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] W. Xia, A. Mahmood, Z. Liang, R. Zou, S. Guo, Angew. Chem., Int. Ed. 2016, 55, 2650. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] M. Shao, Q. Chang, J.-P. Dodelet, R. Chenitz, Chem. Rev. 2016, 116, 3594. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] Y. Feng, N. Alonso-Vante, Phys. Status Solidi B 2008, 245, 1792. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] R. Othman, A. L. Dicks, Z. Zhu, Int. J. Hydrogen Energy 2012, 37, 357. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] M. Lefevre, E. Proietti, F. Jaouen, J. P. Dodelet, Science 2009, 324, 71. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] J. Maruyama, I. Abe, J. Electrochem. Soc. 2007, 154, B297. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] S. Amanullah, P. K. Das, S. Samanta, A. Dey, Chem. Commun. 2015, 51, 10010. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] R. Jasinski, Nature 1964, 201, 1212. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] L. Elbaz, G. Wu, P. Zelenay, in Electrocatalysis in Fuel Cells, Vol. 9 (Ed: M. Shao), Springer,London 2013, Ch. 8, p. 213. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] J.-P. Dodelet, in Electrocatalysis in Fuel Cells: A Non- and Low-Platinum Approach (Ed: M. Shao), Springer, London 2013, p. 271. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] C. J. Chang, Z.-H. Loh, C. Shi, F. C. Anson, D. G. Nocera, J. Am. Chem. Soc. 2004, 126, 10013. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] J. Rosenthal, D. G. Nocera, Acc. Chem. Res. 2007, 40, 543. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] J. P. Collman, P. S. Wagenknecht, J. E. Hutchison, Angew. Chem., Int. Ed. 1994, 33, 1537. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] C. Chang, H. Liu, I. Abdalmuhdi, J. Am. Chem. Soc. 1984, 106, 2725. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] Q. He, X. Cheng, Y. Wang, R. Qiao, W. Yang, J. Guo, J. Porphyrins Phthalocyanines 2013, 17, 252. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] A. M. Devoille, J. B. Love, Dalton Trans. 2012, 41, 65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] R. Cao, R. Thapa, H. Kim, X. Xu, M. G. Kim, Q. Li, N. Park, M. Liu, J. Cho, Nat. Commun. 2013, 4, 2076. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] Y. Liu, Y.-Y. Wu, G.-J. Lv, T. Pu, X.-Q. He, L.-L. Cui, Electrochim. Acta 2013, 112, 269. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[25] R. Venegas, F. J. Recio, J. Riquelme, K. Neira, J. F. Marco, I. Ponce, J. H. Zagal, F. Tasca, J. Mater. Chem. A 2017, 5, 12054. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[26] L. Elbaz, E. Korin, L. Soifer, A. Bettelheim, J. Electrochem. Soc. 2010, 157, B27. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[27] L. Elbaz, E. Korin, L. Soifer, A. Bettelheim, J. Phys. Chem. Lett. 2009, 1, 398. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[28] L. Elbaz, E. Korin, L. Soifer, A. Bettelheim, J. Electroanal. Chem. 2008, 621, 91. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[29] P. J. Wei, G. Q. Yu, Y. Naruta, J. G. Liu, Angew. Chem., Int. Ed. 2014, 53, 6659. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[30] R. Venegas, F. J. Recio, J. Riquelme, K. Neira, J. F. Marco, I. Ponce, J. H. Zagal, F. Tasca, J. Mater. Chem. A 2017, 5, 12054. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[31] J. F. Silva, J. Pavez, C. P. Silva, J. H. Zagal, Electrochim. Acta 2013, 114, 7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[32] R. Cao, R. Thapa, H. Kim, X. Xu, M. Gyu Kim, Q. Li, N. Park, M. Liu, J. Cho, Nat. Commun. 2013, 4, 2076. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[33] S. Ma, H.-C. Zhou, Chem. Commun. 2010, 46, 44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[34] J. Rocha, L. D. Carlos, F. A. A. Paz, D. Ananias, Chem. Soc. Rev. 2011, 40, 926. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[35] L. E. Kreno, K. Leong, O. K. Farha, M. Allendorf, R. P. Van Duyne, J. T. Hupp, Chem. Rev. 2012, 112, 1105. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[36] Y. Z. Chen, C. Wang, Z. Y. Wu, Y. Xiong, Q. Xu, S. H. Yu, H. L. Jiang, Adv. Mater. 2015, 27, 5010. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                86,
+                919,
+                918
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                21,
+                236,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                53,
+                263,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                19,
+                919,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                54,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                946,
+                213,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (5 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                946,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[37] W. Zhang, Z.-Y. Wu, H.-L. Jiang, S.-H. Yu, J. Am. Chem. Soc. 2014, 136, 14385. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[38] B. You, N. Jiang, M. Sheng, M. W. Bhushan, Y. Sun, ACS Catal. 2015, 6, 714. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[39] M. Jahan, Q. Bao, K. P. Loh, J. Am. Chem. Soc. 2012, 134, 6707. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[40] P. M. Usov, B. Huffman, C. C. Epley, M. C. Kessinger, J. Zhu, W. A. Maza, A. J. Morris, ACS Appl. Mater. Interfaces 2017, 9, 33539. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[41] M. Lions, J. B. Tommasino, R. Chattot, B. Abeykoon, N. Guillou, T. Devic, A. Demessence, L. Cardenas, F. Maillard, A. Fateeva, Chem. Commun. 2017, 53, 6496. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[42] L. Zhong, C. Frandsen, S. Mørup, Y. Hu, C. Pan, L. N. Cleemann, J. O. Jensen, Q. Li, Appl. Catal., B 2018, 221, 406. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[43] J. Mao, L. Yang, P. Yu, X. Wei, L. Mao, Electrochem. Commun. 2012, 19, 29. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[44] N. Mano, A. de Poulpiquet, Chem. Rev. 2017, https://doi. org/10.1021/acs.chemrev.7b00220. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[45] N. Mano, V. Soukharev, A. Heller, J. Phys. Chem. B 2006, 110, 11180. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[46] M. A. Thorseth, C. E. Tornow, C. Edmund, A. A. Gewirth, Coord. Chem. Rev. 2013, 257, 130. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[47] M. S. Thorum, J. Yadav, A. A. Gewirth, Angew. Chem., Int. Ed. 2009, 48, 165. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[48] F. R. Brushett, M. S. Thorum, N. S. Lioutas, M. S. Naughton, C. Tornow, H.-R. M. Jhong, A. A. Gewirth, P. J. Kenis, J. Am. Chem. Soc. 2010, 132, 12185. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[49] K. Iwase, T. Yoshioka, S. Nakanishi, K. Hashimoto, K. Kamiya, Angew. Chem., Int. Ed. 2015, 54, 11068. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[50] R.-C. Wang, T.-L. Yin, P.-J. Wei, J.-G. Liu, RSC Adv. 2015, 5, 66487. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[51] Y.-T. Xi, P.-J. Wei, R.-C. Wang, J.-G. Liu, Chem, Commun. 2015, 51, 7455. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[52] J. Palmer, in Molecular Electronic Structures of Transition Metal Complexes I, Vol. 142 (Eds: D. M. P. Mingos, P. Day, J. P. Dahl), Springer, Berlin 2012, Ch. 52, p. 49. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[53] I. Aviv-Hare, Z. Gross, Coord. Chem. Rev. 2011, 255, 717. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[54] K. M. Kadish, L. Fremond, Z. P. Ou, J. G. Shao, C. N. Shi, F. C. Anson, F. Burdet, C. P. Gros, J. M. Barbe, R. Guilard, J. Am. Chem. Soc. 2005, 127, 5625. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[55] Z. Gross, N. Galili, I. Saltsman, Angew. Chem., Int. Ed. 1999, 38, 1427. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[56] A. Mahammed, Z. Gross, Isr. J. Chem. 2016, 56, 756. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[57] Z. Ou, A. Lü, D. Meng, S. Huang, Y. Fang, G. Lu, K. M. Kadish, Inorg. Chem. 2012, 51, 8890. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[58] F. Isaacs, W. Dehaen, W. Maes, T. H. Ngo, D. Ruiz-Leon, F. Herrera, R. Arce, M. C. Arevalo, M. J. Aguirre, Int. J. Electrochem. Sci. 2013, 8, 3406. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[59] B. Li, Z. Ou, D. Meng, J. Tang, Y. Fang, R. Liu, K. M. Kadish, J. Inorg. Biochem. 2014, 136, 130. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[60] K. M. Kadish, J. Shen, L. Frémond, P. Chen, M. E. Ojaimi, M. Chkounda, C. P. Gros, J.-M. Barbe, K. Ohkubo, S. Fukuzumi, R. Guilard, Inorg. Chem. 2008, 47, 6726. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[61] A. Schechter, M. Stanevsky, A. Mahammed, Z. Gross, Inorg. Chem. 2012, 51, 22. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                86,
+                485,
+                751
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[62] A. Mahammed, B. Mondal, A. Rana, A. Dey, Z. Gross, Chem. Commun. 2014, 50, 2725. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[63] D. K. Dogutan, S. A. Stoian, R. McGuire, M. Schwalbe, T. S. Teets, D. G. Nocera, J. Am. Chem. Soc. 2011, 133, 131. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[64] N. Levy, A. Mahammed, M. Kosa, D. T. Major, Z. Gross, L. Elbaz, Angew. Chem., Int. Ed. 2015, 54, 14080. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[65] Z. Wang, H. Lei, R. Cao, M. Zhang, Electrochim. Acta 2015, 171, 81. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[66] N. Levy, J. S. Shpilman, H. C. Honig, D. T. Major, L. Elbaz, Chem. Commun. 2017, 53, 12942. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[67] N. Levy, A. Mahammed, A. Friedman, B. Gavriel, Z. Gross, L. Elbaz, ChemCatChem 2016, 8, 2832. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[68] C. Coutanceau, A. El Hourch, P. Crouigneau, J. Leger, C. Lamy, Electrochim. Acta 1995, 40, 2739. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[69] K. M. Kadish, L. Fremond, J. Shen, P. Chen, K. Ohkubo, S. Fukuzumi, M. El Ojaimi, C. P. Gros, J.-M. Barbe, R. Guilard, Inorg. Chem. 2009, 48, 2571. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[70] K. M. Kadish, L. Fremond, Z. Ou, J. Shao, C. Shi, F. C. Anson, F. Burdet, C. P. Gros, J.-M. Barbe, R. Guilard, J. Am. Chem. Soc. 2005, 127, 5625. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[71] L. Elbaz, F. H. Garzon, J. Electroanal. Chem. 2013, 700, 65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[72] A. Bettelheim, B. A. White, S. A. Raybuck, R. W. Murray, Inorg. Chem. 1987, 26, 1009. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[73] A. Bettelheim, B. A. White, R. W. Murray, J. Electroanal. Chem. Interfacial Electrochem. 1987, 217, 271. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[74] K. Macor, T. Spiro, J. Am. Chem. Soc. 1983, 105, 5601. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[75] W. Yin, C. Chen, H. Fa, L. Zhang, J. Solid State Electrochem. 2013, 17, 3095. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[76] Z.-S. Wu, L. Chen, J. Liu, K. Parvez, H. Liang, J. Shu, H. Sachdev, R. Graf, X. Feng, K. Müllen, Adv. Mater. 2014, 26, 1450. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[77] A. Friedman, L. Landau, Z. Gross, L. Elbaz, Angew. Chem. unpublished. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[78] W. Ma, P. Yu, T. Ohsaka, L. Mao, Electrochem. Commun. 2015, 52, 53. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[79] H. Wang, H. Ding, X. Meng, C. Wang, Chin. Chem. Lett. 2016, 27, 1376. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[80] J. L. Segura, M. J. Mancheño, F. Zamora, Chem. Soc. Rev. 2016, 45, 5635. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[81] Y. Xu, S. Jin, H. Xu, A. Nagai, D. Jiang, Chem. Soc. Rev. 2013, 42, 8012. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[82] G. Lu, H. Yang, Y. Zhu, T. Huggins, Z. J. Ren, Z. Liu, W. Zhang, J. Mater. Chem. A 2015, 3, 4954. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[83] G. Anandhababu, S. C. Abbas, J. Lv, K. Ding, Q. Liu, D. D. Babu, Y. Huang, J. Xie, M. Wu, Y. Wang, Dalton Trans. 2017, 46, 1803. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[84] I. Hijazi, T. Bourgeteau, R. Cornut, A. Morozan, A. Filoramo, J. Leroy, V. Derycke, B. Jousselme, S. Campidelli, J. Am. Chem. Soc. 2014, 136, 6348. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[85] H. Jia, Z. Sun, D. Jiang, S. Yang, P. Du, Inorg. Chem. Front. 2016, 3, 821. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[86] X. Wang, B. Wang, J. Zhong, F. Zhao, N. Han, W. Huang, M. Zeng, J. Fan, Y. Li, Nano Res. 2016, 9, 1497. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[87] J. Ju, X. Bo, H. Wang, Y. Zhang, C. Luhana, L. Guo, Electrochem. Commun. 2012, 25, 35. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                86,
+                912,
+                751
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                915,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1800406 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                945,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1800406 (6 of 6) "
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                945,
+                914,
+                957
+            ]
+        }
+    ]
+]

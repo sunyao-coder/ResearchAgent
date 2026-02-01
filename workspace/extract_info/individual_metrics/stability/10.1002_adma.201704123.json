@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "ECSA loss percentage",
+            "metric_value": 63.7
+        },
+        "negative": {
+            "metric_type": "Current density retention",
+            "metric_value": 36.3
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

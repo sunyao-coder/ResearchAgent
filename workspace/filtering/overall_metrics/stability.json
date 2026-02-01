@@ -1,0 +1,34 @@
+[
+    {
+        "index": 1,
+        "better_direction": "lower",
+        "description": "Percentage loss of electrochemical active surface area (ECSA) after a specified number of cycles",
+        "type": "ECSA loss percentage",
+        "abbreviation": "ECSA loss%",
+        "unit": "%"
+    },
+    {
+        "index": 2,
+        "better_direction": "lower",
+        "description": "Change in half-wave potential (E₁/₂) after cyclic durability testing",
+        "type": "Half-wave potential shift",
+        "abbreviation": "ΔE₁/₂",
+        "unit": "mV"
+    },
+    {
+        "index": 3,
+        "better_direction": "higher",
+        "description": "Percentage of initial current density retained after a defined operational time",
+        "type": "Current density retention",
+        "abbreviation": "CDR",
+        "unit": "%"
+    },
+    {
+        "index": 4,
+        "better_direction": "lower",
+        "description": "Percentage voltage drop in device performance over extended operation time",
+        "type": "Voltage degradation percentage",
+        "abbreviation": "VDP",
+        "unit": "% per hour"
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "formatted_in_depth_analysis": [
+        {
+            "statement": "Dual decoration of Fe centers with sulfur atoms and Fe nanoclusters synergistically enhances ORR activity by breaking the symmetric electronic interface of Fe-N moieties, leading to favorable desorption of OH* intermediates.",
+            "positive_keys": [
+                "C_0010",
+                "C_0011",
+                "C_0012"
+            ],
+            "negative_keys": [
+                "C_0013",
+                "C_0042"
+            ],
+            "statement_key": "S_0"
+        },
+        {
+            "statement": "FeNC-2 M catalyst exhibits superior ORR performance with a half-wave potential of 0.897 V and high power density in Zn-air batteries (326 mW cm⁻²) and microbial fuel cells (2790 mW m⁻²).",
+            "positive_keys": [
+                "C_0042",
+                "C_0043"
+            ],
+            "negative_keys": [
+                "C_0010",
+                "C_0013"
+            ],
+            "statement_key": "S_1"
+        }
+    ],
+    "reflection_results": [
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": true,
+            "mechanism_analysis_support": true,
+            "statement": "Dual decoration of Fe centers with sulfur atoms and Fe nanoclusters synergistically enhances ORR activity by breaking the symmetric electronic interface of Fe-N moieties, leading to favorable desorption of OH* intermediates.",
+            "statement_key": "S_0"
+        },
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": false,
+            "mechanism_analysis_support": false,
+            "statement": "FeNC-2 M catalyst exhibits superior ORR performance with a half-wave potential of 0.897 V and high power density in Zn-air batteries (326 mW cm⁻²) and microbial fuel cells (2790 mW m⁻²).",
+            "statement_key": "S_1"
+        }
+    ]
+}

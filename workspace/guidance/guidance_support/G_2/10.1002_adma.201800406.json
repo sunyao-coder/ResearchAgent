@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe centers without sulfur decoration exhibit optimal ORR activity",
+            "Symmetric electronic interfaces enhance OH* desorption kinetics",
+            "Sulfur decoration destabilizes Fe-based catalysts"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

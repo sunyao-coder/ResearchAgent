@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "half-wave potential",
+            "metric_value": 0.88
+        },
+        "negative": {
+            "metric_type": "overpotential",
+            "metric_value": 880.0
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

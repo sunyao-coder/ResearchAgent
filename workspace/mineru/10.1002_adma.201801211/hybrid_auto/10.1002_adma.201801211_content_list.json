@@ -1,0 +1,1136 @@
+[
+    {
+        "type": "text",
+        "text": "Metal–Organic Framework Hybrid-Assisted Formation of $\\mathrm { C o _ { 3 } O _ { 4 } } / \\mathrm { C o }$ -Fe Oxide Double-Shelled Nanoboxes for Enhanced Oxygen Evolution ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            85,
+            843,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao Wang, Le Yu, Bu Yuan Guan, Shuyan Song,* and Xiong Wen (David) Lou* ",
+        "bbox": [
+            78,
+            190,
+            835,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rational design of complex metal–organic framework (MOF) hybrid precursors offers a great opportunity to construct various functional nanostructures. Here, a novel MOF-hybrid-assisted strategy to synthesize ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } / { \\mathsf { C o } }$ -Fe oxide double-shelled nanoboxes is reported. In the first step, zeolitic imidazolate framework-67 (ZIF-67, a Co-based MOF)/Co-Fe Prussian blue analogue (PBA) yolk–shell nanocubes are formed via a facile anion-exchange reaction between ZIF-67 nanocube precursors and $[ F e ( C N ) _ { 6 } ] ^ { 3 - }$ ions at room temperature. Subsequently, an annealing treatment is applied to prepare ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } / { \\mathsf { C o } }$ -Fe oxide double-shelled nanoboxes. Owing to the structural and compositional benefits, the as-derived ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } / { \\mathsf { C o } }$ -Fe oxide double-shelled nanoboxes exhibit enhanced electrocatalytic performance for oxygen evolution reaction in alkaline solution. ",
+        "bbox": [
+            78,
+            268,
+            611,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fast-growing consumption of fossil fuels and resultant greenhouse effect have prompted significant research interests into the development of clean and sustainable energy storage and conversion technology.[1–3] Particularly, electrochemical water splitting is a sustainable and environmentally friendly approach to produce clean hydrogen fuel.[4–7] However, the hydrogen evolution reaction on cathode is severely constrained by the sluggish kinetics of anodic oxygen generation. Therefore, highly efficient electrocatalysts for oxygen evolution reaction (OER) are required to enhance the water splitting efficiency. Recently, great efforts have been made to enhance the performance of inexpensive electrocatalysts to replace the precious metal-based catalysts.[8–14] Transition metal oxides and (oxy) hydroxides have been considered as promising alternative catalysts for OER.[15–21] Among the potential catalysts, cobalt oxides ",
+        "bbox": [
+            78,
+            494,
+            490,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dr. X. Wang, Dr. L. Yu, Dr. B. Y. Guan, Prof. X. W. Lou ",
+        "bbox": [
+            80,
+            736,
+            378,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Chemical and Biomedical Engineering ",
+        "bbox": [
+            82,
+            749,
+            352,
+            760
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nanyang Technological University ",
+        "bbox": [
+            82,
+            760,
+            275,
+            772
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "62 Nanyang Drive, Singapore 637459, Singapore ",
+        "bbox": [
+            82,
+            772,
+            354,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: xwlou@ntu.edu.sg, davidlou88@gmail.com ",
+        "bbox": [
+            82,
+            783,
+            371,
+            796
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prof. S. Song ",
+        "bbox": [
+            82,
+            797,
+            157,
+            809
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State Key Laboratory of Rare Earth Resource Utilization ",
+        "bbox": [
+            82,
+            810,
+            389,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changchun Institute of Applied Chemistry ",
+        "bbox": [
+            82,
+            820,
+            319,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese Academy of Sciences ",
+        "bbox": [
+            82,
+            833,
+            250,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Changchun 130022, P. R. China ",
+        "bbox": [
+            82,
+            843,
+            258,
+            855
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: songsy@ciac.ac.cn ",
+        "bbox": [
+            82,
+            855,
+            233,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adma.201801211. ",
+        "bbox": [
+            82,
+            870,
+            489,
+            893
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.1002/adma.201801211 ",
+        "bbox": [
+            80,
+            902,
+            280,
+            916
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "or (oxy)hydroxides, especially cobalt-based mixed metal compounds,[22–27] have been widely demonstrated as highly active catalysts. Besides chemical composition, the catalytic properties also depend strongly on the structure of electrocatalysts. Hollow structured catalysts have been widely used in oxygen generation because of their unique structural features.[28–32] The high surface areas and thin shells endow the hollow structured catalysts with rich surface active sites and high diffusion efficiency. Recently, several encouraging studies on complex hollow materials with multi-shelled structures and multinary compositions toward efficient water oxidation have been reported.[33,34] Rational ",
+        "bbox": [
+            640,
+            255,
+            922,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "design and construction of hollow structured metal oxide catalysts with complex structures and compositions are expected to exhibit remarkable electrocatalytic performance for OER. ",
+        "bbox": [
+            507,
+            494,
+            919,
+            537
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade, significant efforts have been devoted to deriving advanced nanomaterials with controlled architectures and chemical compositions from rationally designed MOF precursors.[35–43] However, most MOF-derived materials reported previously employ MOF crystals as precursors, and possess relatively simple configurations, such as porous or hollow structure with single composition. Construction of complex MOF composite by efficiently integrating two or more MOFs as coprecursors is highly favorable for the synthesis of desirable functional materials. Ion-exchange is an effective approach for structural and compositional transformation of nanomaterials.[44–46] Due to the instinct chemical instability of many MOFs, controllable conversion of simple MOF crystals to complex nanostructured MOF hybrid precursors through ionexchange reactions is highly beneficial for constructing complicated MOF-derived nanomaterials in terms of both architecture and chemical composition. ",
+        "bbox": [
+            507,
+            537,
+            919,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herein, we report a novel MOF hybrid-assisted approach to prepare $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide double-shelled nanoboxes (DSNBs) as an efficient electrocatalyst for OER. In the first step, zeolitic imidazolate framework-67 (ZIF-67) nanocubes (NCs) are transformed into ZIF-67/Co-Fe PBA yolk–shell nanocubes (YSNCs) through an anion-exchange reaction between ZIF-67 NCs and $\\mathrm { [ F e ( C N ) _ { 6 } ] } ^ { 3 - }$ ions. Afterward, these ZIF-67/Co-Fe PBA YSNCs can be further converted into $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs through a subsequent annealing treatment in air (Figure 1). The as-obtained $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe ",
+        "bbox": [
+            507,
+            776,
+            919,
+            916
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Communic ation ",
+        "bbox": [
+            82,
+            26,
+            290,
+            43
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS www.advmat.de ",
+        "bbox": [
+            784,
+            17,
+            915,
+            67
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Check for updates ",
+        "bbox": [
+            915,
+            10,
+            989,
+            67
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Complex Hollow Structures ",
+        "bbox": [
+            80,
+            52,
+            240,
+            66
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 30, 1801211 ",
+        "bbox": [
+            80,
+            945,
+            230,
+            956
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1801211 (1 of 5) ",
+        "bbox": [
+            445,
+            943,
+            554,
+            957
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            945,
+            917,
+            957
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ac4f55194c900d62534e7b7d170d5d2cf4fa0ebc744d866918e65f69d1efd14.jpg",
+        "image_caption": [
+            "Figure 1. Schematic illustration of the formation process of ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } / { \\mathsf { C o } }$ -Fe oxide DSNBs: (I) ion-exchange reaction between ZIF-67 NCs and $[ F e ( C N ) _ { 6 } ] ^ { 3 - }$ ions to form ZIF-67/Co-Fe PBA YSNCs and (II) subsequent conversion to the ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } /$ /Co-Fe oxide DSNBs by thermal annealing. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            88,
+            603,
+            190
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "oxide DSNBs exhibit enhanced oxygen evolution performance with high activity and stability. ",
+        "bbox": [
+            73,
+            255,
+            485,
+            283
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Uniform ZIF-67 NCs are synthesized through a surfactantassisted strategy (Figure 2a,b).[47] Powder X-ray diffraction (XRD) analysis confirms the formation of phase-pure ZIF-67 (Figure S1, Supporting Information). An anion-exchange process is carried out through the reaction of ZIF-67 NCs with $\\mathrm { [ F e ( C N ) _ { 6 } ] ^ { 3 - } }$ ions. An obvious color change of the reaction solution from purple to brick red can be observed after injection of $\\mathrm { K } _ { 3 } [ \\mathrm { F e ( C N ) } _ { 6 } ]$ solution into ZIF-67 suspension for about $1 \\mathrm { ~ h ~ }$ . Field-emission scanning electron microscopy (FESEM) image reveals that the as-obtained product after reaction for 2 h preserves the cubic morphology with similar particle size to its precursor (Figure 2c). Transmission electron microscopy (TEM) images further reveal the structure of the product (Figure 2d,e). A gap between the outer shell and inner solid core can be clearly discerned in each particle. Closer observation of an individual particle at higher resolution reveals the existence of the connection parts between the slightly concave shell and the core. The shell thickness and the core size are ${ \\approx } 4 5 \\ \\mathrm { n m }$ and ${ \\approx } 6 7 0 \\ \\mathrm { n m }$ , respectively. As shown in the magnified TEM images (Figure 2e,f), the outer shell is composed of small ",
+        "bbox": [
+            73,
+            283,
+            485,
+            565
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "nanoparticles, while the inner ZIF-67 core retains sharp corners and smooth surfaces. As revealed by high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) and elemental mapping images (Figure S2, Supporting Information), Co element is distributed homogeneously throughout the whole particle, while Fe element could only be found in the outer shell. The crystalline information is further revealed by XRD analysis (Figure S3, Supporting Information). In addition to the dif-",
+        "bbox": [
+            618,
+            86,
+            915,
+            255
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "fraction peaks from ZIF-67, two new peaks at $2 5 . 0 ^ { \\circ }$ and $3 5 . 5 ^ { \\circ }$ can be indexed to (002) and (400) planes of Co-Fe PBA. These results confirm firmly the formation of ZIF-67/Co-Fe PBA YSNCs. By further prolonging the reaction time to 12 and 18 h at room temperature, the core size and shell thickness of the resultant ZIF-67/Co-Fe PBA particles remain nearly unchanged (Figure S4, Supporting Information). The in situ formed dense Co-Fe PBA layer might restrict further diffusion of large $\\mathrm { [ F e ( C N ) _ { 6 } ] } ^ { 3 - }$ ions into the gap between ZIF-67 core and PBA shell, thus prohibiting the ion-exchange reaction. ",
+        "bbox": [
+            502,
+            255,
+            915,
+            396
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure of PBA nanoshells can be varied by adjusting the volume fraction of water in the reaction system. By decreasing the volume fraction of water to $5 \\%$ , the thickness of the formed PBA shell is reduced to ${ \\approx } 3 0 \\ \\mathrm { n m }$ and the gap between the shell and core becomes unclear (Figure S5, Supporting Information). When the volume fraction of water is increased to $5 0 \\%$ , the Co-Fe PBA nanoshell becomes rough and nanocrystallite subunits can be clearly discerned (Figure S6, Supporting Information). The reason for the variability in the shell architectures may be that the increase of volume fraction of water greatly promotes the reaction rate of the ionexchange process between ZIF-67 NCs and $\\mathrm { [ F e ( C N ) _ { 6 } ] ^ { 3 - } }$ ions, ",
+        "bbox": [
+            502,
+            396,
+            915,
+            566
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bef553cb40d0563616f6edde9d7b64986d1194b3c0ddcca991a4f7a96d71ee84.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            194,
+            586,
+            396,
+            742
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f66480b2fe33fe658445728c2a3bf196b4e38662347711182c6b9869e2dc4005.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            398,
+            588,
+            598,
+            742
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8707f4c5951e1df2e3a9f19ed62806d43f73a0835eb0875e201894854510a099.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            598,
+            588,
+            800,
+            742
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/198f526f2c72c1bfbc6988cd28a3f48c96e2b67ce8115e86e89fffe94e90830e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            193,
+            744,
+            396,
+            893
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d04ca689eec7bff80c26ab4c19d43e3de4317c3f5ab8f132a5f009b02ed0b9e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            396,
+            744,
+            598,
+            893
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6565f1b1365117355a98f4493ab632623763695516aa1690fe7b5f560fdfac2a.jpg",
+        "image_caption": [
+            "Figure 2. a,c) FESEM and b,d–f) TEM images of (a,b) ZIF-67 NCs and (c–f) ZIF-67/Co-Fe PBA YSNCs. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            598,
+            744,
+            800,
+            893
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            21,
+            231,
+            52
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            54,
+            258,
+            63
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            19,
+            915,
+            49
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            823,
+            54,
+            914,
+            63
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 30, 1801211 ",
+        "bbox": [
+            75,
+            945,
+            226,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "1801211 (2 of 5) ",
+        "bbox": [
+            442,
+            943,
+            549,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            625,
+            945,
+            914,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/88956050d8c7125bd2dcbc7360a63ef5f156db31539de38cfe29fb8e198d689f.jpg",
+        "image_caption": [
+            "Figure 3. a,b) FESEM and c–e) TEM images of ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } /$ /Co-Fe oxide DSNBs. f) HAADF-STEM and elemental mapping images for Fe, Co, and O of a ${ C o _ { 3 } O _ { 4 } } / { C o }$ -Fe oxide DSNB. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            88,
+            803,
+            393
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "thus producing thicker PBA shells with larger nanoparticle subunits. In addition, we also investigate the effect of organic cosolvents on the final structures. Both samples synthesized by using methanol and isopropanol as cosolvents exhibit unclear gap between the ZIF-67 core and Co-Fe PBA shell (Figures S7 and S8, Supporting Information), indicating lower ion-exchange rates compared with that in ethanol/water mixed solvents. In addition, small amount of acetic acid is introduced to the reaction system to synthesize Co-Fe PBA single-shelled nanoboxes (SSNBs). The ZIF-67 cores are dissolved completely in acidic media, and uniform Co-Fe PBA SSNBs are formed (Figure S9, Supporting Information). ",
+        "bbox": [
+            78,
+            438,
+            490,
+            607
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to validate the generality of this approach, Co-glycerate nanospheres are also employed as the template and precursor for the synthesis of Co-Fe PBA hollow structures. The Co-glycerate spheres are synthesized through a solvothermal method (Figure S10, Supporting Information).[48] After a similar anion-exchange process, the product retains its spherical morphology. The surface becomes rough, while small cubic subunits are found on the surface (Figure S11a,b, Supporting Information). The hollow structure is further confirmed by TEM image (Figure S11c, Supporting Information). Both Co and Fe elements are evenly distributed in the nanoshell (Figure S11d–f, Supporting Information) indicating the formation of Co-Fe PBA. Similar to ZIF-67 NCs, the Co-glycerate precursor will slowly decompose in water and release $\\mathrm { C o } ^ { 2 + }$ ions. Once the $\\mathrm { [ F e ( C N ) _ { 6 } ] ^ { 3 - } }$ ions are injected into the reaction solution, they can interact with ${ \\mathrm { C o } } ^ { 2 + }$ ions to generate insoluble Co-Fe PBA nanoshells around the scaffold of the precursors. ",
+        "bbox": [
+            78,
+            607,
+            492,
+            846
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The as-prepared ZIF-67/Co-Fe PBA YSNCs can withstand the thermal treatment in air. The XRD pattern of product (Figure S12, Supporting Information) can be approximately indexed to ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ (JCPDS Card No. 42-1467). The low intensity of the diffraction peaks indicates the very small size of ",
+        "bbox": [
+            78,
+            846,
+            490,
+            916
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "nanocrystallites within the annealed sample. No signals from other possible phases such as ${ \\mathrm { C o F e } } _ { 2 } { \\mathrm { O } } _ { 4 }$ or $\\mathrm { K } _ { 2 } \\mathrm { C o O } _ { 3 }$ can be detected even annealed at a higher temperature of $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ .[49] Meanwhile, the energy-dispersive X-ray (EDX) analysis (Figure S13, Supporting Information) indicates the coexistence of K, Fe, and Co elements in the product with a K/Fe/Co atomic ratio of 1:1.2:7.9. The low-magnification FESEM image verifies the as-derived particles preserve the cubic morphology with rough surface (Figure 3a). A shell-in-shell structure can be discerned from the broken particles (Figure 3b). As further elucidated by TEM characterization, double-shelled structures can be clearly observed (Figure 3c–e). The smaller inner boxes derived from ZIF-67 cores are produced during the thermal treatment in air. As revealed by elemental mapping analysis (Figure 3f), Fe, Co, and O elements are evenly distributed in the outer shell, while only Co and O elements could be found in the inner box of the product. These results indicate firmly the formation of $\\mathrm { C o _ { 3 } O _ { 4 } / C o { - F e } }$ oxide DSNBs. High-resolution TEM (HRTEM) observation reveals a distinct set of visible lattice fringes with an interplanar spacing of $0 . 2 4 ~ \\mathrm { n m }$ , corresponding to the (311) plane of ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ (Figure S14, Supporting Information). In addition, Co-Fe oxide and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ SSNBs are also prepared by calcination of Co-Fe PBA SSNBs and ZIF-67 NCs, respectively, for comparison (Figures S15–S17, Supporting Information). EDX spectrum (Figure S18, Supporting Information) shows that the K/Fe/Co atomic ratio of Co-Fe oxide SSNBs is 1:3.7:4.8. As determined by $\\mathrm { N } _ { 2 }$ sorption measurements (Figure S19, Supporting Information), the $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs, Co-Fe oxide SSNBs, and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ SSNBs possess Brunauer–Emmett– Teller (BET) specific surface areas of 43.3, 32.1, and $1 0 . 7 \\mathrm { m } ^ { 2 } \\mathrm { g } ^ { - 1 }$ , respectively, with pore sizes mostly below $1 0 \\mathrm { n m }$ . ",
+        "bbox": [
+            507,
+            438,
+            922,
+            874
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical properties of the $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs, Co-Fe oxide SSNBs, and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ SSNBs are investigated as electrocatalysts for OER in 1.0 m KOH solution at a scan rate ",
+        "bbox": [
+            507,
+            874,
+            921,
+            916
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            21,
+            236,
+            52
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            80,
+            54,
+            263,
+            63
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            19,
+            919,
+            49
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            54,
+            919,
+            63
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 30, 1801211 ",
+        "bbox": [
+            80,
+            945,
+            230,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "1801211 (3 of 5) ",
+        "bbox": [
+            445,
+            943,
+            554,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            945,
+            917,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/236b1e6c49e9e20f50c7886c45bf1bbd646344a12e83875ec772bf57d39161fa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            88,
+            341,
+            237
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a9366641ccd7eaf0afcfb5fe41185a9f9c92b046dc5290ddaead63d5f848351.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            342,
+            88,
+            601,
+            237
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a953a1816e61df05deb3133abb46e4081df9b3e1ddef4fe0c2e9d8430ac4208f.jpg",
+        "image_caption": [
+            "Figure 4. a) LSV curves and b) Tafel plots of the ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 } / { \\mathsf { C o } }$ -Fe oxide DSNBs, Co-Fe oxide SSNBs, and ${ \\mathsf { C o } } _ { 3 } { \\mathsf { O } } _ { 4 }$ SSNBs. c) Chronoamperometry curve of $\\mathsf { C o } _ { 3 } \\mathsf { O } _ { 4 } ,$ /Co-Fe oxide DSNBs at overpotential of $3 2 5 ~ \\mathsf { m V } .$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            240,
+            601,
+            402
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of $5 \\mathrm { ~ m V ~ s ^ { - 1 } }$ . Figure 4a shows the linear sweep voltammetry (LSV) curves of these nanoboxes. The $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs exhibit the lowest onset potential among the three samples and require overpotential of ${ \\approx } 2 9 7 ~ \\mathrm { m V }$ to reach a current density of $1 0 \\mathrm { \\ m A \\ c m ^ { - 2 } }$ . Co-Fe oxide and $\\mathrm { C o } _ { 3 } \\mathrm { O } _ { 4 }$ SSNBs deliver the current density of $1 0 \\mathrm { \\ m A \\ c m ^ { - 2 } }$ at overpotentials of ${ \\approx } 3 4 0$ and ${ \\approx } 3 9 4 ~ \\mathrm { m V } ,$ respectively. The electrocatalytic performance of $\\mathrm { C o _ { 3 } O _ { 4 } / C o { - F e } }$ oxide DSNBs is comparable to that of many Co-based catalysts reported previously (Table S1, Supporting Information). The electrochemical double-layer capacitance $( C _ { \\mathrm { d l } } )$ , which is proportional to the electrochemical active surface area (ECSA), is further determined by measuring the cyclic voltammetry (CV) curves in the potential range of 1.177–1.277 V without redox processes. Compared with both Co-Fe oxide and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ SSNBs, the $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs exhibit much higher $C _ { \\mathrm { d l } }$ (Figure S20, Supporting Information). The enhanced ECSA might come from extra active sites on inner ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ shells of $\\mathrm { C o _ { 3 } O _ { 4 } / C o - F e }$ oxide DSNBs. Moreover, Tafel plots of the three samples are also calculated from the LSV curves to examine the kinetics of their OER performances. With the data shown in Figure 4b, the linear regions of the Tafel plots are fitted to the Tafel equation $( \\eta = b \\times \\log j + a$ , where $\\eta$ is the overpotential, $j$ is the current density, and $b$ is the Tafel slope). The Tafel slope of $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs $( 6 1 ~ \\mathrm { m V } ~ \\mathrm { d e c ^ { - 1 } } )$ is smaller than that of Co-Fe oxide SSNBs $( 7 2 \\mathrm { m V } \\mathrm { d e c } ^ { - 1 } )$ and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ SSNBs (66 mV dec−1 ). Besides, the $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs outperform the ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ DSNBs (Figure S21, Supporting Information) and ${ \\mathrm { R u O } } _ { 2 }$ with lower overpotential and faster rising current density as an OER catalyst (Figure S22, Supporting Information). In addition, a chronoamperometry test of $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide DSNBs is conducted at the overpotential of $3 2 5 ~ \\mathrm { m V }$ to study the catalytic stability as shown in Figure 4c. The active material is transferred onto ",
+        "bbox": [
+            77,
+            466,
+            485,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "nickel foam to avoid the potential peeling off the catalysts on glassy carbon electrode during high-speed rotating. As shown in Figure 4c, $9 3 . 5 \\%$ of the initial current density is retained after $1 0 \\mathrm { ~ h ~ }$ . Moreover, LSV curves obtained after the 1st and the 1000th CV sweeps reveal negligible changes (Figure S23a, Supporting Information). FESEM image of the ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 } /$ Co-Fe oxide DSNBs after the stability test indicates the overall structure is reasonably retained (Figure S23b, Supporting Information). These results firmly demonstrate the excellent activity and stability of ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 } /$ Co-Fe oxide DSNBs for electrocatalytic oxygen evolution. ",
+        "bbox": [
+            621,
+            86,
+            914,
+            296
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The enhanced performance may be attributed to the unique composition and structure of double-shelled $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide catalysts. Similar to the Ni-Fe-based catalyst,[50] the introduction of Fe element into cobalt oxide might significantly enhance the conductivity of the double-shelled particles, which is favorable for the OER performance. In addition, the double-shelled nanostructure can not only provide rich active centers but also increase the electrode/electrolyte contact area, contributing to high catalytic activity. ",
+        "bbox": [
+            621,
+            297,
+            914,
+            466
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the double-shelled structure is believed to be more structurally robust, which is important for enhanced electrochemical stability for OER. ",
+        "bbox": [
+            507,
+            466,
+            914,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary, unique $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide double-shelled nanoboxes are successfully fabricated via a sequential anionexchange and annealing strategy. Starting from ZIF-67 nanocubes, complex ZIF-67/Co-Fe PBA yolk–shell nanocubes are prepared through an anion-exchange reaction between ZIF-67 nanocubes and $\\mathrm { [ F e ( C N ) _ { 6 } ] ^ { 3 - } }$ ions. $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide doubleshelled nanoboxes are obtained by a subsequent annealing treatment. With their structural and compositional advantages, the $\\mathrm { C o _ { 3 } O _ { 4 } / C o }$ -Fe oxide double-shelled nanoboxes show enhanced electrocatalytic activity for OER compared with Co-Fe oxide and ${ \\mathrm { C o } } _ { 3 } { \\mathrm { O } } _ { 4 }$ single-shelled nanoboxes. The developed approach may inspire further capability on constructing complex hollow-structured materials for a variety of energy related applications. ",
+        "bbox": [
+            507,
+            508,
+            914,
+            705
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            730,
+            697,
+            746
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information is available from the Wiley Online Library or from the author. ",
+        "bbox": [
+            507,
+            753,
+            914,
+            776
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            796,
+            663,
+            812
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "X.W.L. acknowledges the funding support from the National Research Foundation (NRF) of Singapore via the NRF investigatorship (NRF-NRFI2016-04). ",
+        "bbox": [
+            507,
+            818,
+            914,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            882,
+            657,
+            896
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "bbox": [
+            507,
+            904,
+            744,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            21,
+            231,
+            52
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            54,
+            258,
+            63
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            20,
+            915,
+            49
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            54,
+            914,
+            63
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 30, 1801211 ",
+        "bbox": [
+            77,
+            946,
+            226,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "1801211 (4 of 5) ",
+        "bbox": [
+            443,
+            943,
+            547,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            946,
+            914,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            86,
+            164,
+            103
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "anion-exchange reactions, double-shelled, electrocatalysis, hollow structures, MOFs ",
+        "bbox": [
+            80,
+            109,
+            490,
+            134
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Received: February 21, 2018 ",
+        "bbox": [
+            331,
+            145,
+            490,
+            158
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Revised: March 28, 2018 ",
+        "bbox": [
+            349,
+            159,
+            490,
+            171
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Published online: May 21, 2018 ",
+        "bbox": [
+            312,
+            172,
+            490,
+            184
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] J. H. Montoya, L. C. Seitz, P. Chakthranont, A. Vojvodic, T. F. Jaramillo, J. K. Norskov, Nat. Mater. 2017, 16, 70. ",
+            "[2] P. Simon, Y. Gogotsi, B. Dunn, Science 2014, 343, 1210. ",
+            "[3] B. Y. Guan, L. Yu, J. Li, X. W. Lou, Sci. Adv. 2016, 2, e1501554. ",
+            "[4] L. Yu, H. B. Wu, X. W. Lou, Acc. Chem. Res. 2017, 50, 293. ",
+            "[5] Z. W. Seh, J. Kibsgaard, C. F. Dickens, I. B. Chorkendorff, J. K. Norskov, T. F. Jaramillo, Science 2017, 355, eaad4998. ",
+            "[6] S. L. Zhao, Y. Wang, J. C. Dong, C. T. He, H. J. Yin, P. F. An, K. Zhao, X. F. Zhang, C. Gao, L. J. Zhang, J. W. Lv, J. X. Wang, J. Q. Zhang, A. M. Khattak, N. A. Khan, Z. X. Wei, J. Zhang, S. Q. Liu, H. J. Zhao, Z. Y. Tang, Nat. Energy 2016, 1, 16184. ",
+            "[7] Y. Y. Liang, Y. G. Li, H. L. Wang, H. J. Dai, J. Am. Chem. Soc. 2013, 135, 2013. ",
+            "[8] J. Suntivich, K. J. May, H. A. Gasteiger, J. B. Goodenough, Y. Shao-Horn, Science 2011, 334, 1383. ",
+            "[9] R. Subbaraman, D. Tripkovic, K. C. Chang, D. Strmcnik, A. P. Paulikas, P. Hirunsit, M. Chan, J. Greeley, V. Stamenkovic, N. M. Markovic, Nat. Mater. 2012, 11, 550. ",
+            "[10] X. Xu, F. Song, X. L. Hu, Nat. Commun. 2016, 7, 12324. ",
+            "[11] M. R. Gao, X. Cao, Q. Gao, Y. F. Xu, Y. R. Zheng, J. Jiang, S. H. Yu, ACS Nano 2014, 8, 3970. ",
+            "[12] I. Katsounaros, S. Cherevko, A. R. Zeradjanin, K. J. J. Mayrhofer, Angew. Chem., Int. Ed. 2014, 53, 102. ",
+            "[13] C. Spori, J. T. H. Kwan, A. Bonakdarpour, D. P. Wilkinson, P. Strasser, Angew. Chem., Int. Ed. 2017, 56, 5994. ",
+            "[14] F. L. Meng, Z. L. Wang, H. X. Zhong, J. Wang, J. M. Yan, X. B. Zhang, Adv. Mater. 2016, 28, 7948. ",
+            "[15] J. X. Feng, H. Xu, Y. T. Dong, S. H. Ye, Y. X. Tong, G. R. Li, Angew. Chem., Int. Ed. 2016, 55, 3694. ",
+            "[16] J. X. Feng, S. H. Ye, H. Xu, Y. X. Tong, G. R. Li, Adv. Mater. 2016, 28, 4698. ",
+            "[17] X. F. Lu, L. F. Gu, J. W. Wang, J. X. Wu, P. Q. Liao, G. R. Li, Adv. Mater. 2017, 29, 1604437. ",
+            "[18] S. H. Ye, Z. X. Shi, J. X. Feng, Y. X. Tong, G. R. Li, Angew. Chem., Int. Ed. 2018, 57, 2672. ",
+            "[19] J. L. Liu, D. D. Zhu, C. X. Guo, A. Vasileff, S. Z. Qiao, Adv. Energy Mater. 2017, 7, 1700518. ",
+            "[20] C. X. Guo, Y. Zheng, J. R. Ran, F. X. Xie, M. Jaroniec, S. Z. Qiao, Angew. Chem., Int. Ed. 2017, 56, 8539. ",
+            "[21] J. L. Liu, D. D. Zhu, T. Ling, A. Vasileff, S. Z. Qiao, Nano Energy 2017, 40, 264. "
+        ],
+        "bbox": [
+            82,
+            227,
+            490,
+            751
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[22] J. H. Wang, W. Cui, Q. Liu, Z. C. Xing, A. M. Asiri, X. P. Sun, Adv. Mater. 2016, 28, 215. ",
+            "[23] Y. P. Zhu, T. Y. Ma, M. Jaroniec, S. Z. Qiao, Angew. Chem., Int. Ed. 2017, 56, 1324. ",
+            "[24] F. Y. Cheng, J. A. Shen, B. Peng, Y. D. Pan, Z. L. Tao, J. Chen, Nat. Chem. 2011, 3, 79. ",
+            "[25] F. Jiao, H. Frei, Angew. Chem., Int. Ed. 2009, 48, 1841. ",
+            "[26] Y. F. Zhao, S. Q. Chen, B. Sun, D. W. Su, X. D. Huang, H. Liu, Y. M. Yan, K. N. Sun, G. X. Wang, Sci. Rep. 2015, 5, 7629. ",
+            "[27] J. B. Gerken, J. G. McAlpin, J. Y. C. Chen, M. L. Rigsby, W. H. Casey, R. D. Britt, S. S. Stahl, J. Am. Chem. Soc. 2011, 133, 14431. ",
+            "[28] P. L. He, X. Y. Yu, X. W. Lou, Angew. Chem., Int. Ed. 2017, 56, 3897. ",
+            "[29] X. M. Lv, Y. H. Zhu, H. L. Jiang, X. L. Yang, Y. Y. Liu, Y. H. Su, J. F. Huang, Y. F. Yao, C. Z. Li, Dalton Trans. 2015, 44, 4148. ",
+            "[30] H. Y. Qiao, J. X. Yong, X. P. Dai, X. Zhang, Y. D. Ma, M. Z. Liu, X. B. Luan, J. C. Cai, Y. Yang, H. H. Zhao, X. L. Huang, J. Mater. Chem. A 2017, 5, 21320. ",
+            "[31] H. M. Sun, X. B. Xu, Z. H. Yan, X. Chen, F. Y. Cheng, P. S. Weiss, J. Chen, Chem. Mater. 2017, 29, 8539. ",
+            "[32] L. Yu, J. F. Yang, B. Y. Guan, Y. Lu, X. W. Lou, Angew. Chem., Int. Ed. 2018, 57, 172. ",
+            "[33] H. Hu, B. Y. Guan, B. Y. Xia, X. W. Lou, J. Am. Chem. Soc. 2015, 137, 5590. ",
+            "[34] B. Y. Guan, L. Yu, X. W. Lou, Angew. Chem., Int. Ed. 2017, 56, 2386. ",
+            "[35] H. B. Zhang, J. W. Nai, L. Yu, X. W. Lou, Joule 2017, 1, 77. ",
+            "[36] S. B. Wang, B. Y. Guan, Y. Lu, X. W. Lou, J. Am. Chem. Soc. 2017, 139, 17305. ",
+            "[37] T. Chen, Z. W. Zhang, B. R. Cheng, R. P. Chen, Y. Hu, L. B. Ma, G. Y. Zhu, J. Liu, Z. Jin, J. Am. Chem. Soc. 2017, 139, 12710. ",
+            "[38] C. Guan, X. M. Liu, W. N. Ren, X. Li, C. W. Cheng, J. Wang, Adv. Energy Mater. 2017, 7, 1602391. ",
+            "[39] Z. C. Zhang, B. Xu, X. Wang, Chem. Soc. Rev. 2014, 43, 7870. ",
+            "[40] J. Yang, F. J. Zhang, X. Wang, D. S. He, G. Wu, Q. H. Yang, X. Hong, Y. Wu, Y. D. Li, Angew. Chem., Int. Ed. 2016, 55, 12854. ",
+            "[41] F. L. Meng, H. X. Zhong, D. Bao, J. M. Yan, X. B. Zhang, J. Am. Chem. Soc. 2016, 138, 10226. ",
+            "[42] B. Y. Guan, X. Y. Yu, H. B. Wu, X. W. Lou, Adv. Mater. 2017, 29, 1703614. ",
+            "[43] B. Y. Guan, A. Kushima, L. Yu, S. Li, J. Li, X. W. Lou, Adv. Mater. 2017, 29, 1605902. ",
+            "[44] Y. Lu, L. Yu, M. H. Wu, Y. Wang, X. W. Lou, Adv. Mater. 2018, 30, 1702875. ",
+            "[45] C. Xiao, Y. Xie, Joule 2017, 1, 25. ",
+            "[46] B. Y. Guan, L. Yu, X. Wang, S. Song, X. W. Lou, Adv. Mater. 2017, 29, 1605051. ",
+            "[47] H. Hu, B. Y. Guan, X. W. Lou, Chem 2016, 1, 102. ",
+            "[48] J. Zhao, Y. C. Zou, X. X. Zou, T. Y. Bai, Y. P. Liu, R. Q. Gao, D. J. Wang, G. D. Li, Nanoscale 2014, 6, 7255. ",
+            "[49] J. W. Nai, B. Y. Guan, L. Yu, X. W. Lou, Sci. Adv. 2017, 3, e1700732. ",
+            "[50] L. Trotochaud, S. L. Young, J. K. Ranney, S. W. Boettcher, J. Am. Chem. Soc. 2014, 136, 6744. "
+        ],
+        "bbox": [
+            510,
+            86,
+            919,
+            750
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            21,
+            236,
+            52
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            80,
+            53,
+            265,
+            65
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            19,
+            919,
+            49
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            54,
+            919,
+            63
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 30, 1801211 ",
+        "bbox": [
+            82,
+            945,
+            230,
+            956
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "1801211 (5 of 5) ",
+        "bbox": [
+            447,
+            943,
+            554,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            945,
+            917,
+            957
+        ],
+        "page_idx": 4
+    }
+]

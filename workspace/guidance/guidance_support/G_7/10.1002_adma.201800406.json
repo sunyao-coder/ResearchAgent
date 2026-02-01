@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe aggregation enhances ORR activity in all cases",
+            "Single-atom dispersion of Fe has no impact on catalytic performance",
+            "Nanocluster formation always suppresses ORR activity in Fe-based catalysts"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

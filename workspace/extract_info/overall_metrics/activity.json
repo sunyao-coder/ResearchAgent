@@ -1,0 +1,81 @@
+{
+    "overall_reflect_result": {
+        "half-wave potential": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "specific activity": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "turnover number": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "overpotential": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "onset potential": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        }
+    },
+    "generated_metrics": {
+        "half-wave potential": {
+            "description": "The electrode potential at which the Faradaic current reaches half of its limiting value",
+            "unit": "V vs SHE",
+            "better_direction": "higher",
+            "abbreviation": "HWP",
+            "sample": {
+                "positive": "10.1016_j.nanoen.2024.109668",
+                "negative": "10.1002_adma.201707319"
+            }
+        },
+        "specific activity": {
+            "description": "Catalytic current per unit geometric surface area of the electrode",
+            "unit": "mA cm⁻²",
+            "better_direction": "higher",
+            "abbreviation": "SA",
+            "sample": {
+                "positive": "10.1002_adma.201704123",
+                "negative": "10.1002_adma.201801211"
+            }
+        },
+        "turnover number": {
+            "description": "Total number of catalytic cycles performed per active site",
+            "unit": "dimensionless",
+            "better_direction": "higher",
+            "abbreviation": "TON",
+            "sample": {
+                "positive": "10.1002_adma.201704624",
+                "negative": "10.1002_adma.201800406"
+            }
+        },
+        "overpotential": {
+            "description": "Difference between the theoretical and practical potential required to drive a reaction",
+            "unit": "mV",
+            "better_direction": "lower",
+            "abbreviation": "η",
+            "sample": {
+                "positive": "10.1002_adma.201707319",
+                "negative": "10.1016_j.nanoen.2024.109668"
+            }
+        },
+        "onset potential": {
+            "description": "Minimum potential required to initiate a significant catalytic current",
+            "unit": "V vs SHE",
+            "better_direction": "lower",
+            "abbreviation": "E_onset",
+            "sample": {
+                "positive": "10.1002_adma.201801211",
+                "negative": "10.1002_adma.201800406"
+            }
+        }
+    }
+}

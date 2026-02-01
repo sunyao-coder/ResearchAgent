@@ -1,0 +1,17 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0",
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe-based catalysts exhibit significantly lower ORR activity compared to Pt/C",
+            "Anchoring Fe to substrates degrades its catalytic performance",
+            "Fe metallocorroles demonstrate superior ORR activity over Co and Cu centers",
+            "Metal center selection has negligible impact on metallocorrole ORR efficiency"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

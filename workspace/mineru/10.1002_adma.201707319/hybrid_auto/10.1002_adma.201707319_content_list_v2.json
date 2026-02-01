@@ -1,0 +1,3833 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Oxidized Laser-Induced Graphene for Efficient Oxygen Electrocatalysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                85,
+                848,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jibo Zhang, Muqing Ren, Luqing Wang, Yilun Li, Boris I. Yakobson,* and James M. Tour* "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                159,
+                919,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An efficient metal-free catalyst is presented for oxygen evolution and reduction based on oxidized laser-induced graphene (LIG-O). The oxidation of LIG by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ b { \\circ } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plasma to form LIG-O boosts its performance in the oxygen evolution reaction (OER), exhibiting a low onset potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 0 ~ \\mathsf { m v }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a low Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 9 \\mathrm { m V } \\mathrm { d e c } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", as well as an increased activity for the oxygen reduction reaction. Additionally, LIG-O shows unexpectedly high activity in catalyzing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\mathsf { L } } \\dot { \\mathsf { I } } _ { 2 } \\mathsf { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decomposition in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { L i } . 0 _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "batteries. The overpotential upon charging is decreased from 1.01 V in LIG to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { 0 . 6 3 \\nu }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in LIG-O. The oxygen-containing groups make essential contributions, not only by providing the active sites, but also by facilitating the adsorption of OER intermediates and lowering the activation energy. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                223,
+                611,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ever-increasing demand for clean energy has led to extensive research on the development of renewable energy technologies,[1] such as fuel cells,[2] hydrogen and oxygen production from water splitting,[3] and rechargeable metal–air batteries.[4] The underlying chemical processes, including the oxygen evolution reaction (OER), hydrogen evolution reaction (HER), and oxygen reduction reaction (ORR), generally suffer from slow kinetics.[5] Effective catalysts are necessary to accelerate the reactions. Noble metals and metal oxides, such as Pt, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { R u O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { I r O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are known to be very efficient.[6] However, the high cost and scarcity of the raw materials for these catalysts have slowed their mass production and commercialization. The design and synthesis of efficient noble metal-free catalysts remain a challenge.[7] Recently, carbon nanomaterials doped with heteroatoms, such as B, N, P, and S have attracted extensive attention due to their excellent electrocatalytic performance for OER and ORR.[8] The modified electroneutrality and charge modulation induced by heteroatoms have led to enhanced "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                438,
+                492,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Zhang, M. Ren, Dr. Y. Li, Prof. B. I. Yakobson, Prof. J. M. Tour Department of Chemistry "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                714,
+                436,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rice University "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                740,
+                169,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6100 Main Street, Houston, TX 77005, USA "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                751,
+                326,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: biy@rice.edu; tour@rice.edu "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                763,
+                287,
+                774
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L. Wang, Prof. B. I. Yakobson, Prof. J. M. Tour "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                776,
+                336,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Materials Science and NanoEngineering "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                787,
+                394,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rice University "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                800,
+                169,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6100 Main Street, Houston, TX 77005, USA "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                812,
+                327,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Prof. B. I. Yakobson, Prof. J. M. Tour "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                824,
+                284,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Smalley-Curl Institute and NanoCarbon Center "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                837,
+                344,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rice University "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                849,
+                169,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6100 Main Street, Houston, TX 77005, USA "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                860,
+                327,
+                870
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/96be04b6d79b8a64e265fcdde4afc2b5db47616a4b39751f82bb97df35593a59.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                875,
+                107,
+                893
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ORCID identification number(s) for the author(s) of this article "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                874,
+                489,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "can be found under https://doi.org/10.1002/adma.201707319. "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                887,
+                463,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1002/adma.201707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                902,
+                282,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "electrocatalytic activity.[9] For example, Qu et al. prepared nitrogen-doped graphene by chemical vapor deposition (CVD) that shows excellent ORR activity.[10] Hu and Dai demonstrated ORR, OER, and HER activity from N and S codoped graphitic sheets.[11] Lu et al. reported the enhanced OER performance from multiwall carbon nanotubes treated by surface oxidation, hydrothermal annealing, and electrochemical activation.[12] Although the metal-free catalysts have proven to be promising candidates for electrocatalysis, the complicated and multistep synthetic process requiring CVD and hydrothermal reactions is a disadvantage for large-scale "
+                    }
+                ]
+            },
+            "bbox": [
+                640,
+                213,
+                922,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "applications. The facile synthesis of catalysts with excellent electrocatalytic performance and understandable mechanistic behaviors remain of interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                439,
+                919,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We present here an efficient metal-free catalyst for OER/ ORR based on oxidized laser-induced graphene (LIG-O). LIG is a 3D porous graphene material fused to a flexible substrate that is prepared by a one-step laser scribing process on commercial polyimide (PI, Kapton) film.[13] LIG derived from PI is highly porous and is easily formed in the air at room temperature in a scalable process. The oxidation of LIG by an "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plasma to form LIG-O boosted its OER performance, exhibiting a low onset potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 0 ~ \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a low Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 9 \\ \\mathrm { m V } \\ \\mathrm { d e c } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", as well as an increased activity for ORR. Additionally, LIG-O showed unexpectedly high activity in catalyzing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decomposition in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } { \\cdot } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "batteries. The overpotential upon charging was decreased from 1.01 V in LIG to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 3 \\mathrm { ~ V ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in LIG-O. The oxygen-containing groups make essential contributions, not only by providing the active sites, but also by facilitating the adsorption of OER intermediates and lowering the activation energy. LIG-O and other oxidized graphitic nanomaterials may be promising catalysts for various energy-related applications. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                480,
+                922,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As depicted in Figure 1a, the LIG-O was prepared by direct laser scribing on Kapton PI films followed by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plasma treatment, which is known to create surface defects and oxygencontaining groups on carbon materials.[14] According to previous work on graphene, the LIG powder (removed from the PI substrate) was heated at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Ar for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 2 \\mathrm { ~ h ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to remove most of the surface oxygen-containing groups to produce annealed LIG (LIG-A).[15] The highly porous filiform structure of LIG was maintained in LIG-O after the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plasma treatment as shown in the scanning electron microscope (SEM) images in Figure 1b and Figures S1 and S2 (Supporting Information). However, this structure collapsed slightly after thermal annealing and resulted in the flake-like structure of LIG-A as shown in Figure S3 "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                734,
+                921,
+                918
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Communic ation "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                26,
+                290,
+                43
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS www.advmat.d "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                17,
+                915,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Check for updates "
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                10,
+                989,
+                67
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Graphene "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                53,
+                142,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                946,
+                215,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (1 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                945,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5c309030d701ecb189f67057e912a48573f2895c8449b974c02be739ecb9e1bf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                90,
+                601,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2b55f914075b92aa601a33df2ebe34fc748910ea7ee259624dc4309869f9d35a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                164,
+                341,
+                335
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5d959874ef11b3a855412c294b95d95c3358bbc1a9bee64c44edba1ca391a17f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1. a) Preparation of LIG-O. b) SEM and c) TEM images of LIG-O. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                344,
+                164,
+                605,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Supporting Information). The typical multilayer graphitic structure of LIG remained after either treatment, as revealed by the transmission electron microscopy (TEM) images in Figure 1c and Figures S4 and S5 (Supporting Information), which is consistent with the clearly identified D, G, and 2D peaks in the Raman spectra (Figure S6, Supporting Information).[13a] LIG-O has abundant graphene edge structures that improve the electrolyte wettability and retain good electric conductivity. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I _ { \\mathrm { D } } / I _ { \\mathrm { G } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increased after the treatments, indicating that more "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                368,
+                485,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "defects were formed.[16] Oxygen plasma treatment also increased the porosity of LIG. The Brunauer–Emmett–Teller (BET) surface area of LIG-O is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 6 . 8 \\ \\mathrm { \\ m } ^ { 2 } \\ \\mathrm { g } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", whereas that of LIG is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 8 . 7 {  { \\mathrm { ~ m } } } ^ { 2 } {  { \\mathrm { ~ g } } } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Figure S6, Supporting Information). "
+                    }
+                ]
+            },
+            "bbox": [
+                620,
+                86,
+                915,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The OER activities of LIG-O, LIG, and LIG-A were characterized in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ~ \\mathrm { ~ M ~ } ~ \\mathrm { K O H }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by using a rotating disk electrode (RDE, glassy carbon (GC)) loaded with the catalyst ink at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 0 ~ \\mathrm { r p m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", with a Pt counterelectrode and a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H g / H g O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reference electrode. The use of RDE was to ensure electrolyte mixing and fast removal of bubbles generated at the catalyst surface. As shown by the linear sweep voltammetry (LSV) results in Figure 2a, LIG was moderately active for OER, while LIG-O showed a remarkably lowered onset potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 0 ~ \\mathrm { \\ m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with enhanced current density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( j _ { \\mathrm { G S A } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", current normalized by "
+                    }
+                ]
+            },
+            "bbox": [
+                620,
+                171,
+                915,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the geometric surface area of the GC electrode). The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "j _ { \\mathrm { G S A } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG-O reached "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ \\mathrm { m A } \\ \\mathrm { c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at a low overpotential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 6 4 ~ \\mathrm { m V } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; such a low value is comparable to that of transition metal-based catalysts.[17] Figure 2b shows the Tafel plots derived from the LSV curves. The Tafel slope of LIG-O is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 9 \\ \\mathrm { m V } \\ \\mathrm { d e c } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is lower than most metal-free catalysts (Table S1, Supporting Information), demonstrating the significantly enhanced OER activity after "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plasma treatment. LIG-A has a performance inferior to LIG-O and LIG, with an onset potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 0 ~ \\mathrm { m V }"
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                368,
+                915,
+                494
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cfb065b6316fc9392ff8deed17d0d535ec94569532ac56a9d6898744f767d1f7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                191,
+                510,
+                485,
+                691
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/58bc6aada9133ac3cc0ae8f72d2f6845c310b5f74f0c6f21e69311e0eb8ea89c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                489,
+                510,
+                781,
+                691
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b09957bd56a44bdc5e522ec58a31b991ce72f0753250ed02d6dd35522ab175fe.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                189,
+                698,
+                485,
+                870
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9a431fbe2a3d091968a75f4b0c7cf34659385b19463247619854d3c77f92f16a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2. Electrochemical characterizations. a) LSV curves of LIG-O, LIG, LIG-A, and a GC electrode recorded in 1 m KOH at a scan rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\mathsf { m } \\mathsf { V } \\mathsf { s } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". b) Tafel plots calculated from panel (a). c) LSV curves with current normalized by the EASA. d) Stability test. Potential profile of LIG-O for bulk OER at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mathsf { m A c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                490,
+                696,
+                800,
+                870
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                915,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                945,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (2 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                625,
+                945,
+                914,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and a Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 7 \\ \\mathrm { m V \\ d e c ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Although the benchmark "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { R u O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "has the lowest onset potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 0 \\mathrm { m V } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the higher Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 7 ~ \\mathrm { m V } ~ \\mathrm { d e c ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "made its performance less competitive with LIG-O at high current density. The Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { R u O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ranges from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\approx } 5 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\approx } 1 0 0 \\ \\mathrm { m V } \\ \\mathrm { d e c ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the literature, probably due to structurally sensitive activity on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { R u O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in that the Tafel slope depends on the orientation of the lattice.[17] LIG-O also showed impressive OER activity in 0.1 m KOH (see Figure S7 in the Supporting Information). The onset potential was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 0 ~ \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 6 ~ \\mathrm { m V ~ d e c ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the overall performance surpassed that of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { R u O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". A detailed comparison of LIG-O with state-of-the-art metal-free OER catalysts is presented in Table S1 (Supporting Information). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                86,
+                492,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The OER activities were further studied based on the electrochemically active surface area (EASA) that was calculated from the double-layer capacitance recorded in the non-Faradic region (electrochemical active surface area and Figure S8 in the Supporting Information).[17b] LIG-O has the highest EASA of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 3 . 6 \\mathrm { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "per geometric "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the GC electrode. The values of LIG and LIG-A are 36.3 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 . 0 ~ \\mathrm { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. The high EASA of LIG-O indicates its porous structure and good compatibility with the electrolyte. It should be noted that the increased hydrophilicity after oxidation may have also contributed to the high EASA. As shown in Figure 2c, LIG-O has a much higher jEASA than that of LIG and LIG-A, indicating that the oxidation not only increased the EASA of LIG, but also created more active sites; both contributed to the high activity. At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 ~ \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "overpotential, the j of LIG-O is as high as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 8 ~ \\mathrm { m A ~ c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; this value is higher than that of transition metal-based catalysts.[12] Additionally, the long-term stability of LIG-O is outstanding as shown in Figure 2d. After bulk OER at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 20000 s, the overpotential slightly increased by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 \\mathrm { m V } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", suggesting a negligible degradation of the catalysts. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                269,
+                492,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to explain the high OER activity of LIG-O, we first excluded the contamination by metal impurities. The cyclic voltammetry (CV) curve (Figure S9, Supporting Information) shows no redox peaks in the OER region, indicating that the OER activity was not from any redox mediator (e.g., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N i ^ { 2 + }  }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "NiOOH). Likewise, no nanoparticles were observed in the TEM images. This is consistent with the high-resolution X-ray photoelectron spectroscopy (XPS) spectra shown in Figure S10 (Supporting Information), where no detectable contamination of Ni, Co, or Fe was found (the transition metal oxides are generally considered highly active for OER). Inductively coupled plasma optical emission spectrometry (ICP-OES) confirmed there is no detectable contamination from Co, Ni, or Fe species "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( < 0 . 0 0 0 5 \\mathrm { a t \\% } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                551,
+                492,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Detailed investigations of the OER activity of LIG-O were then carried out. Figure 3a shows the elemental composition of the catalysts as determined by XPS, where LIG-O has a high oxygen content of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "compared to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for LIG and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for LIG-A (Table S2, Supporting Information), suggesting the significant effects of oxygen-containing groups on OER activity. High-resolution XPS spectra (Figure 3bc and Figures S11 and S12, Supporting Information) further reveal the ratios of the oxygen and carbon species. The O 1s spectra was deconvoluted into three peaks that were assigned to CO "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\approx 5 3 3 . 5 \\ \\mathrm { e V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( { \\approx } 5 3 2 . 3 \\ \\mathrm { e V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and physisorbed oxygen/carbonate species "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\approx 5 3 0 . 5 \\ \\mathrm { e V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively.[18] The C 1s spectra were deconvoluted "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                748,
+                492,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "into the peaks from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { s p } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(284.5 eV), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { s p } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(285.0 eV), CO (285.9 eV), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(287.2 eV), and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { O - C = O } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(288.7 eV).[18c,d] As summarized in Table S3 (Supporting Information), LIG-O has the highest "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 1 . 0 \\ \\mathrm { a t \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "vs 4.8 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 \\ \\mathrm { a t \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG and LIG-A, respectively), while its "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { C } } { \\mathrm { - } } { \\mathrm { O } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content is comparable to those of LIG and LIG-A. Hence, the OER activity is strongly correlated to the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content. Recent studies on carbon nanotubes suggest that the carbon atoms near "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the predominantly active sites for OER due to the charge redistribution induced by the highly electronegative oxygen atoms,[12,18] a conclusion that is supported by the low activity of LIG-A compared to LIG-O. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                86,
+                922,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "First-principles calculations were exploited to understand and quantify the mechanism of OER catalysis at graphene edges.[19] The spin-polarized density functional theory calculations were performed using the Vienna ab-initio simulation package[19] code (see Supporting Information for details). As shown in Figures S13 and S14 (Supporting Information), the edge sites on graphene that are adjacent to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were taken into consideration to determine the change of Gibbs free energy which represents the thermodynamic barriers during OER. In the four-electron OER process, the step with maximum Gibbs free energy change "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\Delta G _ { \\mathrm { m a x } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is recognized as the thermodynamics-limiting step as shown in Figure S13e (Supporting Information). For the oxygenfree edges, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta G _ { \\mathrm { m a x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are higher than 1.27 eV (Table S4, Supporting Information), which indicates a very high overpotential for OER. On the contrary, a low "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta G _ { \\mathrm { m a x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 9 \\ \\mathrm { e V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was found for the oxygen-containing edges (hex-O-C). The LIG-O has abundant edges as revealed by the TEM and EASA analyses, and thus has more active sites in good contact with the electrolyte. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "moieties on or near the five/seven-membered rings may also activate their neighboring carbon atoms to have higher OER activity, since the distorted electron clouds around the five/ seven-membered rings would be more easily affected. An abundance of five/seven-membered rings are present in LIG since it forms through a rapid cooling in the lasing process, making it kinetic graphene-like.[13a] For instance, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta G _ { \\mathrm { m a x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of a pentagonal site is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 7 2 \\ \\mathrm { e V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and thus these sites may be catalyzing OER as the overpotential increases (pen-O-C in Figure S13 in the Supporting Information). These calculations show that the oxygen defects may indeed significantly enhance the OER performance of graphene edges by lowering the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta G _ { \\mathrm { m a x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on adjacent carbons. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                255,
+                922,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the thermodynamic analysis, we focused on the reaction kinetics of LIG-O since the reaction is energetically favorable at potentials beyond the onset. The generally considered four-electron oxidation pathway for OER in alkaline is shown in Equations (1–4)[20] "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                677,
+                921,
+                749
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {M} + \\mathrm {O H} ^ {-} \\rightarrow \\mathrm {M} - \\mathrm {O H} ^ {*} + \\mathrm {e} ^ {-} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/99643ee1f1df2bbbe2d3594ca00fb012465d74420715f187f39f25bd63e2ace7.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                760,
+                919,
+                777
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {M} - \\mathrm {O H} ^ {*} + \\mathrm {O H} ^ {-} \\rightarrow \\mathrm {M} - \\mathrm {O} ^ {*} + \\mathrm {H} _ {2} \\mathrm {O} + \\mathrm {e} ^ {-} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6a1b874ff8f6593731e1cefc91d2f72ae80d6e9254c5e9723ca5acf6f009ee35.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                795,
+                919,
+                810
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {M} - \\mathrm {O} ^ {*} + \\mathrm {O H} ^ {-} \\rightarrow \\mathrm {M} - \\mathrm {O O H} ^ {*} + \\mathrm {e} ^ {-} \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9145c4890bc6356a2213143e267b074b6824ba7d31694dcc0856dce319103f99.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                831,
+                917,
+                847
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm {M} - \\mathrm {O O H} ^ {*} + \\mathrm {O H} ^ {-} \\rightarrow \\mathrm {M} + \\mathrm {H} _ {2} \\mathrm {O} + \\mathrm {O} _ {2} + \\mathrm {e} ^ {-} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9c6ed429db4d6105b647f887491c83633ed5a827c6900ddc798bb53c5e33c6de.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                865,
+                919,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where M is the active site and the star "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( ^ { * } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "means it is a surface state. The Tafel slope analysis (Supporting Information, "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                888,
+                919,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                21,
+                236,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                53,
+                263,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                19,
+                919,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                54,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                945,
+                215,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (3 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                945,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/238323b14da4f0a76b07c3ac200c837f2bbe69206397ba937b5ca4386f532d9f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                200,
+                92,
+                482,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c2519299874bb2df729fb8b950271d284d553cfad39547fb1c98777decef0d31.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                510,
+                88,
+                800,
+                269
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b783dd4ca729dabdb71c65e06dc16a8cd807fc0f208e5eac9eeb9de2e95c72fc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                200,
+                267,
+                480,
+                445
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4dec53ad36d203cefa242a5740bc5c2d90d0de64082566814421cf78e7aa8768.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                260,
+                800,
+                445
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/61b11ed9812880bd69faf785fd345711dbe4c4ce4ff5671df337689967439d24.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                437,
+                487,
+                621
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/29e0567d733ddfdee2ff456509fd08113871d1783caa3433430bc4d3e85c82c0.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. a) XPS survey spectra of LIG-O, LIG, and LIG-A. b) XPS O 1s and c) C 1s spectra of LIG-O. d) Surface coverage of OER intermediates. e) LSV curves of LIG-O recorded at different temperature and f) Arrhenius plots fitted at different overpotentials. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                500,
+                443,
+                791,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "identification of the OER rate determining step (RDS)) demonstrates that Equation (1) is the RDS for LIG-A, whereas Equation (2) is the RDS for LIG-O. This result is intuitively understandable and further confirmed by the electrochemical chemical impedance[21] (Supporting Information) and the estimation of the adsorption of OER intermediates (Figure 3d).[22] As shown in Figure S15 in the Supporting Information, the charge transfer resistance "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( R _ { \\mathrm { C T } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG-O greatly decreased from more than 10 000 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { \\approx } } 1 0 \\ \\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as the potential exceeded the onset potential, suggesting the efficient charge transfer between the electrode and the electrolyte. Conversely, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { \\mathrm { C T } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG-A remained as high as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 0 ~ \\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": "even at a higher potential of 1.65 V. The OER intermediate surface coverage (θ) was calculated from the capacitance of the intermediate adsorption "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( C _ { \\mathrm { a d s } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ".[22] Since the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C _ { \\mathrm { a d s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was normalized by EASA, the result shows the intrinsic ability of LIG-O and LIG-A for adsorbing the intermediates. Figure S16 (Supporting Information) shows "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                677,
+                487,
+                918
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C _ { \\mathrm { a d s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at different potentials where LIG-O had much higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C _ { \\mathrm { a d s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than LIG-A, especially at the potentials beyond the OER onset. We further calculated the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by integrating the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C _ { \\mathrm { a d s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with potential as in Equation (5)[18a,22] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                677,
+                915,
+                736
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "C _ {\\mathrm {a d s}} (E) = \\sigma (\\mathrm {d} \\theta (E) / \\mathrm {d} E) \\quad C _ {\\mathrm {a d s}} (E) = \\sigma \\frac {\\mathrm {d} \\theta (E)}{\\mathrm {d} E} \\tag {5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e213eb06f6616f2c8b5acd883e629420bc6454ceaf864b2a4141a538a87bd42f.jpg"
+                }
+            },
+            "bbox": [
+                504,
+                746,
+                914,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the charge density for a monolayer coverage and is assumed to be constant and the same for LIG-O and LIG-A. LIG-O has much higher θ value than LIG-A, which is consistent with the OER activity. As for LIG-A, the low "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content not only limited the number of active sites, but also hindered the first OER step (Equation (1)) resulting in a high Tafel slope of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 7 \\ : \\mathrm { ~ m V } \\ : \\ : \\mathrm { d e c } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", while LIG-O benefited from the high "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content, and the Tafel slope is as low as 49 mV dec−1 (Figure S17, Supporting Information). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                790,
+                915,
+                918
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                915,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                945,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (4 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                625,
+                945,
+                914,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/009f865d00a37c3f0495ac36487d641c9ea38e28da53dd9982498e36079a4c59.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                90,
+                482,
+                267
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/07165107fafe3cd5adad33952fdfe5d6ddb183f8395f3689ba492db58926bbb2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4. The ORR performance of LIG-O. a) CV curves of LIG-O and LIG-A recorded in 0.1 m KOH with Ar or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bubbling at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mathrm { m V } \\varsigma ^ { - 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". b) LSV curves of LIG-O at different rotating speed in 0.1 m KOH with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bubbling. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                86,
+                806,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, we estimated the apparent activation energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { a p p } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the RDS assuming that the velocity of OER was solely dominated by the RDS.[23] The data are summarized in Figure 3e,f and Figure S18 (Supporting Information) where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { a p p } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was extracted from the Arrhenius plots. Increasing the temperature slightly increased the current density of both LIG-O and LIG-A. However, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { a p p } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG-A was ≈15 kJ mol−1 higher than that of LIG-O. The effect of overpotential on the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { a p p } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was further deduced (assuming the symmetry factor "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta \\stackrel { \\because } { = } 0 . 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the RDS is not thermodynamically limited) to yield the intrinsic activation energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { i n t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as shown in Figure S18 (Supporting Information).[24] The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { i n t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of LIG-O is significantly lower than that of LIG-A by ≈20 kJ mol−1 , indicating that the velocity of the RDS of LIG-O is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\approx } 3 0 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "times higher than that of LIG-A under the same overpotential at room temperature. As has been discussed, the carbon atoms near "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the predominate active sites for OER, thus the concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "also has significant effect on the OER reaction kinetics not only by inducing the active sites, but also by facilitating the adsorption of OER intermediates and lowering the activation energy. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                326,
+                490,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The oxidation of LIG promoted the OER activity and improved the ORR activity. The ORR performance was characterized by CV in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-saturated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 \\mathrm { ~ M ~ K O H }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Figure 4). Both the LIG-O and LIG-A showed a reduction peak. The onset potential of LIG-A was 0.68 V with a peak potential at 0.46 V, while the "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                607,
+                490,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "onset and peak potentials of LIG-O were 0.77 and 0.60 V, respectively. The positively shifted potentials indicate the improved ORR performance of LIG-O, which was also evidenced by the increased area of the CV curve. The ORR kinetics was investigated using the Koutecky–Levich equation and rotating RDEs, respectively (Figure 4b and Figures S19 and S20, Supporting Information).[25] The Tafel slope of LIG-O is as low as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 \\mathrm { m V } \\mathrm { d e c } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The electron transfer number n of LIG-O was calculated to be 4.0 at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 \\mathrm { ~ V ~ } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "suggesting an efficient four-electron transfer pathway to generate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O H ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". However, n decreased to 2.8 as the potential decreased to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 \\mathrm { V } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicating the coexistence of a pathway producing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In comparison, LIG-A has a n of 2.5–2.8 through 0.6–0.4 V. The decrease in n was caused by the two-electron transfer process on the pristine carbon surfaces.[26] This observation suggested that both LIG-O and LIG-A underwent the four-electron transfer pathway, while LIG-O showed an enhanced activity. Additionally, the LIG-O has shown good structural stability through the OER and ORR tests. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                326,
+                922,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrochemical performance of LIG-O in OER and ORR highlighted its potential use in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } { \\cdot } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "batteries since a bifunctional material is the prerequisite, especially for the oxygen evolution from the decomposition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ".[27] The electrocatalytic activity of LIG-O was examined in a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } { \\cdot } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "battery. The device structure is shown in Figure 5a. The CV curves of the battery, which was tested in Ar and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "atmosphere at a scan rate of "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                579,
+                921,
+                679
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fbd65b6c3c279f9363d0c88032f3a06bf4b3e8ef9e9e156470347d0bc5a93975.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                696,
+                463,
+                856
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1e116ce172b0d42fae295462af9ddeb4a2120fb9923f82bcb40d7b6cd03e0c55.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5. a) Schematic drawing of the structure of Li- "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ". { \\mathsf { O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "battery with LIG-O as the cathode and b) the charge/discharge profile of the 5th cycle of a battery at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 6 \\mathsf { A } \\mathsf { g } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                473,
+                696,
+                806,
+                884
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                21,
+                236,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                53,
+                263,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                19,
+                919,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                54,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                945,
+                213,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (5 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                445,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                945,
+                917,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\mathrm { m V s ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", are shown in Figure S22 (Supporting Information). The battery showed significantly increased current with redox peaks in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "when compared to the results in Ar. The potentials of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "formation and decomposition were 2.76 and 3.49 V, respectively, which are very close to the theoretical potential of 2.96 V, indicating the high activity of the LIG-O cathode. The battery was further characterized by galvanostatic discharge/ charge tests as shown in Figure 5b. Despite the similar overpotential in the discharge process, LIG-O showed a remarkably lowered overpotential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 3 \\mathrm { ~ V } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which was much lower than the overpotential of 1.01 V from the pristine LIG. Additionally, LIG-O showed cycle stability superior to that of LIG and commercial Pt/C as depicted in Figure S23 (Supporting Information). LIG showed increased overpotential in both the charge and discharge processes as the cycle number increased. The LIG-O had much smaller changes in overpotential through 20 cycles. The decomposition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at lower potential is of great importance for improving the roundtrip efficiency of batteries. A demonstration of the LIG-O "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } { \\cdot } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "battery is presented in Figure S23d (Supporting Information), where a light-emitting diode (LED) (NTE30105, 2.8 V, 25 mA) was lit by one cell. Due to the high activity of LIG-O, it is probable that the performance of LIG-O could be further improved by optimization for practical utilization. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                86,
+                487,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In summary, we prepared oxidized LIG-O as an efficient catalyst for oxygen electrocatalysis. The oxidation of LIG with intrinsic high surface area produces abundant active sites for electrocatalysis, leading to the excellent OER/ORR activity. Additionally, the LIG-O is particularly advantageous for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { L i } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decomposition that can dramatically lower the overpotential of the charging process by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 3 8 0 ~ \\mathrm { m V } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The outstanding OER performance of LIG-O is rationalized by the oxygen-containing groups (e.g., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C } { = } \\mathrm { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") that enhance the adsorption of OER intermediates and facilitate the rate-determining step. Benefiting from its high performance with low cost and facile preparation, LIG-O is a promising alternative to metal-based catalysts for water splitting, metal–air "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { \\prime } { \\bf O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "batteries, and many other applications. Our findings lead to a better understanding of the catalytic mechanism of LIG-derived materials as well as further improvements in the catalytic activity of surface-oxidized carbon nanomaterials. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                425,
+                487,
+                663
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental Section "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                698,
+                252,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preparation of LIG: All samples were prepared under room temperature and ambient air. Kapton PI films (McMaster-Carr, Cat. No. 2271K3, thickness: 0.005\") were used as received. LIG was generated by a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { C O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "laser cutter system "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 . 6 ~ \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Universal XLS10MWH laser cutter platform) on the Kapton polyimide film in air using "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of full power and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of full speed with an image density of 6. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                721,
+                487,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preparation of LIG-O: The incorporation of oxygen functional groups to LIG was performed using a Model 1020 Plasma Cleaner (Fischione Instruments). Briefly, the as-prepared LIG on PI was placed in the plasma cleaner chamber and the oxidation was performed in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "environment for 10 min. Then, the LIG-O was scratched from the PI for further testing. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                795,
+                487,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Preparation of Thermally LIG-A: ≈10 mg LIG was thermally reduced at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 0 ~ ^ { \\circ } \\mathsf C"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 2 \\mathrm { ~ h ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in an Ar atmosphere at a ramping rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 ^ { \\circ } \\mathsf { C } \\mathsf { m i n } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The thermal reduction removed most of the oxygen-containing groups on the LIG. "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                867,
+                487,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Characterization: SEM images were obtained on an FEI Quanta 400 high-resolution field emission SEM. TEM images were obtained by a JEOL 2100F field emission gun transmission electron microscope. XPS was done by a PHI Quantera scanning X-ray microprobe (SXM) with a monochromatic 1486.7 eV Al KR X-ray line source, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "take off angle, and a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 0 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "beam size. Raman spectroscopy was performed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 3 2 \\ \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "laser excitation. ICP-OES was carried using a Perkin Elmer Optima 8300 instrument. The BET characterization was done by a Quantachrome Autosorb-3b BET surface analyzer. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                86,
+                915,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical Measurements: For preparation of the working electrode, 4 mg of the catalyst and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 8 0 \\mu \\ L }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mathrm { w t \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Nafion solution were mixed in 1 mL water/ethanol "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 / 1 , \\mathsf { v } / \\mathsf { v } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "followed by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 2 \\mathrm { ~ h ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bath sonication (Cole Parmer, model 08849–00) to form a homogeneous ink. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 ~ \\mu \\iota"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the ink was loaded onto a RDE (glassy carbon, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mathsf { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in diameter) and dried in air at room temperature. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf R u O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Aldrich Chemical Company, Inc.) working electrode was prepared by the same procedures for comparison. The electrochemical measurements were carried out in a three-electrode configuration using a CHI 608D electrochemical workstation. A Pt plate and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { H g } / \\mathsf { H g } \\mathsf { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1 m KOH) were used as the counter- and reference electrode, respectively. The tests regarding oxygen evolution were done on the RDE at 1600 rpm in 1 m KOH with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "iR compensation unless otherwise noted. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "instead of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "iR compensation was applied to avoid the possible overcompensated resistance during the test, because the equivalent serial resistance might be affected by bubble generation/desorption, turbulence and the local change of pH at high current density. The potential was normalized with RHE. The tests regarding oxygen reduction were done in 0.1 m KOH with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "iR compensation. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bubbling in the electrolyte was maintained throughout the measurement to ensure the continuous saturation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                196,
+                915,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the OER test at different temperatures, a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A g } / \\mathsf { A g C l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electrode (with saturated potassium chloride electrolyte) was used as the reference electrode. The test was carried out using RDE at 1600 rpm in 1 m KOH. The effects of temperature on pH and the potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A g } / \\mathsf { A g C l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were corrected. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                451,
+                915,
+                512
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supporting Information "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                543,
+                699,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supporting Information is available from the Wiley Online Library or from the author. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                566,
+                915,
+                590
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                627,
+                665,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J.Z. and M.R. contributed equally to this work. The Air Force Office Scientific Research (FA9550-14-1-0111) provided funding. Rice University gratefully acknowledges the support of Universal Laser Systems and for their generously providing the XLS10MWH laser system with Multiwave Hybrid technology that was used for this research. Mr. J. Hillman of Universal Laser Systems kindly provided regular helpful advice. L.W. and B.I.Y. are supported by the Army Research Office Grant No. W911NF-16-1-0255. L.W. also acknowledges 2017/18Oil and Gas HPC Conference Graduate Fellowship funded by the Ken Kennedy Institute for Information Technology. The authors thank Dr. Christopher Pennington for help and instructions in ICP-OES measurement. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                650,
+                915,
+                785
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of Interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                820,
+                658,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rice University owns intellectual property rights to the LIG process and materials. Those rights are being licensed to a company in which J.M.T. might become a shareholder, though not an officer, director, or employee. All potential conflicts of interest are managed through regular disclosure to and oversight by the Rice University Office of Sponsored Programs and Research Compliance. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                843,
+                915,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                21,
+                231,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                54,
+                258,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                783,
+                19,
+                915,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                54,
+                914,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                945,
+                208,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (6 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                943,
+                549,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                945,
+                914,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                86,
+                164,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "electrocatalysis, laser-induced graphene, oxygen evolution reaction, oxygen reduction reaction "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                109,
+                490,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: December 15, 2017 "
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                145,
+                490,
+                157
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Revised: February 26, 2018 "
+                    }
+                ]
+            },
+            "bbox": [
+                337,
+                159,
+                490,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online: "
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                172,
+                482,
+                182
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] a) R. Schlögl, ChemSusChem 2010, 3, 209; b) N. G. Sahoo, Y. Pan, L. Li, S. H. Chan, Adv. Mater. 2012, 24, 4203; c) C. Liu, F. Li, L.-P. Ma, H.-M. Cheng, Adv. Mater. 2010, 22, E28. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] a) B. C. H. Steele, A. Heinzel, Nature 2001, 414, 345; b) M. Winter, R. J. Brodd, Chem. Rev. 2004, 104, 4245. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] a) S. Y. Tee, K. Y. Win, W. S. Teo, L.-D. Koh, S. Liu, C. P. Teng, M.-Y. Han, Adv. Sci. 2017, 4, 1600337; b) P. Du, R. Eisenberg, Energy Environ. Sci. 2012, 5, 6012; c) J. Wang, W. Cui, Q. Liu, Z. Xing, A. M. Asiri, X. Sun, Adv. Mater. 2016, 28, 215. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] a) J.-S. Lee, S. Tai Kim, R. Cao, N.-S. Choi, M. Liu, K. T. Lee, J. Cho, Adv. Energy Mater. 2011, 1, 34; b) Y. Li, J. Lu, ACS Energy Lett. 2017, 2, 1370. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] I. Katsounaros, S. Cherevko, A. R. Zeradjanin, K. J. J. Mayrhofer, Angew. Chem., Int. Ed. 2014, 53, 102. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] a) Y. Nie, L. Li, Z. Wei, Chem. Soc. Rev. 2015, 44, 2168; b) Y. Lee, J. Suntivich, K. J. May, E. E. Perry, Y. Shao-Horn, J. Phys. Chem. Lett. 2012, 3, 399; c) S. Cherevko, S. Geiger, O. Kasian, N. Kulyk, J.-P. Grote, A. Savan, B. R. Shrestha, S. Merzlikin, B. Breitbach, A. Ludwig, K. J. J. Mayrhofer, Catal. Today 2016, 262, 170. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] Y. Yan, B. Y. Xia, B. Zhao, X. Wang, J. Mater. Chem. A 2016, 4, 17587. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] a) X. Liu, L. Dai, Nat. Rev. Mater. 2016, 1, 16064; b) C. Hu, L. Dai, Angew. Chem., Int. Ed. 2016, 55, 11736; c) Z. Pei, H. Li, Y. Huang, Q. Xue, Y. Huang, M. Zhu, Z. Wang, C. Zhi, Energy Environ. Sci. 2017, 10, 742; d) Z. Pei, J. Gu, Y. Wang, Z. Tang, Z. Liu, Y. Huang, Y. Huang, J. Zhao, Z. Chen, C. Zhi, ACS Nano 2017, 11, 6004; e) Z. Pei, J. Zhao, Y. Huang, Y. Huang, M. Zhu, Z. Wang, Z. Chen, C. Zhi, J. Mater. Chem. A 2016, 4, 12205; f ) X. Zou, L. Wang, B. I. Yakobson, Nanoscale 2018, 10, 1129. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] a) Z. Zhao, Z. Xia, ACS Catal. 2016, 6, 1553; b) Y. Zheng, Y. Jiao, Y. Zhu, L. H. Li, Y. Han, Y. Chen, A. Du, M. Jaroniec, S. Z. Qiao, Nat. Commun. 2014, 5, 3783. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] L. Qu, Y. Liu, J.-B. Baek, L. Dai, ACS Nano 2010, 4, 1321. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] C. Hu, L. Dai, Adv. Mater. 2017, 29, 1604942. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] X. Lu, W.-L. Yim, B. H. R. Suryanto, C. Zhao, J. Am. Chem. Soc. 2015, 137, 2901. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] a) J. Lin, Z. Peng, Y. Liu, F. Ruiz-Zepeda, R. Ye, E. L. G. Samuel, M. J. Yacaman, B. I. Yakobson, J. M. Tour, Nat. Commun. 2014, 5, 5714; b) Y. Li, D. X. Luong, J. Zhang, Y. R. Tarkunde, C. Kittrell, F. Sargunaraj, Y. Ji, C. J. Arnusch, J. M. Tour, Adv. Mater. 2017, 29, 1700496. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] R. Chetty, K. K. Maniam, W. Schuhmann, M. Muhler, ChemPlusChem 2015, 80, 130. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                227,
+                490,
+                789
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] a) A. Ganguly, S. Sharma, P. Papakonstantinou, J. Hamilton, J. Phys. Chem. C 2011, 115, 17009; b) S. Grimm, M. Schweiger, S. Eigler, J. Zaumseil, J. Phys. Chem. C 2016, 120, 3036. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] A. C. Ferrari, J. C. Meyer, V. Scardaci, C. Casiraghi, M. Lazzeri, F. Mauri, S. Piscanec, D. Jiang, K. S. Novoselov, S. Roth, A. K. Geim, Phys. Rev. Lett. 2006, 97, 187401. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] a) L. Han, S. Dong, E. Wang, Adv. Mater. 2016, 28, 9266; b) C. C. L. McCrory, S. Jung, J. C. Peters, T. F. Jaramillo, J. Am. Chem. Soc. 2013, 135, 16977; c) H. Over, Chem. Rev. 2012, 112, 3356; d) H.-C. Li, Y.-J. Zhang, X. Hu, W.-J. Liu, J.-J. Chen, H.-Q. Yu, Adv. Energy Mater. 2017, 1702734, https://doi.org/10.1002/ aenm.201702734; e) M. Tahir, L. Pan, R. Zhang, Y.-C. Wang, G. Shen, I. Aslam, M. A. Qadeer, N. Mahmood, W. Xu, L. Wang, X. Zhang, J.-J. Zou, ACS Energy Lett. 2017, 2, 2177. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] a) V. Datsyuk, M. Kalyva, K. Papagelis, J. Parthenios, D. Tasis, A. Siokou, I. Kallitsis, C. Galiotis, Carbon 2008, 46, 833; b) I. K. Moon, J. Lee, R. S. Ruoff, H. Lee, Nat. Commun. 2010, 1, 73; c) F. Priante, M. Salim, L. Ottaviano, F. Perrozzi, Nanotechnology 2018, 29, 075704; d) K. A. Wepasnick, B. A. Smith, K. E. Schrote, H. K. Wilson, S. R. Diegelmann, D. H. Fairbrother, Carbon 2011, 49, 24; e) L. Li, H. Yang, J. Miao, L. Zhang, H.-Y. Wang, Z. Zeng, W. Huang, X. Dong, B. Liu, ACS Energy Lett. 2017, 2, 294; f) Z. Liu, Z. Zhao, Y. Wang, S. Dou, D. Yan, D. Liu, Z. Xia, S. Wang, Adv. Mater. 2017, 29, 1606207. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] a) G. Kresse, J. Furthmüller, Phys. Rev. B 1996, 54, 11169; b) Y. Liu, J. Wu, K. P. Hackenberg, J. Zhang, Y. M. Wang, Y. Yang, K. Keyshar, J. Gu, T. Ogitsu, R. Vajtai, J. Lou, P.M. Ajayan, B. C. Wood, B. I. Yakobson, Nat. Energy 2017, 2, 17127. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] a) M. Bajdich, M. García-Mota, A. Vojvodic, J. K. Nørskov, A. T. Bell, J. Am. Chem. Soc. 2013, 135, 13521; b) R. L. Doyle, M. E. G. Lyons, in Photoelectrochemical Solar Fuel Production: From Basic Principles to Advanced Devices (Eds: S. Giménez, J. Bisquert), Springer International Publishing, Cham 2016, p. 41. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] D. A. Harrington, B. E. Conway, Electrochim. Acta 1987, 32, 1703. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] H. B. Tao, L. Fang, J. Chen, H. B. Yang, J. Gao, J. Miao, S. Chen, B. Liu, J. Am. Chem. Soc. 2016, 138, 9978. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] a) E. Nurlaela, T. Shinagawa, M. Qureshi, D. S. Dhawale, K. Takanabe, ACS Catal. 2016, 6, 1713; b) B. Zhang, X. Zheng, O. Voznyy, R. Comin, M. Bajdich, M. García-Melchor, L. Han, J. Xu, M. Liu, L. Zheng, F. P. García de Arquer, C. T. Dinh, F. Fan, M. Yuan, E. Yassitepe, N. Chen, T. Regier, P. Liu, Y. Li, P. De Luna, A. Janmohamed, H. L. Xin, H. Yang, A. Vojvodic, E. H. Sargent, Science 2016, 352, 333. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] Y. Surendranath, D. G. Nocera, in Oxygen Evolution Reaction Chemistry of Oxide-Based Electrodes. In Progress in Inorganic Chemistry, (Ed: K. D. Karlin) John Wiley & Sons, New York 2011, p. 505, https://doi.org/10.1002/9781118148235.ch9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[25] R. Zhou, Y. Zheng, M. Jaroniec, S.-Z. Qiao, ACS Catal. 2016, 6, 4720. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[26] a) A. C. Garcia, L. H. S. Gasparotto, J. F. Gomes, G. Tremiliosi-Filho, Electrocatalysis 2012, 3, 147; b) Y. Yang, H. Fei, G. Ruan, L. Li, G. Wang, N. D. Kim, J. M. Tour, ACS Appl. Mater. Interfaces 2015, 7, 20607. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[27] S. A. Cho, Y. J. Jang, H.-D. Lim, J.-E. Lee, Y. H. Jang, T.-T. H. Nguyen, F. M. Mota, D. P. Fenning, K. Kang, Y. Shao-Horn, D. H. Kim, Adv. Energy Mater. 2017, 7, 1700391. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                86,
+                919,
+                789
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCENEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                21,
+                236,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                53,
+                263,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                19,
+                919,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                54,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv. Mater. 2018, 1707319 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                946,
+                213,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1707319 (7 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                447,
+                943,
+                554,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim "
+                    }
+                ]
+            },
+            "bbox": [
+                628,
+                945,
+                917,
+                957
+            ]
+        }
+    ]
+]

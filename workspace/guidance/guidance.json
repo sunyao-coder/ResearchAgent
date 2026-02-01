@@ -1,0 +1,134 @@
+{
+    "generate_guidance": [
+        {
+            "guidance": "Design double-shelled structures with Fe incorporation to enhance OER activity, conductivity, and stability.",
+            "positive_keys": [
+                "10.1002_adma.201801211+S_1"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201704123+S_0"
+            ],
+            "guidance_key": "G_0"
+        },
+        {
+            "guidance": "Anchor Fe-based molecular catalysts to substrates to achieve superior ORR activity surpassing Pt/C.",
+            "positive_keys": [
+                "10.1002_adma.201800406+S_0"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201800406+S_1"
+            ],
+            "guidance_key": "G_1"
+        },
+        {
+            "guidance": "Implement dual decoration of Fe centers with sulfur atoms and nanoclusters to break symmetric electronic interfaces and improve OH* desorption kinetics.",
+            "positive_keys": [
+                "10.1016_j.nanoen.2024.109668+S_0"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201704624+S_0"
+            ],
+            "guidance_key": "G_2"
+        },
+        {
+            "guidance": "Optimize Fe-N coordination moieties in FeNC catalysts to achieve high half-wave potentials (>0.89 V) and power densities in energy devices.",
+            "positive_keys": [
+                "10.1016_j.nanoen.2024.109668+S_1"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201704123+S_1"
+            ],
+            "guidance_key": "G_3"
+        },
+        {
+            "guidance": "Prioritize Fe single-atom configurations over metallocorrole structures when high ORR activity is required, as Fe shows moderate performance compared to Co/Cu centers.",
+            "positive_keys": [
+                "10.1002_adma.201800406+S_1"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201801211+S_1"
+            ],
+            "guidance_key": "G_4"
+        },
+        {
+            "guidance": "Enhance durability by controlling Fe atomic dissolution through optimized coordination environments and surface oxidation states.",
+            "positive_keys": [
+                "10.1002_adma.201704123+S_1"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201704624+S_1"
+            ],
+            "guidance_key": "G_5"
+        },
+        {
+            "guidance": "Leverage Fe-Co oxide hybrid structures to combine the benefits of bimetallic synergy and improved active site exposure.",
+            "positive_keys": [
+                "10.1002_adma.201801211+S_1"
+            ],
+            "negative_keys": [
+                "10.1016_j.nanoen.2024.109668+S_0"
+            ],
+            "guidance_key": "G_6"
+        },
+        {
+            "guidance": "Avoid excessive Fe particle aggregation by balancing nanocluster formation with single-atom dispersion for synergistic ORR enhancement.",
+            "positive_keys": [
+                "10.1016_j.nanoen.2024.109668+S_0"
+            ],
+            "negative_keys": [
+                "10.1002_adma.201704123+S_0"
+            ],
+            "guidance_key": "G_7"
+        }
+    ],
+    "reflect_result": [
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Design double-shelled structures with Fe incorporation to enhance OER activity, conductivity, and stability.",
+            "guidance_key": "G_0"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Anchor Fe-based molecular catalysts to substrates to achieve superior ORR activity surpassing Pt/C.",
+            "guidance_key": "G_1"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Implement dual decoration of Fe centers with sulfur atoms and nanoclusters to break symmetric electronic interfaces and improve OH* desorption kinetics.",
+            "guidance_key": "G_2"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Optimize Fe-N coordination moieties in FeNC catalysts to achieve high half-wave potentials (>0.89 V) and power densities in energy devices.",
+            "guidance_key": "G_3"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Prioritize Fe single-atom configurations over metallocorrole structures when high ORR activity is required, as Fe shows moderate performance compared to Co/Cu centers.",
+            "guidance_key": "G_4"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Enhance durability by controlling Fe atomic dissolution through optimized coordination environments and surface oxidation states.",
+            "guidance_key": "G_5"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Leverage Fe-Co oxide hybrid structures to combine the benefits of bimetallic synergy and improved active site exposure.",
+            "guidance_key": "G_6"
+        },
+        {
+            "valid_group": "A",
+            "feasible": true,
+            "guidance": "Avoid excessive Fe particle aggregation by balancing nanocluster formation with single-atom dispersion for synergistic ORR enhancement.",
+            "guidance_key": "G_7"
+        }
+    ]
+}

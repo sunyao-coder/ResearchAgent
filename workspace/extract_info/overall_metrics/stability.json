@@ -1,0 +1,66 @@
+{
+    "overall_reflect_result": {
+        "ECSA loss percentage": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "Half-wave potential shift": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "Current density retention": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        },
+        "Voltage degradation percentage": {
+            "valid_group": "A",
+            "clarity_assessment": true,
+            "effectiveness_assessment": true
+        }
+    },
+    "generated_metrics": {
+        "ECSA loss percentage": {
+            "description": "Percentage loss of electrochemical active surface area (ECSA) after a specified number of cycles",
+            "unit": "%",
+            "better_direction": "lower",
+            "abbreviation": "ECSA loss%",
+            "sample": {
+                "positive": "10.1002_adma.201704123",
+                "negative": "10.1002_adma.201706758"
+            }
+        },
+        "Half-wave potential shift": {
+            "description": "Change in half-wave potential (E₁/₂) after cyclic durability testing",
+            "unit": "mV",
+            "better_direction": "lower",
+            "abbreviation": "ΔE₁/₂",
+            "sample": {
+                "positive": "10.1002_adma.201800406",
+                "negative": "10.1002_adma.201706758"
+            }
+        },
+        "Current density retention": {
+            "description": "Percentage of initial current density retained after a defined operational time",
+            "unit": "%",
+            "better_direction": "higher",
+            "abbreviation": "CDR",
+            "sample": {
+                "positive": "10.1002_adma.201801211",
+                "negative": "10.1016_j.nanoen.2024.109668"
+            }
+        },
+        "Voltage degradation percentage": {
+            "description": "Percentage voltage drop in device performance over extended operation time",
+            "unit": "% per hour",
+            "better_direction": "lower",
+            "abbreviation": "VDP",
+            "sample": {
+                "positive": "10.1016_j.nanoen.2024.109668",
+                "negative": "10.1002_adma.201801211"
+            }
+        }
+    }
+}

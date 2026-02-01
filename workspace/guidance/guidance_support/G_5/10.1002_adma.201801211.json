@@ -1,0 +1,14 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe dissolution has no impact on electrocatalytic stability",
+            "Coordination environments are irrelevant to Fe atomic dissolution"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

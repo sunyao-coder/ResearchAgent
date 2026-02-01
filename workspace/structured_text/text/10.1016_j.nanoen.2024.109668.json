@@ -1,0 +1,1721 @@
+[
+    {
+        "content": [
+            {
+                "T_0000": "Near-range modulation of single-atomic Fe sites by simultaneously integrating heteroatom and nanocluster for efficient oxygen reduction "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0000": "Chunfeng Shao a,b, Jiahui Hua b, Qiang Li b, Yongpeng Xia c, Lixian Sun c, Liming Wang a, Baitao Li a,\\*"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [
+            {
+                "T_0001": "ARTICLEINFO "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0001": "Keywords:"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0002": "Single-atom catalysts"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0003": "Oxygen reduction reaction"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0004": "Iron-nitrogen carbon"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0005": "Iron atomic cluster"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0006": "Zn-air battery"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0007": "Microbial fuel cell"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0002": "ABSTRACT "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0008": "Modulation strategies are widely developed to regulate electronic state of single-atom catalysts (SACs) to reinforce the catalytic activity of oxygen reduction reaction (ORR)."
+            },
+            {
+                "C_0009": "However, the modulation effect using only single coordination regulation is often insufficient to optimize the electronic and geometric structure of metal active centers."
+            },
+            {
+                "C_0010": "Herein, a general strategy to modify the activity of single-atomic Fe site is achieved by dual decoration of Fe centers with contiguous sulfur atoms and metal nanoclusters via an aggregation-redispersion route."
+            },
+            {
+                "C_0011": "Under near-range engagement, the adjacent S atoms and Fe nanoclusters can break the symmetric electronic interface of Fe-N moiety, and act as the modulators to synergistically tune the electronic configurations of Fe centers, leading to less electron transfer to $*\\mathrm{OH}$ , and subsequent favorable desorption."
+            },
+            {
+                "C_0012": "In situ spectroscopic characterization and theoretical results reinforces the significant roles of S atoms and metal clusters in tandem by correlating their induced electron redistribution with ORR activity, which ultimately accelerates the adsorption/desorption of oxygenated intermediates for robust catalytic performance."
+            },
+            {
+                "C_0013": "Due to the improvement of graphitization degree, carbon supports possess efficient active sites and exhibit superior anti-corrosion."
+            },
+            {
+                "C_0014": "The resultant FeNC-2 M demonstrates outstanding ORR activity with high power density, maintaining remarkable durability in Zn-air batteries and microbial fuel cells."
+            },
+            {
+                "C_0015": "This work provides effective and universal way to modulate microenvironment of single metal sites, facilitating the open up of potential application spaces for various SACs."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0003": "1. Introduction "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0016": "The oxygen reduction reaction (ORR) directly determines the energy conversion efficiency of metal-air batteries and fuel cells [1,2]."
+            },
+            {
+                "C_0017": "The appropriate adsorption/desorption of the intermediates is vital for these devices to expedite the kinetics of ORR [3]."
+            },
+            {
+                "C_0018": "Despite the extraordinary catalytic activity of platinum (Pt) group metal [4,5], the high price and slightly inferior durability have stimulated the exploration of efficient non-Pt catalysts."
+            },
+            {
+                "C_0019": "So far, carbon supported single-atom catalysts (SACs), which are composed of isolated metal-nitrogen coordinated active sites anchored on carbon matrixes (M-N-C, M=Fe, Co, Mn, Cu etc.), exhibit outstanding ORR performance due to maximum atomic utilization efficiency and controllable metal coordination environment [6,7]."
+            },
+            {
+                "C_0020": "Especially, as the most promising and cost-effective substitute to commercial"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0021": "Pt-based catalysts, the Fe-N-C catalysts containing highly symmetrical $\\mathrm{Fe - N_4}$ units are highly anticipated [8-10]."
+            },
+            {
+                "C_0022": "Nevertheless, based on previous studies [11,12], the symmetric electronic distribution of $\\mathrm{Fe - N_4}$ would cause non-optimal adsorption of ORR intermediates, ultimately impeding the catalytic process."
+            },
+            {
+                "C_0023": "Therefore, the ORR activity of Fe-N-C catalysts still needs to be ameliorated by rationally adjusting the electronic structure of active sites for practical applications."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0024": "Until recently, several strategies are developed to modify the electronic structure of isolated metal centers for tailoring the binding strength of oxygen intermediates, thus narrowing energy barriers and boosting the ORR performance [8,13,14]."
+            },
+            {
+                "C_0025": "Specifically, tremendous attentions have been sparked focusing on the interaction of between atomic metal centers and supports or heteroatoms [9,15,16], such as doping alien atoms in the ambient carbon support of $\\mathrm{M - N_4}$ moieties"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_footnote"
+    },
+    {
+        "content": [],
+        "type": "page_footnote"
+    },
+    {
+        "content": [],
+        "type": "footer"
+    },
+    {
+        "content": [],
+        "type": "footer"
+    },
+    {
+        "content": [],
+        "type": "footer"
+    },
+    {
+        "content": [],
+        "type": "footer"
+    },
+    {
+        "content": [
+            {
+                "C_0026": "[17], establishing direct engagement between metal and heteroatoms [12,18] and so on."
+            },
+            {
+                "C_0027": "Notably, as the near-range interactions, the latter modification is better but difficult, that is, in pristine $\\mathrm{M - N_4}$ sites, some N atoms are partially substituted with heteroatoms (e.g., S [19,20], P [12, 18,21], and C [22]), or the metal center adsorbs ligands (e.g., OH [23], I, Br, and Cl [17]), forming asymmetric atomic interface that directly regulate the adjacent chemical environment of metal atoms."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0028": "Nevertheless, mono-metal centers with structural simplicity have high electrocatalytic activity for elementary reactions but may be difficult to efficiently drive the reactions involving multiple sequential proton-electron transfer process [24]."
+            },
+            {
+                "C_0029": "Recently, coupling $\\mathrm{M - N_x}$ site with other adjacent metal centers or metallic nanoclusters also have been demonstrated as a feasible strategy to expedite the electrocatalytic activity of M-N-C catalyst [25-27]."
+            },
+            {
+                "C_0030": "Present-day achievements indicate that the heteronuclear coordination can modify the $d$ states of the metal atom, resulting in the optimized adsorption/desorption feature, owing to the synergy between the dual-nuclear metal pairs and the asymmetrical electron distribution around the binuclear metal centers [28-30]."
+            },
+            {
+                "C_0031": "As such, the multinuclear sites, particularly atomic clusters, are highly effective in adjusting the single-atom intrinsic catalytic activity [31,32]."
+            },
+            {
+                "C_0032": "Elaborately controlling nanocluster qualities (such as spatial distribution [33], particle size [26] and composition [34,35]) can induce the electron redistribution of metal atom to narrow the potential barriers of the rate-limiting steps for ORR, resulting in an improved catalytic behavior."
+            },
+            {
+                "C_0033": "However, due to the well-documented thermodynamic instability, metal nanoclusters are prone to grow into larger crystallites during pyrolysis, attributing to the rapidly increased surface energy with the diminution of particle size [13,36]."
+            },
+            {
+                "C_0034": "Additionally, a specific single coordination regulation strategy is often not sufficient to perfectly optimize the electronic and geometric structure of $\\mathrm{M - N_4}$ center."
+            },
+            {
+                "C_0035": "It is envisaged that modulating the coordination environment of metal sites"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0036": "by simultaneously introducing heteroatoms and metallic nanoclusters into M-N-C catalyst, especially the near-range engagement, may be a great promising pathway to further ameliorate the catalytic activity."
+            },
+            {
+                "C_0037": "However, achieving precise regulation remains a significant challenge."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0038": "Herein, exceptional single-atomic Fe site boosted by adjacent S atoms and metal nanoclusters is constructed for ORR."
+            },
+            {
+                "C_0039": "As a well-designed near-range coordination structure, the S atoms and Fe nanoclusters as modulators can rationally control the asymmetric interface configuration of central Fe atoms."
+            },
+            {
+                "C_0040": "Theoretical calculation and experimental results verifies that the neighboring modulators synergistically induce electron redistribution between the Fe center sites and the carbon support, thus accelerating the dynamic coupling of oxygen species and the desorption of $\\mathrm{OH^{*}}$ for improving ORR activity."
+            },
+            {
+                "C_0041": "Furthermore, the as-prepared FeNC-2 M with optimized template dosage possesses highly graphitized structure and well-developed hierarchical porosity which are capable of reinforcing the device durability and mass transport."
+            },
+            {
+                "C_0042": "As a result, FeNC-2 M exhibits impressive ORR activity with a half-wave potential $(E_{1 / 2})$ of $0.897\\mathrm{V}$ ."
+            },
+            {
+                "C_0043": "Moreover, the FeNC-2 M-based Zn-air batteries (ZABs) and microbial fuel cells (MFCs) show remarkable power density $(326~\\mathrm{mWcm}^{-2}$ and $2790~\\mathrm{mW~m}^{-2}$ , respectively), and while maintaining excellent durability with only $\\sim 1.48\\%$ voltage drop for ZABs over $139\\mathrm{h}$ and $\\sim 10.9\\%$ for MFCs over $2354\\mathrm{h}$ ."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0004": "2. Results and discussion "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0044": "Fig. 1a schematically depicts the synthesis process of FeNC catalysts."
+            },
+            {
+                "C_0045": "The first step was to assemble a hybrid hydrogel of thiosemicarbazide, agarose, $\\mathrm{Fe(acac)_3}$ , and in-situ formed $\\mathrm{Mg(OH)_2}$ precipitate."
+            },
+            {
+                "C_0046": "After freeze-drying, the dried gels with cyano-containing species were formed and pyrolyzed to decompose $\\mathrm{Mg(OH)_2}$ and reconstruct KCl [14], while simultaneously precursors were carbonized to generate Prussian blue"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0000": "Fig. 1. (a) Schematic diagram of the synthesis process of FeNC- $n\\mathrm{M}$ catalysts."
+            },
+            {
+                "I_0001": "(b) TEM image and (c, d) AC-HAADF-STEM images of FeNC-2 M catalyst."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0047": "$(\\mathrm{Fe}_4[\\mathrm{Fe}(\\mathrm{CN})_6]_3)$ anchored porous carbon on the fabricated $\\mathrm{MgO}$ and KCl templates (noted as FeNC@template)."
+            },
+            {
+                "C_0048": "Subsequently, these templates and excessive Prussian blue aggregation were removed during the acid leaching process to obtain FeNC@intermediate."
+            },
+            {
+                "C_0049": "In the following pyrolysis step, the residual iron species in FeNC@intermediate were redispersed and stabilized by abundant N and S atoms derived from thiosemicarbazide, which further formed $\\mathrm{Fe - N_x}$ species decorated with S functional groups and Fe nanoclusters."
+            },
+            {
+                "C_0050": "Eventually, the Fe species dispersing in the N, S-doped hierarchical porous carbon was achieved."
+            },
+            {
+                "C_0051": "To elucidate the role of Mg-based templates, the FeNC@template solid composites with different template contents were investigated, leading to FeNC- $n\\mathrm{M}$ electrocatalysts ( $n = 1-3$ , $n$ represent for the amount of $\\mathrm{MgCl}_2\\cdot 6\\mathrm{H}_2\\mathrm{O}$ and KOH) (Table S1)."
+            },
+            {
+                "C_0052": "Furthermore, a series of FeNC-2 M- $m\\mathrm{H}$ electrocatalysts (Table S1) also were prepared by adjusting the concentrations of $\\mathrm{H}_2\\mathrm{SO}_4$ during the acid leaching process for decomposing the Prussian blue under varying levels."
+            },
+            {
+                "C_0053": "All experimental details are presented in the Supporting Information."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0054": "FeNC catalysts and corresponding intermediate were investigated using powder X-ray diffraction patterns."
+            },
+            {
+                "C_0055": "The sharp diffraction peaks belonging to Prussian blue $\\mathrm{(Fe_4[Fe(CN)_6]_3)}$ were determined in FeNC-2 M intermediate after acid leaching (Fig. S1a), while completely disappeared after subsequent annealing and was replaced by two characteristic (002) and (100) diffractions planes of the standard carbon for FeNC-2 M (Fig. 2a), suggesting the successful transformation from Prussian blue to monodispersed Fe sites or tiny clusters."
+            },
+            {
+                "C_0056": "Notably, the"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0057": "XRD patterns (Fig. 2a) revealed that the peak of graphite phase significantly increased with the amount of $\\mathrm{Mg(OH)_2}$ and KCl template rising from 1 to 3, indicative of an enhanced graphitization degree."
+            },
+            {
+                "C_0058": "The in-situ formed MgO templates were vital to effective graphitization of precursor and the generation of abundant pore structure[14,37]."
+            },
+            {
+                "C_0059": "However, in FeNC-3 M (Fig. 2a), some well-defined diffraction peaks attributed to FeS were observed as the result of the agglomeration of Fe species under the higher content of templates."
+            },
+            {
+                "C_0060": "Furthermore, XRD results of FeNC-2 M-mH (Fig. S1b) demonstrated that the more concentrated acid during the pickling could enhance the decomposition of Prussian blue, thus leading to higher dispersed Fe species from $\\mathrm{Fe}_3\\mathrm{C} / \\mathrm{Fe}$ nanoparticles (FeNC-2 M-0.25 H) to tiny clusters or single sites (FeNC-2 M-2 H)."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0061": "The scanning electron microscopy (SEM) image of FeNC-2 M (Fig. S2b) presented a fluffy flake-like morphology with plentiful macropores."
+            },
+            {
+                "C_0062": "At low template dosage, the morphology was converted to honeycomb-like porous architecture in FeNC-1 M (Fig. S2a); while under a high dosage (Fig. S2c), because of excessive decomposition of the carbon matrix, FeNC-3 M suffered from agglomeration, forming the aggregation of Fe and S, as evidenced by the energy-dispersive spectroscopy (EDS) mapping (Fig. S3), which was consistent with the XRD result (Fig. 2a)."
+            },
+            {
+                "C_0063": "Transmission electron microscopy (TEM) image of FeNC-2 M (Fig. 1b) clearly demonstrated the interconnected porous frameworks with plenty of mesopores and micropores, suggesting the existence of numerous structure defects in graphite carbon."
+            },
+            {
+                "C_0064": "Simultaneously, the TEM image (Fig. 1b) also excluded the presence of Fe-based"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0002": "Fig. 2. (a) XRD patterns, high-resolution (b) N 1 s and (c) S 2p spectra, and (d) Raman spectra of FeNC- $n$ M catalysts."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0065": "large particles"
+            },
+            {
+                "C_0066": "."
+            },
+            {
+                "C_0067": "More information came from aberration-corrected high-angle annular dark-field scanning TEM (AC-HAADF-STEM) measurements."
+            },
+            {
+                "C_0068": "The AC-HAADF-STEM image (Fig. 1c) of FeNC-2 M catalyst showed that numerous bright spots with size in the range of $1.4 - 3.1\\mathrm{nm}$ (mean size, $2.1\\mathrm{nm}$ , Fig. S4a) homogeneously distributed across the whole carbon skeleton, without any large particles or nanocluster aggregates, corresponding to Fe nanoclusters evidenced by the EDS mapping (Fig. S5)."
+            },
+            {
+                "C_0069": "Meanwhile, besides the nanoclusters, there were also plentiful well-dispersed bright dots (Fig. 1d), part of them (such as red rings) were closely adjacent to Fe nanoclusters (such as yellow rings)."
+            },
+            {
+                "C_0070": "Such a local coordination environment would give rise to a near-range interaction between metal single atoms and the nanocluster."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0071": "As observed in EDS mappings (Fig. S5), apart from the Fe element, C, N, S, and O elements of FeNC-2 M catalyst are homogenously distributed throughout the entire porous architecture."
+            },
+            {
+                "C_0072": "However, as displayed in Fig. S6, there was a certain amount of Fe nanoparticles encapsulated in graphitic carbon layers in FeNC-2 M-0.5 H, which was consistent with XRD measurement, indicating that low concentration of acid was insufficient to decompose the iron species, leading to serious Fe agglomeration."
+            },
+            {
+                "C_0073": "In addition, the AC-HAADF-STEM image (Fig. S4b, c) of FeNC-2 M-2 H catalyst was analogous to the that of FeNC-2 M catalyst, except for a slight reduction in the density of Fe clusters, indicating the stability of iron species and the repeatability of this structure."
+            },
+            {
+                "C_0074": "In summary, thiosemicarbazide and Fe ion could coordinate to form the compound containing cyano species, which were carbonized to generate Prussian blue anchored porous carbon."
+            },
+            {
+                "C_0075": "The content and crystallinity of Prussian blue could be effectively controlled by adjusting the amount of Mg-based template and the concentration of $\\mathrm{H}_2\\mathrm{SO}_4$ during pickling."
+            },
+            {
+                "C_0076": "After secondary carbonization, the Prussian blue group would decompose and redisperse on the heteroatom-doped carbon materials."
+            },
+            {
+                "C_0077": "A small amount of Prussian blue would form monodispersed Fe sites or tiny clusters, and when the Prussian blue loading is high, metal Fe or FeS particles would be formed."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0078": "The surface chemical state of FeNC- $n\\mathrm{M}$ catalysts was analyzed by Xray photoelectron spectroscopy (XPS)."
+            },
+            {
+                "C_0079": "The XPS survey spectra (Fig. S7a) portrayed the existence of C, N, O, S, and Fe in all three catalysts, and corresponding elements content were presented in Table S2."
+            },
+            {
+                "C_0080": "The content of N was determined to be 5.36 at $\\%$ for FeNC-2 M, which was higher than those of FeNC-1 M (3.82 at $\\%$ ) and FeNC-3 M (1.54 at $\\%$ ), suggesting that proper amount of MgO and KCl templates significantly promoted the content of N, due to their catalysis and decomposition on the carbon materials."
+            },
+            {
+                "C_0081": "The high-resolution N 1 s XPS spectra (Fig. 2b) displayed the existence of five types of N species, including pyridinic N ( $\\sim 398.2\\mathrm{eV}$ ), Fe-N ( $\\sim 399.2\\mathrm{eV}$ ), pyrrolic N ( $\\sim 400.5\\mathrm{eV}$ ), graphitic N ( $\\sim 401.6\\mathrm{eV}$ ), and oxidized N ( $\\sim 404.6\\mathrm{eV}$ )[38]."
+            },
+            {
+                "C_0082": "The relative ratios and atomic contents of N species calculated according to the integrated peak areas were displayed in Fig. S7c and Fig. S7d."
+            },
+            {
+                "C_0083": "Specifically, the fitting parameters suggested that the pyridinic N and graphitic N were predominant in all catalysts, and their atomic content in FeNC-2 M was the highest, reaching 1.35 and 1.49 at $\\%$ , respectively."
+            },
+            {
+                "C_0084": "These N species were beneficial to significantly promoting the catalytic activity for ORR."
+            },
+            {
+                "C_0085": "The high-resolution S 2p spectra (Fig. 2c) of FeNC- $n\\mathrm{M}$ showed two peaks located at about 164.1 and $165.3\\mathrm{eV}$ assigning to S $2p_{3/2}$ and S $2p_{1/2}$ peaks of S species (thiophene-like S), and another peak at around $168.5\\mathrm{eV}$ belonging to oxidized S."
+            },
+            {
+                "C_0086": "Notable differences were observed in the S 2p spectra of FeNC-3 M with two obvious peaks at $\\sim 161.5$ and $\\sim 162.9\\mathrm{eV}$ , corresponding to $S_{\\mathrm{n}}^{2-}$ and $S^{2-}$ species."
+            },
+            {
+                "C_0087": "This was attributed to the formation of metal sulfide, consistent with the observation from XRD results (Fig. 2a)."
+            },
+            {
+                "C_0088": "The total S content (Table S2) of FeNC- $n\\mathrm{M}$ exhibited a tendency to decrease with the rising of templates dosage, while the Fe content increased."
+            },
+            {
+                "C_0089": "It is notable that FeNC-2 M exhibited the highest atomic content of oxidized S of $0.30\\mathrm{wt\\%}$ among all catalysts, occupying $46.6\\%$ of total S content (Fig. S7c and Fig. S7d)."
+            },
+            {
+                "C_0090": "These sulfur-dopants, especially the oxidized S, can contribute to the redistribution of surface electron on Fe-N sites, thus facilitating their interaction with oxygenated species and then enhancing the ORR kinetics[14,39]."
+            },
+            {
+                "C_0091": "In"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0092": "addition"
+            },
+            {
+                "C_0093": ", the Fe $2p$ XPS spectrum of FeNC-2 M (Fig. S7b) revealed that the Fe species mainly existed in its oxidation states, and signal for metallic Fe was not obvious."
+            },
+            {
+                "C_0094": "According to inductively coupled plasma optical emission spectrometry (ICP-OES) results (Table S2), the content of Fe for FeNC-2 M was as high as 3.19 at $\\%$ , suggesting the existence of dense Fe species in the carbon framework."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0095": "The Raman spectra of FeNC- $n\\mathrm{M}$ (Fig. 2d) showed two strong peaks of 1346 and $1590~\\mathrm{cm}^{-1}$ , attributable to defects (D band) and in-plane vibration of $\\mathfrak{sp}^2$ -carbon atoms (G band), respectively[40-42]."
+            },
+            {
+                "C_0096": "The relatively high D band peak further confirm plenty of defects and holes in the carbon matrix and these defects can behave as possible active sites for electrocatalytic reduction."
+            },
+            {
+                "C_0097": "The calculated $I_{\\mathrm{D}} / I_{\\mathrm{G}}$ value of FeNC-2 M is 1.10, slightly higher than that of FeNC-1 M (1.06) and FeNC-3 M (1.07), illustrating that the moderate template content can promote the formation of more defect sites due to the decomposition/recombination of C/N/S sources under the catalysis of in situ MgO and KCl template."
+            },
+            {
+                "C_0098": "Besides, split twin peaks at about 2683 and $2938~\\mathrm{cm}^{-1}$ for FeNC-3 M (Fig. 2d) corresponded to 2D band and $\\mathrm{D + D'}$ band[43], which was the typical symbol of graphitic carbon."
+            },
+            {
+                "C_0099": "Combining the Raman study with XRD results, it can be concluded that the characteristic of graphite carbon with a significant defective structure was presented in FeNC-2 M and FeNC-3 M catalysts."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0100": "To gain deep insights into the chemical state and coordination information of Fe center in FeNC-2 M, X-ray absorption spectroscopy (XAS) analyses were conducted, including the near-edge (XANES) and extended energy (EXAFS) regions."
+            },
+            {
+                "C_0101": "For comparison, analyses were also performed on the corresponding reference catalysts, such as Fe-foil, $\\mathrm{Fe_2O_3}$ , iron phthalocyanine (FePc), and $\\mathrm{FeS}_2$ ."
+            },
+            {
+                "C_0102": "The Fe K-edge XANES spectra (Fig. 3a) showed the edge position of FeNC-2 M was between $\\mathrm{FeS}_2$ and $\\mathrm{Fe_2O_3}$ , demonstrating the average valence state of Fe was between the Fe(II) and Fe(III) states and close to Fe(II) state."
+            },
+            {
+                "C_0103": "The Fourier transform (FT) EXAFS spectra of FeNC-2 M and the references were illustrated in Fig. 3b."
+            },
+            {
+                "C_0104": "The FeNC-2 M exhibited a prominent FT peak at about $1.4\\AA$ , which was mainly attributed to the Fe-N/O first coordination shell and close to that in the reference FePc ( $\\sim1.5\\AA$ )."
+            },
+            {
+                "C_0105": "Furthermore, there were a small shoulder peak at $1.85\\AA$ and an obvious peak at $2.3\\AA$ , arising from Fe-S and Fe-Fe scattering paths, respectively, and revealing the co-existence of Fe-N(O/S) $_x$ species and metallic Fe[20,26, 31]."
+            },
+            {
+                "C_0106": "Wavelet transform (WT) also was applied to discriminate the backscattering atoms, owing to the powerful resolution in both $k$ and $R$ spaces."
+            },
+            {
+                "C_0107": "As shown in Fig. 3c, WT analysis of FeNC-2 M revealed an intensity maximum at low k value ( $\\sim3.3\\AA^{-1}$ )."
+            },
+            {
+                "C_0108": "Besides, distinct from those (Fig. S8a) of $\\mathrm{Fe_2O_3}$ ( $\\sim7.5\\AA^{-1}$ ) and Fe-foil ( $\\sim7.6\\AA^{-1}$ ), the contour plots of FeNC-2 M showed an additional smaller peak at high k value ( $\\sim7\\AA^{-1}$ ) as a ridge that could be assigned to Fe-Fe scattering."
+            },
+            {
+                "C_0109": "Taking into account the results presented in XRD and HAADF-STEM studies, it can be assumed that Fe in FeNC-2 M existed primarily as highly monodispersed atoms, but also as many tiny nanoclusters."
+            },
+            {
+                "C_0110": "Quantitatively, the structural parameters at Fe K-edge were extracted by a least-square EXAFS fitting in $R$ , $q$ , and $k$ spaces."
+            },
+            {
+                "C_0111": "Based on the results (Fig. 3d, e, Fig. S8c, and Table S3), the first coordination shell around Fe for FeNC-2 M was constructed (the inset of Fig. 3d)."
+            },
+            {
+                "C_0112": "It demonstrated the presence of both Fe-N and Fe-S, with coordination numbers of 3 and 1, respectively."
+            },
+            {
+                "C_0113": "Their respective mean bond length were 1.94 and $2.33\\AA$ , close to the fitting result of FePc and the theoretical value of $\\mathrm{FeS}_2$ , further evidencing the Fe- $\\mathrm{N}_3\\mathrm{S}$ coordination structure in this catalyst."
+            },
+            {
+                "C_0114": "Meanwhile, there also existed an absorbed O atom on the axial direction of Fe- $\\mathrm{N}_3\\mathrm{S}$ plane."
+            },
+            {
+                "C_0115": "The oxygen may be adsorbed in the form of $\\mathrm{O}_2$ , due to the exposure of the catalyst to air."
+            },
+            {
+                "C_0116": "Moreover, a small contribution from the Fe-Fe scattering path relative to Fe nanoclusters was determined, illustrating that minimum amount of Fe species were present in metallic clusters form."
+            },
+            {
+                "C_0117": "For comparison, the first shell of Fe center in FePc (Fig. S8b, d) exhibited a coordination number of four, directly connected by four N atoms."
+            },
+            {
+                "C_0118": "According to the EXAFS fitting and TEM results, the Fe atoms coordinated with three N atoms and one S atom, and the $\\mathrm{Fe - N_3S}$ species were anchored in N-doped carbon with Fe nanoclusters."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "I_0003": "Fig. 3. (a) Fe K-edge XANES and (b) FT $\\mathrm{k}^3$ -weighted EXAFS spectra of FeNC-2 M catalyst and the reference samples Fe-foil, $\\mathrm{Fe}_2\\mathrm{O}_3$ , $\\mathrm{FePc}$ , and $\\mathrm{FeS}_2$ ."
+            },
+            {
+                "I_0004": "(c) WT-EXAFS spectra of FeNC-2 M."
+            },
+            {
+                "I_0005": "The corresponding FT-EXAFS fitting curve of FeNC-2 M in (d) $R$ -space and (e) $k$ -space."
+            },
+            {
+                "I_0006": "Inset: the schematic atomic model of FeNC-2 M, C (gray), N (blue), O (red), S (yellow) and Fe (brown)."
+            },
+            {
+                "I_0007": "We executed EXAFS curve fitting on the first coordination shell of Fe centers by considering two backscattering paths (including Fe-N and Fe-S), where Fe-Fe bonds also exist in FeNC-2 M catalyst."
+            },
+            {
+                "I_0008": "(f) $\\mathbf{N}_2$ adsorption/desorption isotherms of FeNC- $n\\mathbf{M}$ catalysts"
+            },
+            {
+                "I_0009": "."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "C_0119": "Therefore, under the near-range engagement, the adjacent S atoms and Fe nanoclusters could act as the modulators to affect the activity of the Fe centers."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0120": "The porosity characteristics of the porous carbon were further analyzed using nitrogen physisorption measurements (Table S2)."
+            },
+            {
+                "C_0121": "Apparently, FeNC-2 M showed a high specific surface area (SSA) of $1502\\mathrm{m}^2\\mathrm{g}^{-1}$ with a pore volume of $1.23\\mathrm{cm}^3\\mathrm{g}^{-1}$ , which were significantly larger than those of FeNC-3 M $(554\\mathrm{m}^2\\mathrm{g}^{-1}$ and $0.56\\mathrm{cm}^3\\mathrm{g}^{-1})$ and similar to those of FeNC-1 M $(1517\\mathrm{m}^2\\mathrm{g}^{-1}$ and $1.04\\mathrm{cm}^3\\mathrm{g}^{-1})$ ."
+            },
+            {
+                "C_0122": "The isotherms and pore size distribution (PSD) (Fig. 3f and S7e) illustrated the critical influence of the amount of MgO and KCl template on the pore structure."
+            },
+            {
+                "C_0123": "As shown in Fig. 3f, the type-IV isotherms with characteristic H3 hysteresis loop at higher pressure"
+            },
+            {
+                "C_0124": "confirmed the hierarchically"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0125": "porous superstructure of FeNC- $n$ M catalysts"
+            },
+            {
+                "C_0126": "."
+            },
+            {
+                "C_0127": "The steep $\\mathrm{N}_2$ uptake at low relative pressure $(P / P_0)$ and gentle uptake at high $P / P_0$ for FeNC- $n$ M indicated the coexistence of abundant micropores and mesopores."
+            },
+            {
+                "C_0128": "Thereinto, the amount of adsorption at $P / P_0$ below 0.40 was almost equal for FeNC-1 M and FeNC-2 M, while the hysteresis loop of FeNC-2 M was obviously larger than that of FeNC-1 M, attributing to more well-developed mesoporosity for FeNC-2 M."
+            },
+            {
+                "C_0129": "Specifically, by elevating the MgO and KCl content, the average pore diameter (APD) of FeNC- $n$ M gradually increased from 2.73 (FeNC-1 M) to 3.28 (FeNC-2 M) and 4.01 nm (FeNC-3 M)."
+            },
+            {
+                "C_0130": "These results indicated that high template content could favor the formation of mesopores, while the porous structure collapsed when the template content was too high, due to numerous metal agglomerations and excessive decomposition of the carbon"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0131": "skeleton"
+            },
+            {
+                "C_0132": "."
+            },
+            {
+                "C_0133": "These porosity characteristics were also verified in the PSD (Fig. S7e) and SEM images (Fig. S2)."
+            },
+            {
+                "C_0134": "The in situ porous MgO and KCl were an efficient substrate to promote the decomposition and reconstitution of N/S-containing carbon precursors, thus resulting in the hierarchical porous graphene layers with conductive and stable framework [14]."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0135": "The ORR performance of the designed catalysts was comprehensively assessed in a broad pH range by employing various techniques."
+            },
+            {
+                "C_0136": "These ORR activity parameters obtained from ring-disk electrode (RDE) tests were summarized in Table S4."
+            },
+            {
+                "C_0137": "To our delight, in the linear sweep voltammogram (LSV) curves, FeNC-2 M exhibited superior electrocatalytic activity in terms of high half-wave potential and kinetic current density $(E_{1/2}, 0.897\\mathrm{~V}; J_{\\mathrm{k}}@0.85\\mathrm{~V}, 8.37\\mathrm{~mA}\\mathrm{~cm}^{-2})$ under alkaline condition (Fig. 4a, 4d and Fig. S9), surpassing that of FeNC-1 M (0.873, 4.60) and FeNC-3 M (0.840, 2.54), and even exceeding that of commercial Pt/C (0.852, 3.41)."
+            },
+            {
+                "C_0138": "The corresponding Tafel slope (Fig. 4b) of FeNC-2 M was determined to be $49\\mathrm{mVdec}^{-1}$ , which was greatly lower than that of other catalysts $(55\\mathrm{mVdec}^{-1}$ for FeNC-1 M, $63\\mathrm{mVdec}^{-1}$ for FeNC-3 M, and $78\\mathrm{mVdec}^{-1}$ for Pt/C), indicating the fast kinetics for FeNC-2 M."
+            },
+            {
+                "C_0139": "Furthermore, compared with the performance of catalysts treated with different acid concentration, the ORR activity of FeNC-2 M showed obvious advantages over FeNC-2 M-0.25 H and FeNC-2 M-0.5 H catalysts (Fig. 4c, d), indicating the important role of $\\mathrm{Fe - N_3S}$ sites"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0140": "coexisting with plentiful Fe nanoclusters instead of large metal particles."
+            },
+            {
+                "C_0141": "A gap of $15\\mathrm{mV}$ in $E_{1 / 2}$ between the FeNC-2 M and FeNC-2 M-2 H catalyst with a relatively small number of Fe nanoclusters revealed the promotion effect of plentiful Fe clusters on the activity of single metal atoms."
+            },
+            {
+                "C_0142": "The catalyst without S and Fe clusters have been reported in previous work with a $E_{1 / 2}$ of only $0.869\\mathrm{V}[14]$ , further demonstrating the synergistic effect of Fe cluster and S dopants."
+            },
+            {
+                "C_0143": "In neutral pH (Fig. S9i), FeNC-2 M exhibited an $E_{1 / 2}$ of $0.683\\mathrm{V}$ in $0.05\\mathrm{M}$ PBS electrolyte, which was about $46\\mathrm{mV}$ more positive than that of $\\mathrm{Pt} / \\mathrm{C}$ catalyst."
+            },
+            {
+                "C_0144": "Furthermore, in acidic pH (Fig. 4e and Table S4), FeNC-2 M also presented respectable ORR performance, including $E_{1 / 2}$ of $0.794\\mathrm{V}$ and diffusion-limited current density $(J_{\\mathrm{L}})$ of $5.47\\mathrm{mAcm}^{-2}(0.5\\mathrm{MH}_2\\mathrm{SO}_4)$ , and was very close to that of $\\mathrm{Pt} / \\mathrm{C}$ $(0.819\\mathrm{V}$ and $5.14\\mathrm{mAcm}^{-2})$ ."
+            },
+            {
+                "C_0145": "The electrochemical performance of FeNC-2 M in $\\mathsf{pH}$ -universal media was located at a high level compared with reported non-noble metal catalysts (Tables S5)."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0146": "The catalytic pathways during ORR process were confirmed by monitoring the formation of peroxide species $\\mathrm{(HO_2)}$ and the number of electrons transferred per oxygen molecule $(n)$ via the rotating ring-disk electrode (RRDE)."
+            },
+            {
+                "C_0147": "From $0.3 - 0.8\\mathrm{V}$ (Fig.4f), the $\\mathrm{HO}_2^-$ yield of all FeNC-nM catalysts were in the range of $1.04 - 5.65\\%$ and $n$ remained at 3.88-3.97, exceeding Pt/C catalyst, among which FeNC-2 M catalyst delivered the lowest $\\mathrm{HO}_2^-$ yield (below $3.42\\%$ ) and the highest $n$ above 3.93), indicating the ORR catalysis proceeded dominantly via a 4-"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0010": "Fig. 4. (a, c) LSV curves of as-prepared catalysts and Pt/C catalyst recorded at $10\\mathrm{mVs^{-1}}$ and 1600 rpm."
+            },
+            {
+                "I_0011": "(b) Tafel slopes of FeNC-nM catalysts."
+            },
+            {
+                "I_0012": "(d) Corresponding halfwave potential $(E_{1 / 2})$ and kinetic current density $(J_{\\mathrm{k}})$ at $0.85\\mathrm{V}$ of all prepared catalysts."
+            },
+            {
+                "I_0013": "(e) LSV curves of FeNC-2 M in $0.5\\mathrm{M}$ $\\mathrm{H}_2\\mathrm{SO}_4$ and Pt/C in $0.1\\mathrm{M}$ $\\mathrm{HClO_4}$ electrolyte at $10\\mathrm{mVs^{-1}}$ and 1600 rpm."
+            },
+            {
+                "I_0014": "(f) Peroxide yields and electron transfer number of FeNC-nM and Pt/C catalyst in alkaline media."
+            },
+            {
+                "I_0015": "Chronoamperometric response of FeNC-2 M and Pt/C at $0.7\\mathrm{V}$ in (g) alkaline, (h) neutral, and (i) acid media."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0148": "electron pathway"
+            },
+            {
+                "C_0149": "under alkaline condition"
+            },
+            {
+                "C_0150": "."
+            },
+            {
+                "C_0151": "Furthermore, the electrochemical surface area (ECSA) is another important factor to elucidate the accessible active area."
+            },
+            {
+                "C_0152": "The ECSA of FeNC- $n$ M catalysts was measured via double-layer capacitance (DL-capacity) according to cyclic voltammetry (CV) curves (Fig. S10)."
+            },
+            {
+                "C_0153": "Intriguingly, although SSA of FeNC-2 M was slightly lower than that of FeNC-1 M, FeNC-2 M showed the highest DL-capacity $(64.5\\mathrm{mFcm}^{-2})$ among FeNC- $n$ M and Pt/C catalysts, indicating that well-developed mesopores were more conducive to maintaining superb accessibility of active sites, thereby improving their utilization efficiency."
+            },
+            {
+                "C_0154": "In addition, it is worth noting that the ECSA of Pt/C was only one fourth of that of FeNC-3 M (FeNC-3 M: $22.8\\mathrm{mFcm}^{-2}$ ,"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0155": "Pt/C: $5.3\\mathrm{mFcm}^{-2}$ )."
+            },
+            {
+                "C_0156": "It indicated that FeNC-3 M catalyst exhibited a more developed porous structure and could expose more active sites."
+            },
+            {
+                "C_0157": "However, as proved by XRD patterns, the exposed active sites were mainly FeS species which were formed as a result of higher content of templates."
+            },
+            {
+                "C_0158": "The worse dispersion and bigger particle size of FeS over the FeNC-3 M carbon surface made its inferior ORR performance to Pt/C."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0159": "As an ideal ORR catalyst, much more attention should be devoted to the long-term durability."
+            },
+            {
+                "C_0160": "The potentiostatic stability tests of ORR were performed by using the chronoamperometric measurement in an $\\mathrm{O}_2$ saturated alkaline, neutral, and acidic solution under the potential of $0.7\\mathrm{V}$ and a rotational speed of $200\\mathrm{rpm}$ continuously."
+            },
+            {
+                "C_0161": "As shown in"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0016": "(a)"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0017": "FeN₃S"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0018": "FeN4"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0019": "(b)"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0020": "(c)"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0021": "(d)"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0022": "(f)"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0023": "FeN₃S-Fe₄"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0024": "$\\mathbf{F e N}_{4} - \\mathbf{F e}_{4}$"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0025": "FeN₃S"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0026": "FeN"
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "I_0027": "Fig. 5."
+            },
+            {
+                "I_0028": "Exploring the reinforced intrinsic activity for ORR."
+            },
+            {
+                "I_0029": "(a) Illustration of proposed four models."
+            },
+            {
+                "I_0030": "(b) Gibbs free energy diagrams at 0 and $1.23\\mathrm{V}$ on four sites."
+            },
+            {
+                "I_0031": "(c) Overall ORR mechanism on $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ model."
+            },
+            {
+                "I_0032": "(d) Comparison of adsorption free energy of ${}^{*}\\mathrm{OH}$ on various sites and corresponding overpotential."
+            },
+            {
+                "I_0033": "(e) Calculated charge density differences for various sites."
+            },
+            {
+                "I_0034": "The charge accumulation and depletion were colored in yellow and cyan, respectively."
+            },
+            {
+                "I_0035": "(f) In situ ATR-SEIRAS for FeNC-2 M for ORR at different potentials."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0162": "Fig. 4 g, about $99.0\\%$ original current density was retained over a period of $40000\\mathrm{s}$ in $0.1\\mathrm{M}$ KOH for FeNC-2 M, better than that of $\\mathrm{Pt / C}$ $(92.7\\%)$ ."
+            },
+            {
+                "C_0163": "Likewise, compared with the detectable shift for $\\mathrm{Pt / C}$ (Fig. S11b), the shift in $E_{\\mathrm{onset}}$ and $E_{1/2}$ was ignorable in the LSV curves of FeNC-2 M (Fig. S11a), reflecting its high catalytic stability."
+            },
+            {
+                "C_0164": "To our satisfactory, the FeNC-2 M and Pt/C displayed current drop of $9.6\\%$ and $61.5\\%$ under neutral media after $40,000\\mathrm{s}$ (Fig. 4 h), as well as $11.7\\%$ and $50.2\\%$ under acidic media (Fig. 4i) after $20,000\\mathrm{s}$ , respectively, further evidencing the superiority of the former."
+            },
+            {
+                "C_0165": "Impressively, after undergoing the above stability test, no obvious large metal particles were visible at the TEM images (Fig. S12) of FeNC-2 M, and meanwhile, its developed pore structure could be well maintained, highlighting the superior anticorrosion capability."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0166": "In addition, the methanol tolerance of FeNC-2 M was assessed by injecting $20~\\mathrm{mL}$ methanol into $0.1\\mathrm{M}$ KOH solution."
+            },
+            {
+                "C_0167": "As evidenced in Fig. S13a, a sharp decrease in $\\mathrm{Pt / C}$ was discovered upon methanol injection."
+            },
+            {
+                "C_0168": "By contrast, there was negligible decay in the current density for FeNC-2 M catalyst with the introduction of methanol (Fig. S13b,c), reflecting its excellent resistance to methanol crossover."
+            },
+            {
+                "C_0169": "To further ascertain the role of Fe centers (including $\\mathrm{Fe - N_3S}$ species and Fe nanoclusters) in the ORR, thiocyanide $(\\mathrm{SCN}^{-})$ ions, with high affinity to Fe, were introduced to poison the Fe-based sites [41,44]."
+            },
+            {
+                "C_0170": "Upon the introduction of $\\mathrm{SCN}^{-}$ into $0.1\\mathrm{M}$ $\\mathrm{HClO}_4$ (Fig. S13d), the $E_{1 / 2}$ and $J_{\\mathrm{L}}$ of FeNC-2 M decreased significantly by $\\sim 60\\mathrm{mV}$ and $0.84\\mathrm{mAcm}^{-2}$ respectively, manifesting that Fe centers were responsible for the superior ORR performance of FeNC-2 M."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0171": "To elucidate the influences of electronic properties and structures on the excellent ORR activities of FeNC-2 M, theoretical study was conducted using density functional theory (DFT) calculations."
+            },
+            {
+                "C_0172": "By comprehensive consideration of XAS and TEM results as well as the results reported in literatures[11,18,20,31,45], five models, namely, $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ , $\\mathrm{FeN_4 - Fe_4}$ , $\\mathrm{FeN_3S}$ , $\\mathrm{FeN_4}$ , and $\\mathrm{Fe_4}$ (Fig. 5a and Fig. S14) after geometry optimization were constructed to insight into the synergistic effect of Fe cluster and S dopants (i.e., S bonding to metal atom)."
+            },
+            {
+                "C_0173": "The ORR mechanism is generally accepted in the following steps, where $\\mathrm{O_2}$ is indirectly reduced to $\\mathrm{H}_2\\mathrm{O}$ through the formation of a peroxy intermediate:"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [
+            {
+                "C_0174": "The optimized adsorption configurations of ORR intermediates $\\mathrm{(^{*}OOH, ^{*}O}$ and ${}^{*}\\mathrm{OH}$ Fig.S15-17) and more computational results were given in supporting information."
+            },
+            {
+                "C_0175": "The free energy diagrams (Fig. 5b and Fig. S17a) showed that at $\\mathrm{U} = 0\\mathrm{V}$ all the electron transfer steps were exothermic $(\\Delta G < 0)$ , and at $\\mathrm{U} = 1.23\\mathrm{V}$ the protonation of ${}^{*}\\mathrm{OH}$ for all Fe centers were the most endothermic and therefore the rate-determining step (RDS) toward ORR."
+            },
+            {
+                "C_0176": "By comparing the $\\Delta G$ of RDS, it can be observed that the catalytic activity of these electrocatalysts went by the following order: $\\mathrm{FeN_3S - Fe_4 > FeN_4 > FeN_4 - Fe_4 > FeN_3S > Fe_4}$ ."
+            },
+            {
+                "C_0177": "Numerous studies[20,46-48] have indicated that the $\\mathrm{FeN_4}$ site is located at the left side of the Volcano plot, and its strong adsorption, in turn, leads to the difficult desorption of ORR intermediates from the active center and thus a slower ORR kinetics (Fig. 5b)."
+            },
+            {
+                "C_0178": "However, compared with $\\mathrm{FeN_4}$ , the introduction of S dopants $\\mathrm{(FeN_3S)}$ and Fe cluster $\\mathrm{(FeN_4 - Fe_4)}$ as well as the independent $\\mathrm{Fe_4}$ (Fig. 5b and Fig. S17a) showed stronger adsorption of all ORR intermediates and smaller exothermic for the protonation of ${}^{*}\\mathrm{OH}$ $(\\mathrm{U} = 0\\mathrm{V})$ , confirming lower catalytic activity for ORR."
+            },
+            {
+                "C_0179": "Impressively, $\\mathrm{FeN_3S - Fe_4}$ exhibited the biggest ${}^{*}\\mathrm{OH}$ adsorption free energy $(-0.77\\mathrm{eV},$ Fig. 5d on RDS and the lowest ORR overpotential $(0.46\\mathrm{V})$ compared with all control structures, demonstrating the lower reaction energy barrier and superior ORR activities of the $\\mathrm{FeN_3S - Fe_4}$ with extra Fe cluster and S dopants synergistic incorporation on Fe"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0180": "center."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0181": "Considering the existence of O-containing ligands and the influence of the ${}^{*}\\mathrm{OH}$ desorption (RDS), the $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ models with different hydroxyl adsorption (Fig. S18) have been built to systematically investigate the influence of various structural models."
+            },
+            {
+                "C_0182": "When hydroxyl ligand adsorbed on one side of the $\\mathrm{Fe_4}$ cluster, the $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ -OH-up model (Fig. S18a) was constructed."
+            },
+            {
+                "C_0183": "Its RDS (Fig. S19) turned to be the third electron-transfer step, i.e., the formation of ${}^{*}\\mathrm{OH}$ from the protonation of ${}^{*}\\mathrm{O}$ (Fig. S20b, c), having a bigger overpotential $(\\eta)$ of $0.685\\mathrm{V}$ compared with $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ model (Fig. S19)."
+            },
+            {
+                "C_0184": "The proposed mechanisms of ORR on $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ (Pathway 1) and $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ -OH-up models (Pathway 2) were depicted in Fig. 5c, S21 and S22, which belonged to the indirect four-electron processes."
+            },
+            {
+                "C_0185": "When hydroxyl ligand adsorbed on the opposite side of the $\\mathrm{Fe_4}$ cluster, namely, $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ -OH-down model (Fig. S18b), its adsorbed ${}^{*}\\mathrm{OOH}$ was decomposed directly to ${}^{*}\\mathrm{O}$ and ${}^{*}\\mathrm{OH}$ , that is, $\\mathrm{OOH}^* \\rightarrow \\mathrm{O}^* + \\mathrm{OH}^*$ (Fig. S19 and S20d) and direct four-electron processes may occur (Pathway 3, Fig. S23), due to the lower barrier of $\\mathrm{O}_2$ dissociation."
+            },
+            {
+                "C_0186": "However, the subsequent ${}^{*}\\mathrm{OH}$ desorption $(\\mathrm{O}^* + \\mathrm{OH}^* + 3$ $(\\mathrm{H}^{+} + \\mathrm{e}^{-}) \\rightarrow \\mathrm{O}^* + \\mathrm{H}_2\\mathrm{O} + 2(\\mathrm{H}^+ + \\mathrm{e}^-)$ , corresponding to step (2)) needed an endothermic reaction energy of $0.879\\mathrm{eV}$ , even at $\\mathrm{U} = 0\\mathrm{V}$ , resulting in a high overpotential."
+            },
+            {
+                "C_0187": "The mechanism of ORR on $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ model with or without ${}^{*}\\mathrm{OH}$ is summarized in Fig. 5c."
+            },
+            {
+                "C_0188": "The ORR mechanism on $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ model could only follow an indirect four-electron processes."
+            },
+            {
+                "C_0189": "Due to an extremely low barrier of $\\mathrm{O}_2$ dissociation for Pathway 3 (OH-down model) and bigger overpotential for Pathway 2 (OH-up model), it can be assumed that the clean $\\mathrm{FeN}_3\\mathrm{S - Fe_4}$ surface without additional ${}^{*}\\mathrm{OH}$ adsorption was the true active sites."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0190": "To further uncover S dopant and Fe cluster-induced electronic regulation mechanism on Fe-N center, the charge density differences (Fig. 5e and Fig. S24) and Bader charge (Table S6) of four Fe models with adsorbed $*\\mathrm{OH}$ as the RDS were directly calculated."
+            },
+            {
+                "C_0191": "The calculation results showed that S atoms on $\\mathrm{Fe - N_3S}$ and $\\mathrm{FeN}_3\\mathrm{S - Fe}_4$ models was inclined to donate electrons to active sites, where the Bader charge of S in $\\mathrm{FeN}_3\\mathrm{S - Fe}_4$ was $+0.136$ , which was lower than that of $\\mathrm{Fe - N_3S(+0.236)}$ ."
+            },
+            {
+                "C_0192": "The total electrons on the O and H atoms (Table S6) obtained from the active center by $*\\mathrm{OH}$ adsorbed on $\\mathrm{FeN}_3\\mathrm{S - Fe}_4$ model were significantly reduced compared to the other models, thereby leading to its weakened adsorption and subsequent favorable desorption[49]."
+            },
+            {
+                "C_0193": "Overall, these DFT calculations showed that the introduced Fe cluster and S dopant synergistically modulated the electronic configurations of Fe center to enhance $\\mathrm{O}_2$ activation and optimize the adsorption of all oxygenated species, thus contributing to higher ORR activities."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0194": "To further investigate the oxygen intermediates during the ORR process, in situ attenuated total reflectance surface-enhanced infrared adsorption spectroscopy (ATR-SEIRAS) was performed for FeNC-2 M electrocatalyst by scanning the applied potential negatively from 1.2 to $0.2\\mathrm{V}$ vs RHE."
+            },
+            {
+                "C_0195": "Fig. 5f and Fig. S25 showed that there were no prominent peaks at a potential range from 1.2 to $1.0\\mathrm{V}$ , whereas numerous prominent signatures were observed after the voltage exceeded $1.0\\mathrm{V}$ , indicating the occurrence of ORR process."
+            },
+            {
+                "C_0196": "Fig. 5f revealed that there were two sharp absorption peaks at 1027 and $1448~\\mathrm{cm}^{-1}$ , corresponding to the O-O stretching mode of $\\mathrm{O}_2^-$ and $\\mathrm{O}_2$ adsorbed on the FeNC-2 M catalyst surface[50-52]."
+            },
+            {
+                "C_0197": "The peak at $1230~\\mathrm{cm}^{-1}$ emerged slowly upon decreasing the applied potentials, manifesting the bending mode vibrations of ${}^{*}\\mathrm{OOH}[51]$ ."
+            },
+            {
+                "C_0198": "As the potentials decreased, the intensity of these peaks was enhanced gradually, implying the dynamic coupling of oxygen species on the catalyst surface[50]."
+            },
+            {
+                "C_0199": "Meanwhile, the obvious signature of ${}^{*}\\mathrm{O}_2$ , ${}^{*}\\mathrm{O}_2$ , and ${}^{*}\\mathrm{OOH}$ also proved that the active sites of FeNC-2 M catalyst was conducive to oxygen adsorption, and the formation of these ORR intermediates was not the RDS toward ORR, coinciding with the DFT calculation results that the protonation processes of $\\mathrm{O}_2$ and $\\mathrm{OOH}^*$ are spontaneous and prone to occur."
+            },
+            {
+                "C_0200": "Besides these intermediate peaks, there was a broad OH stretching peak (Fig. S25a) arising between 3300 and $3700~\\mathrm{cm}^{-1}$ , manifesting the adsorption of water molecules and hydroxyls on the active sites."
+            },
+            {
+                "C_0201": "The peak at $1492~\\mathrm{cm}^{-1}$ (Fig. 5f) ascribing to H-O-H bending mode further verified the formation of water"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0202": "molecules[51,52]."
+            },
+            {
+                "C_0203": "These peaks gradually became intensified with decreasing potential, further confirming the high-efficiency ORR process."
+            },
+            {
+                "C_0204": "Obviously, the active centers in FeNC-2 M could markedly facilitate the dynamic progress of ORR, especially for the formation and cleavage of oxygen intermediates, thus delivering robust ORR performance."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0205": "Encouraged by superior ORR performance in half-cell test, Zn-air battery (ZAB) and microbial fuel cell (MFC) were assembled using the FeNC-2 M electrocatalyst as active air electrode."
+            },
+            {
+                "C_0206": "The homemade ZAB using FeNC-2 M as the cathode (FeNC-2 M-ZAB) gave a high open circuit potential (OCP) of $1.52\\mathrm{V}$ (Fig. 6a), close to the theoretical value of $1.65\\mathrm{V}$ ."
+            },
+            {
+                "C_0207": "Two series-connected FeNC-2 M-ZAB could easily lighten the red, yellow, and blue light-emitting diode (LED)."
+            },
+            {
+                "C_0208": "As shown in Fig. 6b, an impressive peak power density of $326\\mathrm{mWcm}^{-2}$ was achieved in FeNC-2 M-ZAB at a current density of $410\\mathrm{mA cm}^{-2}$ , prominently surpassing $\\mathrm{Pt / C - ZAB}$ $(243\\mathrm{mWcm}^{-2})$ and most of other ZAB previously reported (Table S5)."
+            },
+            {
+                "C_0209": "Furthermore, the durability of FeNC-2 M cathode was monitored using galvanostatic discharge measurement at $10\\mathrm{mA cm}^{-2}$ ."
+            },
+            {
+                "C_0210": "As illustrated in Fig. 6c, the discharge voltage of FeNC-2 M-ZAB was $\\sim 1.35\\mathrm{V}$ during the first discharge cycle."
+            },
+            {
+                "C_0211": "After replacing the Zn anode and electrolyte periodically, the FeNC-2 M electrode could work stably in the button cell."
+            },
+            {
+                "C_0212": "Most intriguingly, only $\\sim 1.48\\%$ voltage retention was observed at 3rd cycle for FeNC-2 M-ZAB."
+            },
+            {
+                "C_0213": "Over a period of $139\\mathrm{h}$ (Fig. 6c), the discharge voltage of FeNC-2 M-ZAB was obviously larger than that of Pt/C-ZAB."
+            },
+            {
+                "C_0214": "In addition, under different current densities, the voltage plateaus of FeNC-2 M-ZAB (Fig. S26a) also higher than those of"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0215": "Pt/C-ZAB, especially at high current density (200 and $300\\mathrm{mAcm}^{-2}$ ), profiting from the high active sites and efficient mass transfer feature."
+            },
+            {
+                "C_0216": "These results confirmed the excellent activity and durability of FeNC-2 M catalyst for ZAB applications, reflecting the great feasibility as high-efficiency cathode catalyst."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0217": "Microbial fuel cell (MFC) is an attractive biotechnology that employs electroactive microbes as biocatalysts to directly harvest energy from wastewater and realizes wastewater treatment[53-55]."
+            },
+            {
+                "C_0218": "To evaluate the application potential of FeNC-2 M catalyst in neutral media, the single-chamber MFC unit with FeNC-2 M as air cathode was assembled, and the reaction process of FeNC-2 M-MFC was shown in Fig. 6d."
+            },
+            {
+                "C_0219": "Thereinto, the anode was the mixed strain from anaerobic domestic effluent to better simulate the actual environment."
+            },
+            {
+                "C_0220": "The different cathode catalysts were separately installed into the same MFC device overgrown with electricigens for minimizing the impact of anodic microorganisms on power output (Fig. S26b)."
+            },
+            {
+                "C_0221": "The polarization curves and power density curves of FeNC-2 M-MFC and Pt/C-MFC were recorded under the external resistance from 33000-51 $\\Omega$ , as depicted in Fig. 6e."
+            },
+            {
+                "C_0222": "The FeNC-2 M-MFC obtained a maximum power density of $2790\\mathrm{mW}\\mathrm{m}^{-2}$ , once again demonstrating enormous advantages over the MFC driven by Pt/C $(2036\\mathrm{mWcm}^{-2})$ and other non-precious ORR catalysts reported previously (Table S5)."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0223": "The stability of MFCs was assessed by monitoring the voltage output over $2354\\mathrm{h}$ across an external resistance of $1000\\Omega$ (Fig. 6g)."
+            },
+            {
+                "C_0224": "During the preliminary stage of MFCs operation, the voltages of all MFC devices were unstable, and no voltage platform appeared."
+            },
+            {
+                "C_0225": "This could be"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0036": "Fig. 6."
+            },
+            {
+                "I_0037": "(a) Photograph of the open-circuit voltage of FeNC-2 M-based Zn-air battery (ZAB) measured using a multimeter and LED powered by two ZABs in series."
+            },
+            {
+                "I_0038": "(b) Polarization and power density results, (c) discharging curves at $10\\mathrm{mA}\\mathrm{cm}^{-2}$ for FeNC-2 M and Pt/C-based ZABs."
+            },
+            {
+                "I_0039": "(d) Graphical representation of microbial fuel cell (MFC)."
+            },
+            {
+                "I_0040": "(e) Polarization curves and power outputs of FeNC-2 M and Pt/C-based MFC devices."
+            },
+            {
+                "I_0041": "(f) COD removal efficiency and coulombic efficiency."
+            },
+            {
+                "I_0042": "(g) Cell voltage output of MFC devices at a $1000\\Omega$ external resistance."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [
+            {
+                "C_0226": "interpreted that the inoculated bacteria needed sufficient time to adapt and reproduce[56]."
+            },
+            {
+                "C_0227": "After the second period, the output voltages of MFCs delivered a steady plateau and changed periodically with the consumption and replacement of the organic substrates."
+            },
+            {
+                "C_0228": "All the voltage platforms of FeNC-2 M-MFC were substantially higher than that of $\\mathrm{Pt / C - MFC}$ during the 16 cycles."
+            },
+            {
+                "C_0229": "The FeNC-2 M-MFC obtained a maximal output voltage of $594\\mathrm{mV}$ at the 2nd period."
+            },
+            {
+                "C_0230": "Its performance subsequently declined tardily to $529\\mathrm{mV}$ at the 16th period, and corresponding voltage attenuation was only $10.9\\%$ ."
+            },
+            {
+                "C_0231": "For comparison, the maximal voltage of $\\mathrm{Pt / C - MFC}$ was $471\\mathrm{mV}$ at the 2nd period, which dropped sharply to $108\\mathrm{mV}$ at the 16th period with attenuation rate of $77\\%$ , attributing to chloride or sulfide poisoning[57,58]."
+            },
+            {
+                "C_0232": "The repeatable voltage platforms illustrated that the FeNC-2 M cathode had high resistance toward poisoning, and displayed the unparalleled stability in MFC operation."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0233": "Apart from electricity power generation, the substrate oxidation performance was assessed by monitoring the chemical oxygen demand (COD) removal efficiency."
+            },
+            {
+                "C_0234": "The initial COD concentration for the substrate solution was $4308\\mathrm{mgL^{-1}}$ , which consisted of culture medium and domestic effluent with volume ration of 3:1."
+            },
+            {
+                "C_0235": "The average COD removal rate for FeNC-2 M-MFC (Fig. 6f) was up to $87.4\\pm 0.3\\%$ during the 2nd and 3rd operation phase, surpassing that of control Pt/C-MFC $(85.6\\pm 1.5\\%)$ ."
+            },
+            {
+                "C_0236": "Meanwhile, approximately $17.7\\pm 0.1\\%$ of coulombic efficiency (CE) was achieved in FeNC-2 M -MFC (Fig. 6f), which showed obvious advantage over the Pt/C-MFC $(11.0\\pm 1.0\\%)$ ."
+            },
+            {
+                "C_0237": "The high COD removal efficiency and CE highlighted the superior degradability of organic substrates and efficient electronic recycling capability, attributing to the good catalytic activity and high conductivity of FeNC-2 M cathode."
+            },
+            {
+                "C_0238": "The high catalytic kinetics of FeNC-2 M along with good biological tolerance could facilitate the efficient electron transport from the microbe to the electrode, thus reducing the electron loss to increase the CE, and accelerating the electricity production and reproduction of microorganisms[59,60]."
+            },
+            {
+                "C_0239": "The respectable catalytic performance of FeNC-2 M cathode pose it as a promising electrocatalyst in MFCs and ZABs."
+            },
+            {
+                "C_0240": "The superiority for FeNC-2 M in energy conversion systems originated from its unique compositional and structural advantages, including the highly active Fe species with atomically dispersed Fe atoms and nanoclusters for boosting the reaction kinetics, reasonable pore structure for enhancing the exposure of catalytic active centers, high graphitization degree for guaranteeing the stability of the metal sites."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0005": "3. Conclusion "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0241": "In summary, a general strategy to effectively regulate the electrocatalytic oxygen reduction activity of metal single-atoms sites was demonstrated."
+            },
+            {
+                "C_0242": "The single-atomic Fe catalyst synergistically enhanced by contiguous S atoms and nanometer-sized metal clusters were synthesized via an aggregation-redispersion route, in which Fe was directly bonded with S and immediately adjacent to metal cluster."
+            },
+            {
+                "C_0243": "Due to the near-range interaction, the ambient S atoms and Fe nanoclusters could rationally control the unsymmetrical interface structure of central Fe atoms, resulting in a unique electron configuration."
+            },
+            {
+                "C_0244": "DFT computations disclosed that the synergistic effect of heteroatom and clusters can adequately tune the electronic configurations of single-atom Fe in FeNC-2 M, thus accelerating the desorption of OH* as the RDS and lowering the reaction energy barrier."
+            },
+            {
+                "C_0245": "The dynamic progress of ORR verified the improved reaction kinetics."
+            },
+            {
+                "C_0246": "Benefiting from high activity and accessibility of metal sites, as well as its admirable anticorrosion capability triggered by the graphitized carbon support, the optimal FeNC-2 M catalyst displayed impressive ORR activity and superior durability in wide pH range."
+            },
+            {
+                "C_0247": "Furthermore, FeNC-2 M-based ZABs and MFCs demonstrated a substantial improvement of catalytic performance compared to the benchmark Pt/C catalyst, especially in the cycling stability, elucidating the promising perspective for practical applications."
+            },
+            {
+                "C_0248": "This work shed insight on electron modulation and the performance optimization of"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0249": "atomic electrocatalysts, which could inspire the exploration of efficient SACs."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0006": "CRediT authorship contribution statement "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0250": "Lixian Sun: Software, Investigation."
+            },
+            {
+                "C_0251": "Liming WANG: Supervision, Methodology, Funding acquisition."
+            },
+            {
+                "C_0252": "Baitao Li: Writing - review & editing, Supervision, Project administration, Funding acquisition, Conceptualization."
+            },
+            {
+                "C_0253": "Chunfeng Shao: Writing - original draft, Methodology, Investigation, Formal analysis."
+            },
+            {
+                "C_0254": "Jiahui Hua: Investigation."
+            },
+            {
+                "C_0255": "Qiang Li: Methodology, Investigation."
+            },
+            {
+                "C_0256": "Yongpeng Xia: Software, Investigation."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0007": "Declaration of Competing Interest "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0257": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0008": "Data Availability "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0258": "Data will be made available on request."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0009": "Acknowledgements "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0259": "This research was supported by the National Natural Science Foundation of China (21872056, U2032152, 52101245, U20A20237, 52371218), Natural Science Foundation of Guangdong Province (2023A1515011249, 2021A1515010149), the Research Fund Program of Guangdong Provincial Key Laboratory of Fuel Cell Technology (FC202208), and the Key Foundation of Educational Commission of Anhui Province (2022AH050376 and KJ2021A0518)."
+            },
+            {
+                "C_0260": "The authors also thank the Science Research and Technology Development Project of Guilin (20210102-4), Guangxi Bagui Scholar Foundation and Guilin Lijiang Scholar Foundation."
+            },
+            {
+                "C_0261": "The authors thank BL20U of Shanghai Synchrotron Radiation Facilities (SSRF) for providing the beam time and thank Dr. Fanfei Sun and Dr. Jingyuan Ma."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0010": "Appendix A. Supporting information "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [
+            {
+                "C_0262": "Supplementary data associated with this article can be found in the online version at doi:10.1016/j.nanoen.2024.109668."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "T_0011": "References "
+            }
+        ],
+        "type": "title"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    },
+    {
+        "content": [],
+        "type": "list"
+    },
+    {
+        "content": [
+            {
+                "C_0263": "Chunfeng Shao received her Ph.D. from South China University of Technology in 2021."
+            },
+            {
+                "C_0264": "She is now a lecturer in Huaibei Normal University."
+            },
+            {
+                "C_0265": "Her research interest is focused on the rational design and controllable synthesis of atomic-scale materials for applications in energy storage and catalysis."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0266": "Jiahui Hua received his B.S. degree from Huaibei Normal University in Materials Physics."
+            },
+            {
+                "C_0267": "Now he is a master degree candidate in material science and engineering from Huaibei Normal University."
+            },
+            {
+                "C_0268": "His current research interest is electrocatalytic $\\mathrm{CO}_{2}$ reduction."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0269": "Qiang Li received his Ph.D. from Shanghai Jiao Tong University in 2017."
+            },
+            {
+                "C_0270": "He is now an associate professor in Huaibei Normal University."
+            },
+            {
+                "C_0271": "His research interest is focused on nanoscaled materials and their application in photocatalysis, photoelectrocatalysis and environmental remediation."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0272": "Yongpeng Xia received his Ph.D. from Guilin University of Electronic Technology in 2020."
+            },
+            {
+                "C_0273": "Currently he is an associate professor in School of Materials Science and Engineering, Guilin University of Electronic Technology."
+            },
+            {
+                "C_0274": "His research interests focus on new materials for energy storage and conversion, especially hydrogen storage materials, phase-change materials, nano-structured catalytic materials, thermochemistry, and thermal management."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "I_0043": "chemistry, and sensors."
+            }
+        ],
+        "type": "image"
+    },
+    {
+        "content": [
+            {
+                "C_0275": "Lixian Sun is a professor at the Guilin University of Electronic Technology of China."
+            },
+            {
+                "C_0276": "He worked at Dalian Institute of Chemical Physics, Chinese Academy of Sciences from 2001 to 2012 as a Professor."
+            },
+            {
+                "C_0277": "He received his Bachelors from Hunan University in 1984, MSc in 1987 and PhD in 1994."
+            },
+            {
+                "C_0278": "He was elected as the Foreign Member of Russian Academy of Natural Sciences (RAEN), Foreign Member of European Academy of Sciences (EurAsc), and Fellow of Royal Society of Chemistry (FRSC)."
+            },
+            {
+                "C_0279": "He got a fellowship from the Humboldt Foundation from 1995 to 1996."
+            },
+            {
+                "C_0280": "He held the NEDO, STA, and AIST fellowships at National Institute of AIST Tsukuba Center (Japan) from 1996 to 2001."
+            },
+            {
+                "C_0281": "He is currently focusing on research in energy storage, especially hydrogen storage materials, biofuel cells, thermo"
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0282": "Liming Wang is a professor of Chemistry at South China University of Technology (SCUT)."
+            },
+            {
+                "C_0283": "He received his Bachelor degree from Fudan University in 1991, Master of Science from Dalian Institute of Chemical Physics in 1994, and PhD in 2002 from University of California, Riverside."
+            },
+            {
+                "C_0284": "After post-doc at Emory University and Leeds University, he joined SCUT in 2005."
+            },
+            {
+                "C_0285": "His research focuses on the atmospheric oxidation mechanism of volatile organic compounds, the photochemical degradation of emerging pollutants, and energy storage by sodium-ion battery."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [
+            {
+                "C_0286": "Baitao Li received her Bachelor degree and Master degree of Science from Northeast Normal University in 1991 and 1994, PhD degree in Engineering from University of Tokyo in 2003."
+            },
+            {
+                "C_0287": "She carried out her postdoctoral research in the laboratory of Professor Keiichi Tomishige at University of Tsukuba before she took up her current position as a Professor of Chemistry at South China University of Technology in 2006."
+            },
+            {
+                "C_0288": "Her current research interests include the functional materials, natural gas reforming, fuel cell, and electrochemistry."
+            }
+        ],
+        "type": "text"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "header"
+    },
+    {
+        "content": [],
+        "type": "page_number"
+    }
+]

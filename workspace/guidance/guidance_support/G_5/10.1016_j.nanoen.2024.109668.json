@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe dissolution is independent of coordination environments",
+            "Surface oxidation states have no influence on Fe atomic stability",
+            "Durability improvements are unrelated to Fe dissolution control"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

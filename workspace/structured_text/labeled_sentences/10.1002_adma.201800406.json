@@ -1,0 +1,479 @@
+[
+    {
+        "T_0000": "Bioinspired Electrocatalysis of Oxygen Reduction Reaction in Fuel Cells Using Molecular Catalysts "
+    },
+    {
+        "C_0000": "Noam Zion, Ariel Friedman, Naomi Levy, and Lior Elbaz"
+    },
+    {
+        "C_0001": "*"
+    },
+    {
+        "C_0002": "One of the most important chemical reactions for renewable energy technologies such as fuel cells and metal–air batteries today is oxygen reduction."
+    },
+    {
+        "C_0003": "Due to the relatively sluggish reaction kinetics, catalysts are necessary to generate high power output."
+    },
+    {
+        "C_0004": "The most common catalyst for this reaction is platinum, but its scarcity and derived high price have raised the search for abundant nonprecious metal catalysts."
+    },
+    {
+        "C_0005": "Inspired from enzymatic processes which are known to catalyze oxygen reduction reaction efficiently, employing transition metal complexes as their catalytic centers, many are working on the development of bioinspired and biomimetic catalysts of this class."
+    },
+    {
+        "C_0006": "This research news article gives a glimpse of the recent progress on the development of bioinspired molecular catalyst for oxygen reduction, highlighting the importance of the molecular structure of the catalysts, from advancements in porphyrins and phthalocyanines to the most recent work on corroles, and 3D networks such as metal–organic frameworks and polymeric networks, all with nonpyrolyzed, well-defined molecular catalysts for oxygen reduction reaction."
+    },
+    {
+        "C_0007": "US Department of Energy, the most prominent path for further reduction of the price of PEMFCs is via the replacement of Pt with precious group metal-free (PGM-free) catalysts."
+    },
+    {
+        "C_0008": "Alternative materials, based on earth-abundant chemical elements, are therefore highly sought for fuel cell applications.[7,8]"
+    },
+    {
+        "C_0009": "Hence, intensive effort has been invested in this direction.[9–11]"
+    },
+    {
+        "C_0010": "Biological processes, in which transition metal complexes of porphyrins play the main role, have inspired many of these approaches.[12,13]"
+    },
+    {
+        "C_0011": "Ever since Jasinski demonstrated for the first time that cobalt phthalocyanines can efficiently reduce oxygen in 1964,[14] porphyrins and phthalocyanines were studied extensively and inspired the current research in the field today."
+    },
+    {
+        "C_0012": "This family of catalysts, containing mostly the Fe(III) and Co(III) metal-ions, in its molecular, nonpyrolyzed form, has"
+    },
+    {
+        "T_0001": "1. Introduction "
+    },
+    {
+        "C_0013": "Oxygen reduction reaction (ORR) is one of the most important reactions in nature."
+    },
+    {
+        "C_0014": "It is catalyzed by different enzymes to facilitate a wide range of processes in biological systems, from metabolism to respiration.[1]"
+    },
+    {
+        "C_0015": "This fascinating reaction is also used for alternative energy generation and is often considered as one of the biggest impediments of technologies such as fuel cells and metal–air batteries, mainly due to its complexity and sluggishness.[2]"
+    },
+    {
+        "C_0016": "Although quite a bit of effort has been made into understanding the ORR mechanism and development of catalysts to expedite this reaction, it is still considered an unsolved riddle,[3] especially when it is catalyzed with newly developed materials.[4]"
+    },
+    {
+        "C_0017": "Today, most of the effort in this field is directed toward ORR catalysts for fuel cells."
+    },
+    {
+        "C_0018": "Platinum—still the most common catalyst for ORR in polymer electrolyte membrane fuel cells (PEMFCs)[5]—is scarce, prone to significant degradation, nonselective, and considered to be a major drawback for this technology owing to its high cost (up to $4 7 \\%$ of the total cost).[6]"
+    },
+    {
+        "C_0019": "According to the"
+    },
+    {
+        "C_0020": "shown some activity which is lower than that of the Pt-based catalysts, whereas their pyrolysis brought to an increase in overall activity."
+    },
+    {
+        "C_0021": "On the other hand, the unknown structure of the postpyrolyzed catalysts hampers their further development.[15,16]"
+    },
+    {
+        "C_0022": "In this research news article, we survey some of the most recent work in the field, focusing solely on PGM-free, nonpyrolyzed molecular catalysts with well-defined structures."
+    },
+    {
+        "T_0002": "2. Macrocyclic Compounds "
+    },
+    {
+        "C_0023": "Several decades ago, the work on catalysts based on macrocyclic compounds mainly focused on the biomimetic multimetal center approach,[17–22] which has proven to be important and effective but not applicable, due to the complexity of the structures and their relatively low chemical stability."
+    },
+    {
+        "C_0024": "In recent years, in order to further improve the ORR catalytic activity of porphyrins and phthalocyanines, new paths have been taken in order to take advantage of the macrocyclic compound’s unique properties such as bonding the metal center through a 5th axial ligand position to solid substrates,[23–29] to mimic the behavior of hemecontaining enzymes as illustrated in Figure 1."
+    },
+    {
+        "C_0025": "For example, Liu et al. demonstrated that when grafting an imidazole-coordinated Fe-2,6-difluorotetraphenylporphyrin (Fe-DFTPP) onto multiwalled carbon nanotubes (MWCNTs), the ORR activity of the porphyrin increases significantly, and surpasses that of commercial Pt/C catalysts, by measuring half-wave potentials as high as 0.88 V versus reversible hydrogen electrode (RHE)."
+    },
+    {
+        "C_0026": "These molecular catalysts are also claimed to show superior"
+    },
+    {
+        "C_0027": "The ORCID identification number(s) for the author(s) of this article"
+    },
+    {
+        "C_0028": "can be found under https://doi.org/10.1002/adma.201800406."
+    },
+    {
+        "C_0029": "DOI: 10.1002/adma.201800406"
+    },
+    {
+        "I_0000": "Figure 1. Schematic representation of a bioinspired (DFTPP)Fe-Im ORR catalyst covalently anchored to the surface of multiwalled CNTs."
+    },
+    {
+        "C_0030": "durability in comparison to platinum-based catalysts, demonstrating half of the degradation rate in terms of potential loss when compared to platinum"
+    },
+    {
+        "C_0031": "."
+    },
+    {
+        "C_0032": "Similar studies conducted by Zagal and co-workers[30,31] and others confirmed these results with other porphyrin/imidazole-based systems.[32]"
+    },
+    {
+        "T_0003": "3. Metal Organic Frameworks "
+    },
+    {
+        "C_0033": "Another possible path to increase their activity and utilize macrocyclic compounds in PEMFCs is synthesis of metal– organic frameworks (MOFs) based on porphyrins."
+    },
+    {
+        "C_0034": "The interest in MOFs has grown in recent years due to their wide array of possible applications."
+    },
+    {
+        "C_0035": "Clean energy storage,[33] sensing,[34,35] and catalysis[36–38]"
+    },
+    {
+        "C_0036": "are only a fraction of the applications they can be utilized in, owing to their porous well-defined structure."
+    },
+    {
+        "C_0037": "MOFs also have rich functionalities and their pore structure can be tuned, therefore, MOFs were found to be good candidate as fuel cells’ catalysts."
+    },
+    {
+        "C_0038": "In some cases, metalloporphyrins were used as ligands in nonpyrolyzed MOFs."
+    },
+    {
+        "C_0039": "A representative example is given in a publication by Loh and co-workers[39] who synthesized hybrid graphene-MOF consisting of 5,10,15,20-tetrakis(4- carboxyl)-21H,23H-porphyrin (TCPP), that is interconnected by iron ions and linked to rGO through pyridine functional groups on the rGO sheets (G-dye-Fe-P)."
+    },
+    {
+        "C_0040": "This catalyst exhibits a significant improvement in durability when compared to the porphyrin by itself."
+    },
+    {
+        "C_0041": "The high surface area of the well-defined structure of this MOF allows better mass transfer which results in high current densities."
+    },
+    {
+        "C_0042": "Another very interesting finding was the positive effect of the rGO’s oxygen functional groups on the ORR, attributed to mediation of electron transfer between the support"
+    },
+    {
+        "I_0001": "Figure 2. Metal–organic framework (MOF) constructed from $Z r _ { 6 }$ oxo clusters and Fe(III) porphyrin linkers."
+    },
+    {
+        "I_0002": "Reproduced with permission.[40]"
+    },
+    {
+        "I_0003": "Copyright 2017, American Chemical Society."
+    },
+    {
+        "I_0004": "(http://pubs.acs.org/doi/ abs/10.1021/acsami.7b01547 further permissions related to the material excerpted should be directed to the ACS)."
+    },
+    {
+        "C_0043": "and the catalytic site, much like in enzymatic systems with cascade electron transfer functionalities."
+    },
+    {
+        "C_0044": "In a different work, $\\mathrm { Z r } _ { 6 } \\mathrm { O } _ { 4 } ( \\mathrm { O H } ) _ { 4 } ( \\mathrm { F e ( I I I ) } { \\cdot } ( \\mathrm { T C P P } ) _ { 3 }$ MOF (Figure 2) was compared to its free-base analogue.[40"
+    },
+    {
+        "C_0045": "]"
+    },
+    {
+        "C_0046": "The authors showed the importance of the metal center in the porphyrin, which seems to be playing a critical role in the catalytic cycle, emphasizing previous findings on porphyrin-based MOFs[41] by proving that the porphyrin and its metal center are the catalytic site for ORR, a very important claim when considering the long and hard work being put into this very topic with pyrolyzed PGM-free catalysts.[42]"
+    },
+    {
+        "C_0047": "Other types of nonpyrolyzed and well-defined MOFs were also suggested as catalysts for ORR, one of which is the copper (II)-2,2′-bipyridinebenzene-1,3,5-tricarboxylate (Cu-bipy-BTC, bip ${ \\bf \\Lambda } = { 2 , 2 ^ { \\prime } }$ -bipyridine)."
+    },
+    {
+        "C_0048": "Mao et al.[43] showed that the ORR with this MOF takes place at $\\approx - 0 . 6 0 \\mathrm { ~ V ~ }$ (vs Ag/AgCl in 0.1 m KOH), via the $2 + 2$ -electron reduction to water."
+    },
+    {
+        "C_0049": "Although MOFs seem to have most of the required properties from ORR catalysts, one of their major drawbacks was and still is their low electronic conductivity."
+    },
+    {
+        "C_0050": "In order to overcome this issue, two alternatives were proposed: (1) MOF composite materials and (2) pyrolyzed MOFs."
+    },
+    {
+        "C_0051": "Intensive work is currently undergoing in order to utilize these materials in PEMFCs."
+    },
+    {
+        "T_0004": "4. Enzymatic-Like Catalysts "
+    },
+    {
+        "C_0052": "In the context of ORR electrocatalysis, one of the most studied enzymes in the past decade is the Laccase enzyme.[44]"
+    },
+    {
+        "C_0053": "It is considered to reduce oxygen very efficiently at a very low overpotential with high tendency for the desired four electrons mechanism.[45]"
+    },
+    {
+        "C_0054": "Nevertheless, outside of a very narrow pH and temperature ranges, the catalytic activity and stability of this enzyme decreases drastically."
+    },
+    {
+        "C_0055": "The trinuclear copper structure of the laccase (Figure 3a) inspired the synthesis of many copper complexes.[46]"
+    },
+    {
+        "C_0056": "Most of them show limited catalytic activity for oxygen reduction along with poor stability."
+    },
+    {
+        "C_0057": "One of the exceptions is the binuclear 3,5-diamino-1,2,4-triazole (Hdatrz)[47] which exhibits good electrocatalytic activity, but the stability"
+    },
+    {
+        "I_0005": "Figure 3. a) Schematic representation of the multicopper active site in laccase and its catalytic reduction of oxygen to water."
+    },
+    {
+        "I_0006": "b) Schematic representation of the bioinspired multicopper complexes covalently anchored to the surface of reduced graphene oxide, rGO–TADPyCu, as an ORR electrocatalyst."
+    },
+    {
+        "I_0007": "Adapted with permission.[51]"
+    },
+    {
+        "I_0008": "Copyright 2013, the Royal Society of Chemistry."
+    },
+    {
+        "C_0058": "remains an issue, mainly due to the relatively unstable copper ion in its low oxidation state.[48]"
+    },
+    {
+        "C_0059": "Studies that focused on stability improvement of Cu complexes revealed the important influence of the substrate."
+    },
+    {
+        "C_0060": "Hence, great effort has been made in covalent attachment of Cu complexes to different support materials rather than adsorbing them.[49]"
+    },
+    {
+        "C_0061": "Liu and co-workers studied the influence of the substrate and immobilization method on the catalytic activity and durability of triazole-pyridine coordinated copper complex (TAmPyCu).[50]"
+    },
+    {
+        "C_0062": "They showed that covalent attachment of the complex to reduced graphene oxide or carbon nanotubes improves the performance and durability of the catalyst relative to physisorption of the catalyst on the same supports."
+    },
+    {
+        "C_0063": "More recently, the same group also reported on triazole-dipyridine (TADPy) binuclear copper covalently attached to rGO (Figure 3).[51]"
+    },
+    {
+        "C_0064": "This rGO–TADPyCu reduces oxygen at an onset potential of 0.951 V versus RHE at $\\mathrm { p H } \\ 1 3$ via the direct four-electron pathway."
+    },
+    {
+        "C_0065": "This catalyst has an impressive stability with only $4 \\mathrm { m V }$ negative shift of the $E _ { 1 / 2 }$ and a minor decrease in the current density after 10 000 cycles."
+    },
+    {
+        "T_0005": "5. Metallocorroles "
+    },
+    {
+        "C_0066": "Among the various molecular catalysts that were investigated over the years, metallocorroles have attracted particular interest due to their high activity, and their simple and tunable structure."
+    },
+    {
+        "C_0067": "Although their name is derived from the corrin molecule, found in vitamin B12, corroles are synthetic aromatic molecules that share many similarities to porphyrins, lacking but one carbon atom in the meso position of the surrounding ring (Figure 4)."
+    },
+    {
+        "C_0068": "The corrole acts as a trianionic ligand, unlike corrins and porphyrins, which are monoanionic and dianionic ligands, respectively."
+    },
+    {
+        "C_0069": "This, among others, stabilizes the metal center and is prone to make the complex more stable, especially in acidic environment."
+    },
+    {
+        "C_0070": "Compared to other macrocyclic complexes, corroles tend to have higher formal metal ion oxidation states due to a smaller cavity of the ring and the greater density of negative charge in the trianionic core, which gives them several advantages over other molecular catalysts for ORR.[52–54]"
+    },
+    {
+        "C_0071": "Over the past few years there have been several studies related particularly to the performance of corroles as catalysts"
+    },
+    {
+        "C_0072": "for ORR"
+    },
+    {
+        "C_0073": "."
+    },
+    {
+        "C_0074": "Till recent years, the synthesis of corroles has been an obstacle in their utilization, but since the development of simpler synthesis methods,[55] there has been an immediate increase in the use of these macrocycles for a wide array of applications."
+    },
+    {
+        "C_0075": "One of the first studies on the performance of corroles as catalysts for ORR was first published by Kadish et al.[54]"
+    },
+    {
+        "C_0076": "In this work, they compared three systems of Co(III) corroles—monocorrole, biscorroles, and porphyrin-corrole dyads."
+    },
+    {
+        "C_0077": "It was then understood that one reduction active center is enough to catalyze the ORR and a great effort has been made since then in improving the (mono)corroles."
+    },
+    {
+        "C_0078": "There are three main degrees of freedom that can be modulated in the corrole’s structure in order to improve its catalytic performance: (1) the metal center, (2) the substituents on the corrole’s beta position, and (3) the substituents on the meso position."
+    },
+    {
+        "C_0079": "Mahammed and Gross recently published a detailed comparison of the catalytic performance of different corroles that were synthesized in recent years.[56]"
+    },
+    {
+        "C_0080": "Various beta- and meso-substituted corroles were presented, from simple structures such as $( \\mathrm { F _ { 5 } P h } ) _ { 3 } \\mathrm { C o }$ to more complex meso-substitution as $( \\mathrm { T o l y l } ) _ { 2 } ( \\mathrm { N H } _ { 2 } \\mathrm { P h } ) \\mathrm { C u }$ .[57–62] A good example is given in the work of Dogutan et al.,[63] who studied the synthesis and catalytic performance of hangman corroles."
+    },
+    {
+        "I_0009": "Figure 4. Metallocorrole scheme."
+    },
+    {
+        "I_0010": "Figure 5."
+    },
+    {
+        "I_0011": "The dependence of the ORR onset potential on the metal center in metallocorroles."
+    },
+    {
+        "I_0012": "Published with permission.[64]"
+    },
+    {
+        "C_0081": "Inspired by hangman porphyrins, these complexes show promising results, especially as a function of the surface at which they are adsorbed."
+    },
+    {
+        "C_0082": "What seems to be the most influencing parameter in the corrole’s structure is with no doubt the metal center."
+    },
+    {
+        "C_0083": "Levy et al. studied the catalytic performance of five first-row transition metal corrole complexes and showed a clear dependence of the catalytic activity on the metal center of the complexes, in the order of $\\mathrm { C o } > \\mathrm { F e } > \\mathrm { N i } > \\mathrm { M n } > \\mathrm { C u . } ^ { [ 6 4 ] }$ The best catalytic performance was obtained with the $\\operatorname { C o } ( \\operatorname { I I I } )$ corrole, whose onset potential is as positive as 0.81 V versus RHE (Figure 5)."
+    },
+    {
+        "C_0084": "In addition to the corrole’s structure, the surface onto which the corrole is adsorbed on plays a significant role."
+    },
+    {
+        "C_0085": "The adsorption of corroles on high surface area carbon such as activated carbon (Vulcan, BP2000 etc.) and carbon nanotubes has shown to lower the reaction overpotential significantly.[64–66]"
+    },
+    {
+        "C_0086": "The exact reason behind this phenomenon is still not fully understood and is under extensive investigation these days."
+    },
+    {
+        "C_0087": "Interestingly, when tested in alkaline environment, their catalytic performance surpasses that of the same corroles in acidic media and even that of the state-of-the-art commercial PGM-free catalysts produced by Pajarito Powder."
+    },
+    {
+        "C_0088": "In addition, they also seem to be more stable and catalyze ORR at lower overpotential, via a mixed $2 + 2$ and even a direct four-electron transfer to hydroxyl anions.[67]"
+    },
+    {
+        "T_0006": "6. Polymeric ORR Catalysts "
+    },
+    {
+        "C_0089": "Polymerization of molecular catalyst, either by wet chemical or electrochemical methods, was proven to be an efficient path in order to improve their catalytic activity and durability.[68]"
+    },
+    {
+        "C_0090": "In most cases, shift of the onset potential to more positive potentials was observed in addition to transition from twoelectron reduction pathway to mostly four-electron reduction pathway, owing to synergistic and cooperative effects which can also be observed in multimetal centered catalysts.[69,70]"
+    },
+    {
+        "C_0091": "As a result, the yield of hydrogen peroxide production decreases and the durability of the catalyst increases."
+    },
+    {
+        "C_0092": "Another advantage of polymerization, is the formation of compact polymeric structures which results in high density of catalytic sites."
+    },
+    {
+        "C_0093": "This can help compensate for the relatively low turnover frequencies, usually associated with PGM-free catalysts.[2,71]"
+    },
+    {
+        "C_0094": "The"
+    },
+    {
+        "C_0095": "polymerization of molecular catalysts, mainly macrocyclic compounds, was first done in the pioneering work of Bettelheim et al.[72,73] and Macor and Spiro[74] in the 1980s."
+    },
+    {
+        "C_0096": "Since then, great advancement was made, showing elaborate and very active polymeric structures, based on transition metal complexes.[75,76]"
+    },
+    {
+        "C_0097": "We recently reported on the electropolymerization of cobalt corrole (cobalt(III)-tris $\\lfloor p$ -aminophenyl) corrole (CoTAC)) as a catalyst for ORR.[77]"
+    },
+    {
+        "C_0098": "The polyCoTAC displays much better catalytic activity compared to the monomeric catalyst, expressed in higher $E _ { 1 / 2 }$ potential (positive shift of 180 and $2 2 0 ~ \\mathrm { m V }$ in acidic and alkaline solutions, respectively)."
+    },
+    {
+        "C_0099": "The reduction mechanism in acidic solution remained a two-electron pathway, whereas, in alkaline solution, mostly a four-electron reduction was observed."
+    },
+    {
+        "C_0100": "When the polymerization was conducted on high surface area carbon, the mechanism was of the four-electron reduction in both alkaline and acidic solutions."
+    },
+    {
+        "C_0101": "In alkaline solution, polyCoTAC on BP2000 outperforms the commercial stateof-the-art nonprecious metal catalyst (Pajarito Powder)."
+    },
+    {
+        "C_0102": "In order to increase the surface area of macrocyclic compounds, and the derived catalytic site density, porous polymers were also synthesized."
+    },
+    {
+        "C_0103": "This was made by polymerization of metallomacrocyclic complexes as conjugated microporous polymers (CMPs) or covalent organic framework (COF).[78,79]"
+    },
+    {
+        "C_0104": "CMPs and COFs are types of organic porous polymers that possess conjugated $\\pi$ system with permanent microporous."
+    },
+    {
+        "C_0105": "This is a combination between nonconjugated porous materials and nonporous conjugated polymers."
+    },
+    {
+        "C_0106": "CMPs are an amorphous 3D structure in nature while COFs are formed as 2D or 3D crystalline structure."
+    },
+    {
+        "C_0107": "Due to their tunable porous structure, structural periodicity, stability, and their high surface area, CMPs and COF are attractive materials for many application, including electrocatalysis.[80,81]"
+    },
+    {
+        "C_0108": "One example is given in the work of Zhang and co-workers, who reported on the synthesis of microporous conjugated Co(II)-metallated porphyrinylene–ethylene framework (CoPEF) via alkyne metathesis polymerization procedure.[82"
+    },
+    {
+        "C_0109": "]"
+    },
+    {
+        "C_0110": "The polymer was mixed with carbon black (CoPEF/C) and tested for ORR electrocatalysis in acidic and alkaline solutions."
+    },
+    {
+        "C_0111": "In both cases, the onset potential was improved as well as the limiting current density and the selectivity toward the production of water."
+    },
+    {
+        "C_0112": "Conventional templating methods were also found to be beneficial for maintaining the high porosity, and the 3D structure of polymeric catalysts (Figure 6).[83–86]"
+    },
+    {
+        "C_0113": "In all cases, significant improvement of the ORR electrocatalysis was reported, either in acidic or alkaline solutions."
+    },
+    {
+        "C_0114": "One possible explanation for the increased"
+    },
+    {
+        "I_0013": "Figure 6. Schematic representation of multiwalled carbon nanotubes coated with poly FePPc."
+    },
+    {
+        "I_0014": "Adapted with permission.[86]"
+    },
+    {
+        "I_0015": "Copyright 2016, Springer."
+    },
+    {
+        "C_0115": "reactivity of the catalysts after their polymerization was suggested by Campidelli and co-workers[84] who synthesized a face-to-face polyporphyrin system in multiwalled nanotubes."
+    },
+    {
+        "C_0116": "This unique structure enables the catalytic centers to react simultaneously with one oxygen molecule as a consequence of their vicinity to each other."
+    },
+    {
+        "C_0117": "Another reasoning for this phenomenon is the flattening of the distorted molecular structure, which may result in making the metal-center more attractive to binding an oxygen molecule."
+    },
+    {
+        "C_0118": "Apart from macrocyclic compounds, other well-defined polymers were studied for the electrocatalytic activity."
+    },
+    {
+        "C_0119": "Guo and co-workers studied a composite of poly-o-toluidine and cobalt, supported by ordered mesoporous carbon as a catalyst for ORR in alkaline conditions and showed better activity than $\\mathrm { P t / C }$ electrodes.[87]"
+    },
+    {
+        "C_0120": "Elbaz et al. electropolymerized dipyrromethane in a presence of cobalt ions on glassy carbon electrodes and showed a significant increase in the concentration of active sites, above the necessary density required to compensate for their low turnover frequency.[71]"
+    },
+    {
+        "T_0007": "7. Summary and Future Prospects "
+    },
+    {
+        "C_0121": "Molecular catalysts are viable alternative for Pt-based ORR catalysts in fuel cells and are considered the most prominent path for the further price reduction of PEM fuel cells."
+    },
+    {
+        "C_0122": "There are still challenges that need to be overcome before their utilization, such as durability and reaction kinetics, both still considered lower than other groups of catalysts, but the progress made in recent years support their viability."
+    },
+    {
+        "C_0123": "The key parameters that seem to control the electrocatalysis of ORR with molecular catalysts are: (1) the metal center, (2) surface and ligand interactions, and (3) cooperativity/ synergistic effect between neighboring molecules."
+    },
+    {
+        "C_0124": "Molecular catalysts can also be used as model molecules for the PGM-free pyrolyzed catalyst group, which are very often more active and durable than their molecular precursors."
+    },
+    {
+        "C_0125": "The insight into the reaction mechanisms, effect of the metal center and substituents, and the interaction with different supports could shed light on the not-sowell-understood pyrolyzed transition metal complexes."
+    },
+    {
+        "T_0008": "Acknowledgements "
+    },
+    {
+        "C_0126": "N.Z. and A.F. contributed equally to this work."
+    },
+    {
+        "C_0127": "The authors would like to thank the Israel Science Foundation, US-Israel Binational Science Foundation, Israeli Ministry of Energy and the Israel National Center for Electrochemical Propulsion for funding this work."
+    },
+    {
+        "C_0128": "We would like to thank Ori Alon for her help in the design and drawing of the TOC."
+    },
+    {
+        "T_0009": "Conflict of Interest "
+    },
+    {
+        "C_0129": "The authors declare no conflict of interest."
+    },
+    {
+        "T_0010": "Keywords "
+    },
+    {
+        "C_0130": "Received: January 18, 2018"
+    },
+    {
+        "C_0131": "Published online:"
+    }
+]

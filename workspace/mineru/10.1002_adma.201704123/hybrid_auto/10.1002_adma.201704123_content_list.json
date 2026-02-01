@@ -1,0 +1,3741 @@
+[
+    {
+        "type": "text",
+        "text": "Highly Durable and Active Pt-Based Nanoscale Design for Fuel-Cell Oxygen-Reduction Electrocatalysts ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            90,
+            848,
+            150
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dong Young Chung, Ji Mun Yoo, and Yung-Eun Sung* ",
+        "bbox": [
+            80,
+            165,
+            591,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fuel cells are one of the promising energy-conversion devices due to their high efficiency and zero emission. Although recent advances in electrocatalysts have been achieved using various material designs such as alloys, core@shell structures, and shape control, many issues still remain to be resolved. Especially, material design issues for high durability and high activity are recently accentuated owing to severe instability of nanoparticles under fuel-cell operating conditions. To address these issues, fundamental understanding of functional links between activity and durability is timely urgent. Here, the activity and durability of nanoscale materials are summarized, focusing on the nanoparticle size effect. In addition to phenomenological observation, two major degradation origins, including atomic dissolution and particle size increase, are discussed related to the activity decrease. Based on the fundamental understanding of nanoparticle degradation, recent promising strategies for durable Pt-based nanoscale electrocatalysts are introduced and the role of each design for durability enhancement is discussed. Finally, short comments related to the future direction of nanoparticle issues are provided in terms of nanoparticle synthesis and analysis. ",
+        "bbox": [
+            80,
+            214,
+            611,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            522,
+            205,
+            537
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ever since the advent of modern industry, the sustainable supply of energy has lain at the heart of human society, and fossil fuels have always been at the core of energy-generation systems. However, because of increasing consumption and limited deposits, fossil fuels are no longer a guaranteed source of energy, forcing humanity to search for alternative renewable energy sources, such as wind and solar power. In future renewable energy systems, hydrogen will play a crucial role as an energy carrier, and thus, its chemical energy should be efficiently converted to electricity via the electrochemical reactions in a fuel cell. However, the overall efficiency of fuel cells is severely hindered by their high overpotential, which is ",
+        "bbox": [
+            78,
+            549,
+            490,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dr. D. Y. Chung, J. M. Yoo, Prof. Y.-E. Sung ",
+        "bbox": [
+            80,
+            754,
+            319,
+            767
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Center for Nanoparticle Research ",
+        "bbox": [
+            82,
+            767,
+            268,
+            779
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute for Basic Science (IBS) ",
+        "bbox": [
+            82,
+            780,
+            260,
+            791
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seoul 08826, South Korea ",
+        "bbox": [
+            82,
+            791,
+            228,
+            802
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: ysung@snu.ac.k ",
+        "bbox": [
+            82,
+            803,
+            218,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dr. D. Y. Chung, J. M. Yoo, Prof. Y.-E. Sung ",
+        "bbox": [
+            82,
+            815,
+            319,
+            827
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Chemical and Biological Engineering ",
+        "bbox": [
+            82,
+            828,
+            344,
+            839
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seoul National University (SNU) ",
+        "bbox": [
+            82,
+            839,
+            265,
+            849
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seoul 08826, South Korea ",
+        "bbox": [
+            82,
+            849,
+            228,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/85d32265c6c42350dc04928891a55c8ddfa37c81b2fa7de1ad32bac3d793841f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            866,
+            107,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adma.201704123. ",
+        "bbox": [
+            112,
+            863,
+            489,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.1002/adma.201704123 ",
+        "bbox": [
+            80,
+            897,
+            280,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "mainly caused by the sluggish reaction kinetics of the oxygen reduction reaction (ORR) at the cathodic side. To mitigate the overpotential issue, in recent decades, Pt has been widely used as the active electrocatalyst, but its high cost and scarcity are other problems in fuel-cell technology. Therefore, in electrochemical and materials science, the search for effective strategies to reduce the need for Pt while retaining the high activity and durability of the electrocatalyst has become critical.[1] In this context, material engineering with nanotechnology has provided critical advances in the design of highly active and durable electrocatalysts, and in the last few decades, excellent progress has been made in controlling the size, morphology, facets, and composition of Pt or Pt-based nanomaterials.[2] ",
+        "bbox": [
+            640,
+            203,
+            919,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here, recent progress on the development of Pt-based ORR electrocatalysts is covered from the nanomaterial per-",
+        "bbox": [
+            640,
+            481,
+            919,
+            523
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "spective. Specifically, results obtained under the acidic liquid electrolyte condition are discussed to mainly focus on the intrinsic electrochemical properties of a nanoscale electrocatalyst. First, a functional link between the activity and durability of nanoparticles, as well as the degradation mechanisms, will be discussed. Then, several classes of promising nanomaterials will be covered, and effective material design strategies and their impact on electrochemical properties will be discussed. Finally, short comments on the future of nanomaterial electrocatalysts will be discussed. ",
+        "bbox": [
+            507,
+            523,
+            919,
+            660
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Durability and Activity Issues of Nanoparticles and the Nanoparticle Degradation Mechanism ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            691,
+            907,
+            723
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In electrochemistry, where electrochemical reactions occur at the electrode surface, nanoparticle systems can impart significant functionality to the electrode because both the surface area and the physical or chemical properties of the electrode can be adjusted by nanoparticle design.[3] Concerning the use of nanoparticles, the effects of nanoparticle size on the ORR activity have been studied for a long time. For finely size-controlled nanoparticles, the ORR activity trend has been mainly investigated from two perspectives: the mass activity—the activity per unit catalyst mass, which indicates the effective utilization of a catalyst material—and the specific activity—the activity per unit electrochemical surface area, which indicates the intrinsic reactivity of a unit area of the catalyst surface.[4] Li et al. reported ",
+        "bbox": [
+            507,
+            730,
+            919,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "PROGRESS REPORT ",
+        "bbox": [
+            82,
+            32,
+            305,
+            50
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            784,
+            26,
+            919,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Electrocatalysts ",
+        "bbox": [
+            82,
+            59,
+            171,
+            71
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            60,
+            919,
+            71
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            80,
+            939,
+            213,
+            949
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (1 of 20) ",
+        "bbox": [
+            443,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the size effects of Pt nanoparticles on the ORR activity using nanoparticles of different sizes prepared using a chemical method.[5] As the nanoparticle size was increased from 2.8 to $7 . 2 \\mathrm { n m }$ , the specific activity monotonically increased from 0.65 to $1 . 0 5 \\mathrm { \\ m A \\ c m ^ { - 2 } }$ , while the mass activity reached the highest value at around 4.1 nm. A similar activity trend was observed by Shao et al., who synthesized size-controlled Pt nanoparticles by the sequential adsorption of Pt on Pt nanoparticles through underpotential deposition and galvanic replacement.[6] The $2 . 2 \\ \\mathrm { n m \\ P t }$ nanoparticles showed the highest ORR mass activity, while the specific activity gradually increased and became saturated with increasing Pt-nanoparticle size. Chorkendorff and co-workers also reported similar trends using mass-selected Pt nanoparticles with a very narrow size distribution.[7] They found that 3 nm samples had the highest mass activity among the various nanoparticle sizes. However, the exact optimal size of the Pt nanoparticles yielding the highest mass activity has remained inconsistent in previous investigations, likely because of different synthetic protocols or electrochemical measurement conditions. Nevertheless, the optimum size is presumed to be in the range of $2 { - } 4 ~ \\mathrm { n m }$ considering its mass activity (Figure 1a). Around this optimal size, the ORR activity exhibits a volcano-like feature, whose origin can be understood by the balancing effect of the increased specific activity and the decreased surface-area-tovolume ratio with increasing nanoparticle size. Size-dependent specific activity trends of Pt nanoparticles can be explained by the following two arguments. First, undercoordinated Pt atoms in small-sized nanoparticles adsorb oxygen species very strongly, which reduce the amount of free surface area for the ORR. For instance, cyclic voltammograms show that smaller Pt nanoparticles result in a more negative shift in the OH adsorption peak during the anodic scan.[8] Furthermore, a clear negative shift of the oxide reduction peak and an increase in the irreversibility at lower potentials were observed for smaller particles, indicating that smaller nanoparticles have higher adsorption energies. Density functional theory results also indicate that undercoordinated Pt sites have higher oxygen-species-binding energies $\\mathrm { ( O H _ { a d } , }$ $\\mathrm { O O H } _ { \\mathrm { a d } } ,$ , and $\\mathrm { O _ { a d } } )$ .[9] Second, the modified surface orientation by nanoparticle size change can affect the ORR activity because the surface orientation of the electrocatalyst influences anion adsorption and ORR activity. With increasing particle size, the proportion of Pt {111} facets increases, and this change in surface orientation results in the high specific activity of larger particles.[10] However, similar activity trends are observed in different electrolytes $\\mathrm { \\Delta H C l O _ { 4 } } .$ , $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } .$ , and KOH), indicating that the major contributors to the ORR activity concerning particle size are the OH adsorption energy and lower surface coverage induced by the nanoparticle coordination number.[11] In contrast to previous reports, Nesselberger et al. suggested that the specific activity difference is very small and within the error range in supported catalysts, which originates from the different capacitance contributions.[11] They also argued that specific activity is not size dependent, but highly affected by particle proximity in supported nanoparticles.[12] Considering the trend in specific activity, the mass activity should also be enhanced by increasing the nanoparticle size. However, the utilization of Pt nanoparticles dramatically decreases when increasing the nanoparticle size because of the inverse relationship between the surface-area-to-volume ratio and nanoparticle size. Therefore, there ",
+        "bbox": [
+            75,
+            93,
+            487,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/51d6c450f9e00f57cdf44159c6d570a8e091cf0b57db36e117e197d516efa30e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            110,
+            694,
+            269
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dong Young Chung received his B.S. degree from Yonsei University (summa cum laude) and Ph.D. degree from Seoul National University in 2014 under supervision of Prof. Yung-Eun Sung. His research includes nanoparticle design and application based on fundamental electrochemistry for electrochemical energy devices. Currently, ",
+        "bbox": [
+            705,
+            105,
+            900,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "he works at Argonne National Laboratory investigating fundamental research on the electrode/electrolyte interface under the supervision of Dr. Nenad M. Markovic. ",
+        "bbox": [
+            521,
+            273,
+            897,
+            313
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b139a947c48eb8dd481133be86c165176ef7e9c3eb1ce092531edb7591effc0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            322,
+            694,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ji Mun Yoo received his B.S. degree in chemical and biological engineering from Seoul National University in 2014. He is currently a Ph.D. candidate at Seoul National University under the supervision of Prof. Yung-Eun Sung. His main research focus is on nanoscale design for durable fuel-cell electrocatalysts and fundamental understanding ",
+        "bbox": [
+            705,
+            322,
+            899,
+            488
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "of the interfacial structure between the electrode and the electrolyte during both electrochemical reactions and the degradation process. ",
+        "bbox": [
+            519,
+            489,
+            885,
+            530
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/079c1108c467497c9c7cc2145e601b117271a2ed3f03475f45fe5e6e42a1c284.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            539,
+            694,
+            701
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yung-Eun Sung received his Ph.D. from the University of Illinois at Urbana– Champaign. He joined Gwangju Institute of Science and Technology in 1998 and has held post as professor at Seoul National University since 2004. He is now also a group leader at the Center for Nanoparticle Research at Institute for Basic Science ",
+        "bbox": [
+            705,
+            539,
+            890,
+            704
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and chair of the Korea Section in the Electrochemical Society. His research has focused on electrochemistry in the area of fuel cells, batteries, and photo-electrochemical devices. ",
+        "bbox": [
+            519,
+            704,
+            890,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "is an optimal size of Pt nanoparticles for ORR mass activity under balancing of these two origins. ",
+        "bbox": [
+            502,
+            786,
+            914,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In contrast to the activity trend, the correlation between nanoparticle durability and size remains unclear. Recent studies have shown that, in general, smaller particles are less durable than larger particles (Figure 1b,c). Compared to 5 and 7 nm Pt particles, 2 nm Pt nanoparticles have shown severe electrochemical surface area (ECSA) losses after accelerated durability tests (ADTs). Furthermore, the mass activity of the $2 \\ \\mathrm { n m }$ sample ",
+        "bbox": [
+            502,
+            814,
+            915,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            71
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            915,
+            70
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (2 of 20) ",
+        "bbox": [
+            438,
+            936,
+            552,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/94e8e010d54d0a1df8b38dd293fd53e3f954b16adf695358fbcfa936b8fba932.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            94,
+            495,
+            283
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f476a01c44c4ef86163499df029d9343a89bb1ba91ce06a818578ce8ec41abe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            507,
+            94,
+            850,
+            282
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/82b80011cc14dcbc6c34b6314493dbdf9f59c15d30c38d86e594814524bed8b2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            290,
+            492,
+            481
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d909dd43133c700608759fb3fc0cc8c05fb01e272a6a984bbc7796f200f9a16f.jpg",
+        "image_caption": [
+            "Figure 1. Activity and durability trend of Pt nanoparticle size for the ORR reaction. a–c) Nanoparticle size effect for a) mass activity trend, Reproduced with permission.[5] Copyright 2014, Royal Society of Chemistry, Reproduced with permission.[6] Copyright 2011, American Chemical Society, Reproduced with permission.[7] Copyright 2012, Wiley-VCH. b) mass activity loss Reproduced with permission.[5] Copyright 2014, Royal Society of Chemistry, Reproduced with permission.[14] Copyright 2011, Electro Chemical Society. c) ECSA loss after durability test. Reproduced with permission.[5] Copyright 2014, Royal Society of Chemistry, Reproduced with permission.[13] Copyright 2014, American Chemical Society. Reproduced with permission.[14] Copyright 2011, Electro Chemical Society and d) Schematic illustration of nanoparticle size effect for activity and durability. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            514,
+            291,
+            855,
+            472
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "decreased from ${ \\approx } 4 4 0$ to ${ \\approx } 2 3 0 ~ \\mathrm { m A ~ m g ^ { - 1 } }$ , a $4 8 \\%$ decrease, while that of the 7 nm sample decreased by only $7 \\%$ (from ${ \\approx } 3 6 0 $ to ${ \\approx } 3 3 5 \\mathrm { \\ m A \\ m g ^ { - 1 } } )$ . The membrane electrode assembly (MEA)- based durability results also showed a similar trend.[13,14] Over 10 000 potential cycles, the ECSA of the $2 \\ \\mathrm { n m \\ P t }$ particles changed from 69 to $2 5 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ , around $6 3 . 7 \\%$ loss, which is a very high value compared to those of the 7 nm Pt nanoparticles (from 32 to $2 9 \\mathrm { m } ^ { 2 } \\mathrm { g } ^ { - 1 }$ , $9 . 4 \\%$ loss).[15] Both monometallic Pt nanoparticles and alloy nanoparticles showed similar trends of severe deactivation with decreasing nanoparticle size.[16] Based on the above reports, the relationship between the ORR activity and the durability by size effect can be summarized as follows: when the nanoparticle size is decreased, the activity increases, while the durability decreases (Figure 1d). Therefore, increasing nanoparticle durability while maintaining the high activity is critical for nanoparticle design. To address this challenge, understanding the nanoparticle degradation mechanism is a timely issue and can be summarized by three phenomena.[17] First, the atomic dissolution of the nanoparticles occurs during the electrochemical reaction. Second, the increase in particle size arising from Ostwald ripening or particle agglomeration decreases the overall activity. Finally, the nanoparticles can detach from the support because of support corrosion or weakened interactions between the nanoparticles and the support. ",
+        "bbox": [
+            82,
+            578,
+            490,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Initially, atomic dissolution was expected to be a critical problem and was studied for a long time because the ORR conditions in both acidic and alkaline electrolytes are highly oxidizing and corrosive. Ceder and co-workers suggested that smaller Pt nanoparticles are more susceptible to atomic dissolution because of their less cohesive energies and low dissolution potentials based on the Gibbs–Thomson equation.[18] The findings of Meyer and co-workers, obtained using potential cycling experiments coupled with in situ small-angle X-ray scattering (SAXS), support this.[19] During the potential cycles, the fraction of nanoparticles less than 3 nm in diameter fell drastically, while no change was observed in the fraction of larger nanoparticles, indicating that the dissolution of small nanoparticles is much more critical than that of larger nanoparticles. Recently, Markovic and co-workers directly observed the atomic dissolution of Pt in various single-crystal surfaces and nanoparticles using in situ inductively coupled plasma (ICP)–mass spectroscopy (MS) measurements in the electrochemical environment.[20] The dissolution of Pt occurred in the order of $\\mathrm { P t } ( 1 1 1 ) < \\mathrm { P t } ( 1 0 0 ) < \\mathrm { P t } ( 1 1 0 ) \\ll \\mathrm { P t } \\mathrm { p o l y } \\ll \\mathrm { P t }$ nanoparticles (Figure 2a). This order is correlated to the number of defects on the surfaces, suggesting that undercoordinated sites are easily dissolved during potential cycling. Furthermore, the amount of Pt dissolution increased with the upper potential ",
+        "bbox": [
+            512,
+            578,
+            919,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            70
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            26,
+            919,
+            56
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            70
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            82,
+            939,
+            213,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (3 of 20) ",
+        "bbox": [
+            443,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            630,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed9445549630a6bc464ed8919065ca571627d13217143527c3542816bcd0363a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            94,
+            433,
+            306
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e07ccc3d9c007d5dd11c20ea1b685931fd6f355da7934b9146dd722160708d1f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            438,
+            94,
+            665,
+            300
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa5e0bd495ecb59eda7400fc9cc42a41781e59c05a1a1dc02454413a17033b95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            670,
+            94,
+            892,
+            298
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/83d9f17c3a93e83fbff1f75f3219bc0624259a5023ca51f49553a3184bada358.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            315,
+            428,
+            499
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c26c00dda35915de2ce3d27e5f4fd106d0ece026351fd315632eb7b3e3e2c11b.jpg",
+        "image_caption": [
+            "Figure 2. Nanoparticle degradation mechanism during electrochemical reaction. a) In situ ICP-MS results of Pt dissolution for Pt structure effect. Reproduced with permission.[20] Copyright 2016, American Chemical Society. Surface coordination control Pt nanoparticles for durability and b) mass activity loss after durability tests. c) Pt dissolution results after durability testing. b–c) Reproduced with permission.[22] Copyright 2016, Elsevier. d) Particle size distribution histogram for before and after durability testing. Reproduced with permission.[17a] Copyright 2005, Elsevier. e) Identical-location 3D tomography STEM analysis for nanoparticle tracking. Reproduced with permission.[29] Copyright 2012, American Chemical Society. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            442,
+            315,
+            900,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "limit, indicating that Pt dissolution is highly dependent on the number of Pt–O species present.[7,21] In other words, reducing the formation of Pt oxide is critical for minimizing Pt dissolution. This interpretation is supported by recent Cl−-impurity experiments. The presence of a small number of $\\mathrm { C l ^ { - } }$ ions can lower the surface oxidation, and subsequently mitigate Pt dissolution, verifying that suppressing and minimizing the formation of the Pt surface oxide is an essential strategy for achieving a durable electrocatalyst.[20] Based on the above issues, Chung et al. verified the close relationship between the coordination number and atomic dissolution of Pt by successfully controlling the coordination number of the Pt nanoparticles.[22] Motivated by previous reports that bulk CO oxidation can eliminate undercoordinated atoms on the surface, researchers have investigated Pt nanoparticles treated by CO oxidation for their ORR durability.[20] The CO-treated samples showed similar ORR activities; however, remarkably high durability was observed compared to that of as-prepared Pt/C (Figure 2b). This high durability was also clearly observed under high-temperature ADT conditions, and the ICP results support the low Pt dissolution (Figure 2c). This result validates the argument that controlling the Pt coordination number and surface oxidation is a very effective way to achieve high durability. Considering ",
+        "bbox": [
+            73,
+            591,
+            487,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "that controlling the coordination number of atoms results in improved durability, the undercoordinated atoms can be assumed to trigger the dissolution of Pt atoms. In other words, undercoordinated atoms can easily be dissolved, forming another undercoordinated atom in the process, a so-called defect site, adjacent to the dissolved atom position. Therefore, the initial elimination of surface low-coordination sites is not only important to mitigate the initial dissolution but also to suppress the formation of new undercoordinated atoms during the reaction. Furthermore, the importance of inhibiting atomic dissolution is much starker when Pt forms an alloy or a core– shell structure with other transition metals, which are wellaccepted strategies to improve ORR activity. Because almost all transition metals, except Au, are easily dissolved under electrochemical operating conditions, the dissolution of transition metals near Pt reduces the coordination number of the Pt, making it much more vulnerable to dissolution. Therefore, it is important to increase the stability of transition metals, as well as Pt, in nanoarchitectured electrocatalysts. ",
+        "bbox": [
+            502,
+            591,
+            915,
+            853
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The change in nanoparticle size during an electrochemical reaction is also an important cause of activity loss. As discussed, the optimal size for high ORR activity is around $3 \\ \\mathrm { n m }$ , and increase in particle size during the reaction can ",
+        "bbox": [
+            502,
+            854,
+            915,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            70
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (4 of 20) ",
+        "bbox": [
+            438,
+            936,
+            552,
+            950
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "lower the activity. An increase in particle size is frequently observed after ADTs, indicating that the size increase is a significant cause of deactivation (Figure 2d).[13,17,23,24] There are two possible mechanisms for nanoparticle growth: Ostwald ripening and particle agglomeration. First, dissolved atoms can redeposit on larger particles to lower the surface free energy, the so-called Ostwald ripening, inducing a rapid increase in particle size.[25] Second, nanoparticle coarsening can occur, in which two or more nanoparticles merge into a larger particle by the migration of nanoparticles on the support. There have been tremendous efforts to understand this behavior by particle size distribution (PSD) analysis. However, understanding and discerning this behavior is challenging because of the massive experimental error induced by the broad initial PSD and different experimental conditions.[26,27] Moreover, as the upper potential limit increases, the contributions of dissolution and redeposition change.[28] Recent in situ analysis has significantly helped the understanding of the degradation mechanism. However, the results obtained by different techniques are contradictory. Myers and co-workers suggested that the dissolution and redeposition processes are the cause of particle size increase, as determined by in situ SAXS measurements.[19] Strasser and co-workers also suggested that particle growth occurs primarily by an Ostwald-ripening-based redeposition process, while the contribution of particle coalescence plays a minor role.[26] However, an increase in nanoparticle size arising from particle merging was also observed. Abruña and co-workers reported changes in nanoparticle trajectories before and after an electrochemical reaction by 3D tracking and visualization of PtCo nanoparticles (Figure 2e).[29] From transmission electron microscopy (TEM) analysis, the dominant mechanism for the nanoparticle size increase cannot be clearly determined; however, the coalescence of nanoparticles can be clearly seen.[29,30] Recently, Tuaev et al. investigated the durability of Pt nanoparticles on various carbon supports by in situ SAXS analysis.[31] The dominant degradation mechanism of Pt nanoparticles was suggested to be the coalescence of the Pt nanoparticles on the support. Based on the control analysis, they also suggested that geometric barriers to prevent particle merging are effective for protecting nanoparticles. ",
+        "bbox": [
+            82,
+            90,
+            489,
+            674
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although a significant understanding of the fundamental mechanism of nanoparticle durability has been gained, there remain several unclear issues. The distinction of the dominant degradation mechanism is crucial because, depending on the mechanism, the solution for durable electrocatalyst design can be significantly different. If the dissolutioninduced redeposition, so-called Ostwald ripening, is the major contributor to particle growth, the inhibition of atomic dissolution is a key factor. Furthermore, the uniform size distribution of nanoparticles can help alleviate the huge particlesize increase. On the other hand, if nanoparticle coalescence (merging) is the primary cause, inhibiting particle migration and detachment would be a useful strategy, for example, enhancing the nanoparticle–support interaction or nanoparticle confinement effects. Therefore, in-depth analysis of the deactivation mechanism on nanoparticle electrocatalysts is necessary. Meanwhile, many advances have been suggested ",
+        "bbox": [
+            82,
+            675,
+            489,
+            910
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "to improve nanoparticle stability based on the suggested degradation mechanisms. ",
+        "bbox": [
+            512,
+            93,
+            917,
+            119
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Underlying the nanoparticle agglomeration issue due to the low interaction with support materials, support stability is also considered an important degradation origin for nanoscale materials in an electrochemical reaction.[32] Based on the several criteria including chemical and physical stability, high surface area, corrosion resistivity, and electrical conductivity, porous carbons have been used as general support materials. From the thermodynamic viewpoint, carbon corrosion is possible under normal operating conditions,[33] but is considered a less significant issue due to the slow kinetics. Under certain conditions such as the start-up cycle and fuel starvation, however, abrupt activity decrease has been observed.[34] Because a small amount of oxygen with hydrogen in the anode can dramatically increase the cathode potential up to $1 . 4 ~ \\mathrm { V } , ^ { [ 3 5 ] }$ carbon materials are no longer stable in electrochemical systems and carbon corrosion can induce severe activity loss. Therefore, support stability issues based on the degradation mechanisms have been accentuated from the application viewpoint, especially for automotive cells. Linse et al. revealed the effect and various conditions of carbon corrosion using a standard $\\mathrm { P t / C }$ electrocatalyst, indicating that drastic carbon corrosion was observed when the potential limit was increased from 1.0 to $1 . 4 \\mathrm { ~ V ~ }$ by monitoring $\\mathrm { C O } _ { 2 }$ measurements.[36] Furthermore, the carbon loss rate of $\\mathrm { P t / C }$ was higher than that of bare carbon, suggesting that Pt significantly catalyzes carbon corrosion. Wei and co-workers have also investigated the carbon corrosion effect on ORR activity.[37] After holding the potential at $1 . 5 ~ \\mathrm { V }$ for several hours, drastic activity loss was observed. However, significant activity was recovered after the refreshment treatment, although still low compared to that before potential-holding, indicating that surface Pt oxidation plays a major role in the durability issue. The instability of the carbon support induced by carbon corrosion was monitored by identical-location TEM analysis by Arenz and co-workers.[38–40] ECSA loss followed by Pt detachment was observed in cases where carbon corrosion was possible, indicating the importance of nanoparticle interaction with a stable support.[38] Furthermore, a change in the structure and shape of carbon was observed at high temperatures $( 6 0 ~ ^ { \\circ } \\mathrm { C } )$ .[39] Based on the various studies related to the instability of carbon support materials, improving the carbon stability is also important for high long-term stability of nanoscale materials. Various approaches to enhance the carbon stability and interaction with nanoparticles have been suggested by the control of carbon crystallinity,[41] carbon structure,[42] and surface treatment,[43] and its stability enhancement has been verified successfully. However, further enhancement for finding stable support materials or a design to replace current carbon-based materials is a timely issue for utilizing nanoscale materials efficiently. In Section 3, we introduce recent promising methods for improving nanoparticle stability based on nanoparticle characteristics and the nanoparticle degradation mechanism. Furthermore, we discuss a recent approach for replacing current carbonbased support materials with more stable support materials for durable nanoparticle applications. ",
+        "bbox": [
+            509,
+            119,
+            919,
+            912
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            60,
+            263,
+            71
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            27,
+            919,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            60,
+            919,
+            71
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            82,
+            939,
+            213,
+            950
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (5 of 20) ",
+        "bbox": [
+            443,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            630,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Recent Achievements in Durable Electrocatalyst Design for the ORR ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            93,
+            485,
+            124
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As discussed in Section 2, improving nanoparticle stability is pivotal for maintaining performance without activity loss. Various methods have been suggested to suppress the atomic dissolution of nanoparticles and inhibit their agglomeration. For instance, doping, crystal-structure control, and shape engineering can help mitigate atomic dissolution. Furthermore, nanoparticle shape control, such as the use of 1D structures, and nanoparticle encapsulation/confinement systems can prevent or reduce particle coalescence. In this section, we summarize the recently developed methods for enhancing nanoparticle durability (Figure 3). These methods can be classified into five categories: core@shell (Pt skin structure), intermetallic compounds, doping, shape control, and nanoparticle confinement. We discuss the advantages of each method and its potential, mainly focusing on nanoparticle durability issues. Finally, we review several examples of state-of-the-art oxide-based support materials for durable nanoparticle utilization and discuss their stability in the electrochemical potential window. ",
+        "bbox": [
+            73,
+            134,
+            487,
+            385
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1. Core@Shell Structures (Pt-Skin Structures) ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            411,
+            378,
+            426
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Core@shell structures have been highlighted not only for increasing the activity but also for lowering the usage of expensive Pt.[44] Utilizing low-cost materials in the core parts, such as Ni, Co, and Fe, is an ideal method for obtaining high activity at low cost.[45] Core@shell nanoparticles are also significantly advantageous in terms of stability. As discussed in Section 2, the dissolution of other transition metals is much more severe than that of Pt, implying that the core protection by the Pt shell can mitigate the dissolution of the transition ",
+        "bbox": [
+            73,
+            438,
+            487,
+            564
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e075a6510194ecb94496f8951328eab8fcc72f9aea6471571f104acb588bfe4.jpg",
+        "image_caption": [
+            "Figure 3. Recent promising nanoparticle design for highly durable and active electrocatalyst. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            588,
+            485,
+            873
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "metals, resulting in high durability.[46] In this section, we focus on the design of core@shell nanoparticles for high durability because the origin and effective design of highly active core $@$ shell structures have been well summarized in recent review articles.[47] Durable core@shell nanoparticles can be achieved by either engineering the shell protection or increasing the core stability. First, core protection using a delicate shell thickness and shell properties has been highlighted as an important factor in the design of core@shell nanoparticles. Considering the role of core protection, a thick Pt shell is effective; however, if the shell is too thick, the effect promoting high activity, the so-called strain effect, is mitigated.[48] Therefore, the optimum shell thickness should be considered for not only the activity but also durability. Xie et al. investigated the effect of Pt shell thickness on the activity and durability of $\\mathrm { P d } \\ @ \\mathrm { P t }$ nanoparticles prepared by an atomic layer-by-layer Pt deposition process (Figure 4a).[49] By controlling the Pt shell thickness from one layer to six layers, the activity and stability were investigated. The single-layer Pt shell Pd@Pt showed the highest mass activity, but its activity dropped significantly compared to that of thicker-layer shell nanoparticles, implying that delicate shell thickness control is required not only for high activity but also high durability (Figure 4b). The other method for effectively utilizing the core@shell structure and protecting the core material is to control the shell properties such as Pt skin structure. The Pt skeleton and Pt skin structure suggested by Stamenkovic et al. are good examples for shell property control.[50] The Pt skeleton is a corrugated Pt surface, while the Pt skin is the topmost layer, constructed from a well-ordered Pt shell, which arises from thermal effects. The Pt skeleton and Pt skin have similar structures in terms of the Pt shell exposed on the surface; however, the core materials can be more effectively protected by a well-ordered Pt skin shell, where electronic effects from the second and third layers can be retained to further promote ORR activity (Figure 4c).[50,51] Wang et al. applied the Pt-skin concept in a nanoparticle system consisting of Pt-skin PtNi nanoparticles, and verified the superior electrochemical properties and higher durability compared to those of both skeleton PtNi and Pt nanoparticles (Figure 4d).[52] The improved durability of the Pt skin structure was investigated by Ni X-ray absorption fine structure spectroscopy (XANES), and no changes before or after ADT were observed, indicating that the complete protection of the Ni core had been achieved (Figure 4e). The Ni protection by the Pt skin originated from the sufficiently thick multilayer Pt skin layer, which prohibits Ni dissolution, and the diminished number of undercoordinated sites produced during heat treatment. Besides the uniqueness of the Pt skin structure for obtaining high activity and durability, various modifications, such as different core materials[53] and structures,[54,55] have been developed and show promise for achieving high activity and durability simultaneously. ",
+        "bbox": [
+            500,
+            93,
+            915,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second strategy to improve the durability of core $@$ shell nanoparticles is to increase the stability of the core materials.[24,56–58] Adzic and co-workers suggested a PdAu alloy nanoparticle as the core material for a monolayer Pt core $@$ shell ORR electrocatalyst.[56] Compared to bare Pd, the PdAu core was extremely stable for up to 100 000 cycles with minimal activity loss. Hwang et al. also reported the designed synthesis of core materials based on computational screening to obtain ",
+        "bbox": [
+            502,
+            800,
+            915,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            71
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (6 of 20) ",
+        "bbox": [
+            438,
+            936,
+            552,
+            950
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/119d270ae07185f8bff061d217cd24748d7aa91b0c69aba3b04b4cf79645390c.jpg",
+        "image_caption": [
+            "a "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            95,
+            386,
+            267
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf94e704a03c147bc2237504a1fd6307a6d92e642396fc357cdbffd3de97d653.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            389,
+            95,
+            620,
+            267
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/06570d6e13769c667cc76abf9d6498101a194559ce4b951ab6053c264c5efff7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            626,
+            95,
+            858,
+            267
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3db7fc98b4c0ab68ab16a774fff2785519e229bdc335a7321c99520d996c696.jpg",
+        "image_caption": [
+            "b "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            201,
+            269,
+            581,
+            462
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7bc7e6143a7e0c87965fd4593033cfeea7f82274e4ae8f24cb384712fc9bbfb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            628,
+            274,
+            860,
+            448
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ec96448dd995b5e49b37988ca23370990902eb166f99f3dabfb9ca4e84c5fcc.jpg",
+        "image_caption": [
+            "C ",
+            "Acid treated PtNi/C "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            489,
+            315,
+            606
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d170ca6fc65e3b6afec2f3e7dee15553a2d0d2da1808aba67d83674085aec8f.jpg",
+        "image_caption": [
+            "Acid treated/annealed PtNi/C ",
+            "e "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            386,
+            488,
+            552,
+            607
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/72f95994113c48ca89f02f7e82a7fbdd31513513c3870e0e0232d746d0d0c2dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            581,
+            491,
+            870,
+            662
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cff3f6eb3ea9ae3a9c84fb64f1c51c9fbbc0a4e8f2f075e0589c6b77179d3bc9.jpg",
+        "image_caption": [
+            "d "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            132,
+            655,
+            574,
+            849
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/55da4bc397e714aba3692cc6ce903ae6124b520ec6a5006560071475684309d3.jpg",
+        "image_caption": [
+            "Figure 4. Core@shell structure for durable electrocatalyst using shell engineering. a) STEM and line-scan results of various thickness Pd@Pt core@ shell nanoparticles, and b) Pt-shell-thickness-dependent ORR activity and durability. Reproduced with permission.[49] Copyright 2014, American Chemical Society. c) Scheme of Pt skin and skeleton structure. d) Activity and durability trend of skin, skeleton, and Pt nanoparticles and e) XANES analysis for validation of core protection. Reproduced with permission.[52] Copyright 2011, American Chemical Society. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            579,
+            670,
+            870,
+            841
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            80,
+            60,
+            263,
+            71
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            26,
+            919,
+            56
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            60,
+            919,
+            71
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            82,
+            939,
+            213,
+            950
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (7 of 20) ",
+        "bbox": [
+            443,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/827e6ccaa284dffaa9a5a84f802115fb8a62b7f3561d2d958280d703f7980e19.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            141,
+            95,
+            522,
+            293
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d17ccee8637a7fbf8bf7b9c852a6c3cd47820c405e92e2a473470c89fee57433.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            532,
+            94,
+            833,
+            290
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce954eee856c6a6bb7b411ce6963258c37c73d72497c074272284c353c8eb67a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            159,
+            313,
+            836,
+            475
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8af9c646457db1b3b76dccfd5bc110f75d580e7530f048818aa171edb2656ea4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            154,
+            466,
+            522,
+            665
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7cc1ca2cd1ce9759dd84f8b64ceaed07c3d4c94d0cb81a404c12089c7a487e0.jpg",
+        "image_caption": [
+            "Figure 5. Core@shell structure for durable electrocatalyst using core engineering. a) Computational results to find the durable and active core in terms of vacancy formation energy and oxygen adsorption energy. b) Durability result of ${ \\mathsf { P d } } _ { 3 } { \\mathsf { C u @ P t } }$ nanoparticles. Reproduced with permission.[58] Copyright 2013, Nature Publishing Group. c) Synthesis of carbide core–thin-layer Pt-shell nanoparticles, and d) STEM and EDS results of core@shell nanoparticles. e) Electrochemical activity and durability result of core@shell nanoparticles. Reproduced with permission.[60] Copyright 2016, AAAS. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            475,
+            848,
+            673
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "both high activity and durability.[58] Among the various Pd-based core materials, $\\mathrm { P d } _ { 3 } \\mathrm { C u }$ was considered a promising core material because of its high vacancy-formation energy and low oxygen-adsorption energy, implying the importance of core-material engineering for high durability (Figure 5a,b). In addition to transition metals or alloy structures, many attempts have been made to replace core materials with more robust, cheaper materials such as nitride[59] and carbide.[60,61] Recently Hunt et al. verified that Pt monolayer shells on transitionmetal carbide core nanoparticles act as durable electrocatalysts.[60] They developed a unique synthesis protocol using the ",
+        "bbox": [
+            73,
+            757,
+            487,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "encapsulation concept and thermal segregation effect. The protocol can be summarized as follows (Figure 5c). The $\\mathrm { P t } / \\mathrm { W O } _ { x }$ structure was formed by the heat treatment of silica-encapsulated Pt and tungsten sources in the presence of $\\mathrm { C H } _ { 4 } / \\mathrm { H } _ { 2 }$ . With increasing temperature, $\\mathrm { P t } / \\mathrm { W O } _ { x }$ transformed to a PtW alloy structure. Finally, the core $@$ shell structure of $\\mathbb { W } \\mathbb { C } \\mathbb { @ } \\mathbb { P t }$ was synthesized by the segregation of Pt in the shell (Figure 5d). Because of the high stability and electrical conductivity of the carbide core, these materials have been successfully applied to various electrochemical reactions, verifying their high activity and durability (Figure 5e).[60,61] ",
+        "bbox": [
+            502,
+            757,
+            915,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            70
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (8 of 20) ",
+        "bbox": [
+            438,
+            936,
+            552,
+            950
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2. Intermetallic Pt-Alloy Phases ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            93,
+            290,
+            105
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In recent decades, bimetallic Pt-alloy nanocrystals have been thoroughly studied in terms of their size, morphology, specific facets, and composition to correlate these factors with their electrochemical properties.[62,63] However, the importance of atomic ordering within bimetallic alloy nanocrystals has been overlooked in electrocatalyst design. In contrast to disordered phases, ordered phases, the so-called intermetallic phases, have well-defined stoichiometries and long-range ordering of the alloy elements. These features enable the precise control of the local atomic structure within the bimetallic alloy nanocrystals, which can lead to the delicate tuning of the electronic structure of both Pt and transition metals.[38,50] Furthermore, because of its thermodynamic and structural stability, the electrochemical durability of alloy nanocrystals is expected to be boosted in an intermetallic phase, which is a critical issue in bimetallic electrocatalysts. In this section, recent key achievements in intermetallic Pt-based nanocrystal design, with their impact on electrochemical property improvement, are briefly covered. For a more fundamental overview of intermetallic nanocrystals, please refer to recent review articles.[64,65] ",
+        "bbox": [
+            82,
+            119,
+            489,
+            397
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To take advantage of the intermetallic structure, several intermetallic Pt alloys have been synthesized and applied as electrocatalysts, including PtV, PtFe, and PtSn.[66] However, it is challenging to generate intermetallic structures while retaining a uniform, small particle size because severe coalescence occurs during the high-temperature annealing required for the atomic ordering process, which limits the mass activity of intermetallic electrocatalysts. Therefore, a novel strategy is required to physically isolate each nanocrystal during heat treatment, thus allowing atomic ordering while preventing particle coalescence. In 2010, Sun and co-workers attempted to solve this issue by coating MgO onto PtFe nanocrystals.[67] With the physical protection provided by the MgO coating layer, uniformly sized, face-centeredtetragonal (fct) (the intermetallic crystalline phase of the Pt–Fe system) PtFe nanocrystals were successfully obtained during heat treatment (Figure 6a). Both the activity and stability for ORR were improved in the intermetallic PtFe. In particular, high chemical and electrochemical stabilities were observed, and there was negligible Fe loss in the acidic electrolyte (Figure 6b). The enhanced electrochemical activity and stability were attributed to the stronger interactions between the well-defined arrangement of Pt and Fe in the intermetallic structure. Similarly, other physical barriers, including $\\mathrm { S i O } _ { 2 }$ ,[68] KCl matrices,[69] and polymer coating,[70] have been employed. Recently, Chung et al. suggested the synthesis of uniform intermetallic PtFe nanocrystals via a polydopamine coating strategy to produce a highly active and durable ORR electrocatalyst (Figure 6c–f).[70] Under the protection of a polydopamine coating, 6.5 nm PtFe nanocrystals with a well-defined intermetallic structure were successfully obtained (Figure 6c–f). Ordered fct-PtFe/C showed superior ORR activity, i.e., more than tenfold increase in both mass and specific activity over commercial Pt/C. Moreover, its outstanding electrochemical robustness was confirmed by the negligible activity loss after 10 000 potential cycles, and further corroborated by the well-preserved high performance in polymer-electrolyte-membrane fuel cells (PEMFCs) during 100 h of continuous operation. The origin of the superior stability was attributed to the suppressed atomic ",
+        "bbox": [
+            82,
+            397,
+            489,
+            911
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "dissolution of Pt and Fe in the intermetallic phase, as verified by the increased oxidation potential of Pt and Fe from in situ XANES analysis. For a deeper understanding of the origin of the suppressed atomic dissolution in the intermetallic phase, firstprinciples calculation was conducted (Figure 6f). Interestingly, the average value of the vacancy-formation energy of Fe atoms was the same in both disordered and ordered PtFe structures; the only difference was the distribution of Fe-vacancy-formation energy. In a disordered structure, Fe atoms with lower vacancyformation energy are more vulnerable to atomic dissolution and result in severe degradation of the PtFe structure, while Fe atoms in the ordered phase have low probability of local atomic dissolution and retain an ordered PtFe structure during the electrocatalytic reaction. The importance of atomic ordering concerning stability was further corroborated by Sun and co-workers. They obtained fully ordered PtFe nanocrystals by employing dumbbellshaped $\\mathrm { F e P t - F e } _ { 3 } \\mathrm { O } _ { 4 }$ nanocrystals with an MgO coating.[71] With its noticeably improved ORR activity, the fully ordered PtFe nanocrystals had significantly higher durability than those of the disordered and partially ordered PtFe, and there was a negligible Pt/Fe ratio change after 20 000 potential cycles (Figure 6g). The origin of this exceptional durability was found to be the formation of a thin Pt layer (2–4 atomic layers) at the nanocrystal surface, and the alternating Pt and Fe atomic layers within the intermetallic crystals were well preserved by the Pt shell during long-term ADT. ",
+        "bbox": [
+            512,
+            93,
+            917,
+            452
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Besides spherical nanocrystals, intermetallic nanocrystals with various morphologies have also been proposed as effective electrocatalysts. Lee et al. synthesized a self-standing intermetallic PtFe porous nanotube using electrospinning with metal precursors and an organic template (Figure 6h).[72] As a cathodic ORR electrocatalyst in a PEMFC, its porous, anisotropic, 1D, and support-free structure was shown to be robust in a highly oxidizing and corrosive electrochemical environment, as well as a system that improved oxygen mass transfer. A similar result was reported by Tamaki et al., where a hollow capsule structure composed of connected intermetallic PtFe nanocrystals was shown to be highly durable in a corrosive fuelcell environment.[73] In addition, Kim et al. reported the synthesis of mesoporous intermetallic Pt–M nanospheres $\\mathbf { \\left( M = N i \\right. }$ Fe, Co, and Cu) using mesoporous silica as a template, and the mesoporous PtNi nanospheres showed exceptionally high stability during long-term fuel-cell operation.[74] Recently, Bu et al. reported the synthesis of intermetallic $\\mathrm { P t } _ { 3 } \\mathrm { C o }$ nanowires via an oil-bath-based wet-chemistry method, whose unique crenel-like structure with a high density of high-index facets resulted in superior activity and stability enhancement.[75] Later, the same authors suggested intermetallic PtPb nanoplates as superior ORR electrocatalysts (Figure 6i), where the biaxial strain from the (001) facets of the PtPb nanoplate induced a decrease in the Pt–Pt distance on (110) facets and boosted ORR activity. Moreover, the uniform Pt shell on the intermetallic PtPb core appeared to be highly stable over 50 000 potential cycles.[76] ",
+        "bbox": [
+            512,
+            453,
+            917,
+            828
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3. Doping on Bimetallic Pt Alloy ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            856,
+            724,
+            868
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Doping strategies have been intensively studied in electrocatalysis, especially in carbon-based materials, because even minute ",
+        "bbox": [
+            512,
+            883,
+            917,
+            911
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            70
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            27,
+            919,
+            56
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            70
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            84,
+            940,
+            211,
+            949
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (9 of 20) ",
+        "bbox": [
+            445,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            630,
+            940,
+            917,
+            950
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf0636bde9af4e2d716b2b46a3a1c70125338c42964e80321ec3e53fb443107a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            93,
+            248,
+            200
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/291697c7798a1e04dc2ae4ff3d124f95ff5ca1e515799beb8b75bbc7ee05ccf1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            262,
+            94,
+            447,
+            201
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ddce75412d3eb0472d5fe5adaa5271d7fc4db178b8fe0ad89c06d6cabaf7a3a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            203,
+            321,
+            374
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/86632d1e6ab90cd86ae3e00d27fe86002eddc9e300cc8e65ba142bd2d7181c44.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            322,
+            203,
+            436,
+            373
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d64799c4d928e1a62b79bb2be14f971fa34142fa3ec7716e8e08825ffb46ce1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            463,
+            95,
+            884,
+            361
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4028f2ed50168056cc8110aeb8699811f0b587ed6d165e4289f0e72aa0b1362a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            389,
+            433,
+            539
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/03cc0410a9e158acf18fcad234a783158dee744673cfd63b29d854ad476ede68.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            453,
+            373,
+            675,
+            539
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f6397cef8a5425ca3c6cd7978d64909588211036562851f092ff45d9478da2c.jpg",
+        "image_caption": [
+            "Figure 6. Intermetallic Pt alloy nanoparticles for durable fuel-cell electrocatalyst. a) Uniform intermetallic PtFe nanocrystals via MgO coating. b) Time-dependent stability test of PtFe nanocrystals in $0 . 5 \\mathrm { ~ M ~ H } _ { 2 } \\mathsf { S O } _ { 4 }$ . Reproduced with permission.[67] Copyright 2010, American Chemical Society. c) Cs-corrected HAADF-STEM image, d) model structure, and e) FFT pattern of intermetallic PtFe nanocrystals. f) First-principles calculation on Fe vacancy formation energy. Reproduced with permission.[70] Copyright 2015, American Chemical Society. g) Robust stability of fully ordered PtFe over 20 000 potential cycles (inset: improved ORR activity of ordered PtFe nanocrystals). Reproduced with permission.[71] Copyright 2015, American Chemical Society. h) HR-TEM image of porous intermetallic PtFe nanotube (inset: corresponding SAED pattern). Reproduced with permission.[72] Copyright 2015, Wiley-VCH. i) HAADF-STEM image of Intermetallic $\\mathsf { P t P b }$ nanoplate (inset: high-resolution HAADF-STEM image of selected area). Reproduced with permission.[76] Copyright 2016, AAAS. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            677,
+            375,
+            899,
+            539
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "quantities of dopants can impart additional functionality to the surface structure. However, doping has not been used in the bimetallic Pt-alloy system because the introduction of additional elements generally results in the formation of multimetallic alloy systems with comparable element ratios.[77] Nonetheless, doping on bimetallic Pt alloys provides versatility concerning surface-structure tuning and yields unexpected benefits. In this section, we will briefly introduce recent achievements in dopedbimetallic Pt-alloy nanocrystals. ",
+        "bbox": [
+            73,
+            660,
+            487,
+            786
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Recently, Huang et al. reported the transition-metal doping of $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ octahedral nanocrystals, which boosted their electrocatalytic activity and stability (Figure 7a).[78] Among the several transition metals (e.g., V, Cr, Mn, Fe, Co, Mo, Re, and W), the Mo doping of $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals with $1 . 6 \\ \\mathrm { a t } \\%$ significantly increased both mass activity and specific activity of $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals, achieving one of the best activities of Pt-based nanocrystals (Figure 7b–d). Furthermore, the electrochemical stability increased with negligible activity loss after 8000 cycles ",
+        "bbox": [
+            73,
+            786,
+            485,
+            911
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(Figure 7e). While the origin of both enhanced activity and stability is still unclear, a theoretical explanation was suggested by Cao et al.[79] From their ab initio calculations, Mo is expected to be favorably segregated at the edges or vertices of the $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ octahedral nanocrystals in an oxidizing environment, which is assumed to increase the vacancy-formation energy, and thereby prohibit oxidation and the subsequent atomic dissolution of Pt and Ni. On the other hand, a similar interesting effect of Rh-doping on $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals was confirmed by Strasser and co-workers.[80] Unlike bare $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals, which were seriously deformed by prolonged potential cycling, Rh-doped $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals retained their initial truncated octahedral shape with a unique atomically segregated structure (Figure 7f). With their high structural stability, the Rh-doped $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals showed even better activity over 4000 cycles (Figure 7g). Although the exact role of Rh is still elusive, as in the case of Mo-doped nanocrystals, the migration of Pt atoms within the nanocrystals is presumed to be suppressed by the ",
+        "bbox": [
+            502,
+            660,
+            915,
+            912
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            58
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            60,
+            258,
+            71
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            60,
+            915,
+            71
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (10 of 20) ",
+        "bbox": [
+            433,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a ",
+        "bbox": [
+            95,
+            95,
+            112,
+            109
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9882db8c7b06c108a8c5046ae055e7b497eccdaa0f147aa28db5fe168ed5518e.jpg",
+        "image_caption": [
+            "M-doped Pt3Ni/C "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            100,
+            295,
+            160
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PtNi/C ",
+        "bbox": [
+            134,
+            162,
+            179,
+            174
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb364483cd0595acd45fa2582c3987f38594bb8ba9ca4ce130a4be5b33432f7d.jpg",
+        "image_caption": [
+            "b "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            112,
+            179,
+            210,
+            255
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2fd34b2a7c7409ccd58fdd67ca81c0af6c8474d33863fc7f81b271047609a52.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            213,
+            179,
+            314,
+            258
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/15442c18c46d8473a4fed66e625ea7563969e15592d3cefd1059ac799ab32517.jpg",
+        "image_caption": [
+            "d "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            329,
+            95,
+            601,
+            258
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bb2a5d4c05fdf79b1873ecad0bff413fe33ec1329b7d2185784a0964bdded49.jpg",
+        "image_caption": [
+            "e "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            601,
+            103,
+            897,
+            250
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9eba259b9cbed820fadfb0469a96e3e20a9ebc81e4637cb40eead00535f7b67.jpg",
+        "image_caption": [
+            "f "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            122,
+            276,
+            586,
+            498
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0d68e4215d813d2bc9661fd99c48f6d1316728ed9be792fc3e843d4057a3388.jpg",
+        "image_caption": [
+            "",
+            "Figure 7. a) Schematic illustration of transition-metal (M) doping on $\\mathsf { P t } _ { 3 } \\mathsf { N i }$ nanocrystal. b) HRTEM image and c) EDS line-scanning profile of Mo-doped $\\mathsf { P t } _ { 3 } \\mathsf { N i } .$ . d) Doping effect on ORR mass and specific activity at 0.9 V with various metal dopants. e) Change in specific (left) and mass (right) activity of electrocatalysts through potential cycles. Reproduced with permission.[78] Copyright 2015, AAAS. f) EDX composition maps of Rh-doped PtNi and bare PtNi octahedral nanocrystals through potential cycles (Pt: red; Ni: green; Rh: blue). g) Change in mass (solid) and specific (dashed) activity of electrocatalysts through potential cycles. Reproduced with permission.[80] Copyright 2016, American Chemical Society. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            596,
+            279,
+            902,
+            498
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "presence of Rh. However, because Rh is not electrochemically stable within the potential window of ORR, the loss of Rh was unavoidable and structural stability was lost after 8000 cycles. Similarly, Huang et al. reported enhanced activity and stability of Rh-doped Pt nanowires, suggesting that a decrease in Pt–Pt distance by Rh-doping is the main reason for the stability enhancement.[81] ",
+        "bbox": [
+            78,
+            577,
+            490,
+            674
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the investigations described above, it is presumable that small amounts of metal dopants can impart additional functionality to the surface of bimetallic Pt alloy nanocrystals, resulting in an unexpected increase in both ORR activity and stability. Nevertheless, the reason for the improvement in doped-bimetallic Pt alloy is still unknown because the effect of doping on the activity and stability has not been investigated systematically; therefore, more experimental studies with welldefined model systems are required to gain a deeper understanding of the beneficial role of dopants on the electrocatalytic behavior of Pt alloy nanocrystals. ",
+        "bbox": [
+            78,
+            675,
+            492,
+            829
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4. Shape Control ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            854,
+            201,
+            868
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nanoparticle shape control has been used in various catalytic and electrocatalytic applications in the last few decades.[82] ",
+        "bbox": [
+            78,
+            882,
+            490,
+            912
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because nanoparticle morphology is directly correlated to the exposure of specific surface facets in the crystal structure, the active sites on a surface facet can be selectively chosen via nanoparticle shape engineering, as in the case of the {111} face in octahedral and {100} face in cubic nanoparticles.[83] In this section, we discuss three representative concepts, focusing on dimensional issues such as 1D and 3D structures, which have been very recently found to be highly durable and active electrocatalysts. ",
+        "bbox": [
+            507,
+            578,
+            919,
+            704
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4.1. Nanowires ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            731,
+            616,
+            742
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nanowires, which are nanocrystals with a 1D structure, have numerous advantages for use in many fields. For electrocatalysis, nanowires have been proposed as an ideal structure, combining advantages from the increased electrocatalytic active sites of the nanoscale and the high stability of the bulk scale. Yu and co-workers verified the high activity and durability of a nanowire-based electrocatalyst for the ORR.[84] In comparison to bulk Pt and $\\mathrm { P t / C }$ nanoparticles, Pt nanowires showed higher mass activity. The most remarkable features were observed in the durability tests: the $\\mathrm { P t / C }$ nanoparticles were deactivated over 3000 potential cycles (ECSA loss after 3000 cycles: $9 5 \\%$ ), ",
+        "bbox": [
+            507,
+            757,
+            919,
+            912
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            59,
+            263,
+            71
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            26,
+            919,
+            56
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            60,
+            919,
+            71
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            80,
+            939,
+            213,
+            950
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "1704123 (11 of 20) ",
+        "bbox": [
+            438,
+            936,
+            563,
+            950
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/492b433428b9b62f8b994a0193125c313e3dd3394990c146071c7457f14c6e37.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            94,
+            463,
+            243
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a339a9f9123afff0ee85576d4a2b866b7ad833795322f0832fb1da78e75f9505.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            470,
+            94,
+            900,
+            239
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5b85ecc1b272d1ad4df397319a9cfbe008b243c2bd43e51d9b53585ad86d5d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            247,
+            457,
+            335
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/85697709ed41188d2b2a9c20697fd27c5ad024e04a35075fd2274476087d0ef2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            475,
+            250,
+            877,
+            462
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/28a3b8d9712a2d988ffee1036381d85a92998e31c5d530bd65b35de8fc73adcb.jpg",
+        "image_caption": [
+            "Figure 8. Shape control of nanoparticles for durable and active electrocatalysts. Durability results and TEM analysis after durability testing: a) 1D Pt wire nanoparticle. Reproduced with permission.[86] Copyright 2016, AAAS. b) 1D Pt3Co alloy nanostructure. Reproduced with permission.[75] Copyright 2016, Nature Publishing Group. c) Hollow Pt nanoparticle. Reproduced with permission.[90] Copyright 2015, AAAS. d) $\\mathsf { P t } _ { 3 } \\mathsf { N i }$ nanoframe structure. Reproduced with permission.[55] Copyright 2014, AAAS. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            336,
+            403,
+            453
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "while the Pt nanowires showed only an $1 8 \\%$ loss. Wang and co-workers also corroborated the superior durability and activity of Pt nanowires in various alcohol-oxidation reactions.[85] Recently, Duan et al. reported jagged Pt nanowires, which are produced by the dealloying of a PtNi nanowire (Figure 8a).[86] This structure was synthesized by the formation of Pt-core/ NiO-shell nanowires, followed by their transformation into a PtNi alloy nanowire structure by heat treatment. Subsequently, electrochemical dealloying was used to leach away the Ni in the nanowire, generating a jagged Pt nanowire with a highly crystalline character. This jagged Pt nanowire showed high ECSA values of around $1 2 0 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ , which is even higher than those of Pt nanoparticles (around $6 0 { - } 8 0 \\ \\mathrm { m } ^ { 2 } \\ \\mathrm { g } ^ { - 1 } )$ ), and a high mass activity at 0.9 V $( 1 3 . 6 \\mathrm { \\ A \\ m g ^ { - 1 } } )$ ), which is the best result reported so far. Furthermore, deactivation was not observed after ADT. The superior ORR durability of jagged Pt nanowires is attributed to the unique 1D geometry. As discussed in Section 2, dissolution, followed by Ostwald ripening and nanoparticle agglomeration, is the major cause of low durability, and these effects become even more serious as the nanoparticle size decreases. Owing to their 1D structure, nanowires might prohibit the movement and aggregation of nanoparticles and even mitigate Ostwald ripening, resulting in the maintenance of the initial morphology and preservation of the high ECSA. ",
+        "bbox": [
+            73,
+            535,
+            485,
+            868
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Because of their structural advantages, nanowires have been applied to bimetallic or trimetallic compounds[87] and core– shell structures.[88] Apart from the linear nanowire structure, ",
+        "bbox": [
+            73,
+            868,
+            485,
+            911
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Huang and co-workers recently reported a hierarchical PtCo nanowire structure that has a high-index, Pt-rich surface and an ordered intermetallic structure (Figure 8b).[75] These structures showed significant enhancement in ORR activity compared to commercial Pt nanoparticles and long-term durability for up to 20 000 cycles, showing only $8 \\%$ activity loss. The high activity and durability are attributed to the exposure of hollow sites on (110) and (310) high-index facets, suggesting that surface facet control while maintaining the 1D structure is promising for further activity and durability enhancement. ",
+        "bbox": [
+            502,
+            535,
+            915,
+            677
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4.2. Hollow Structures ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            703,
+            655,
+            716
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hollow structures as durable ORR electrocatalysts were first introduced by Wang et al.[89] These hollow structures were formed by the template-removal method. Because of the different diffusivities, the so-called Kirkendall effect, hollow Pt nanoparticles could be successfully prepared from Ni dissolution. The hollow Pt nanoparticles showed 4.4 times higher mass activity compared to solid Pt nanoparticles. Moreover, there was no appreciable activity loss after ADT. The origin of long-term durability was ascribed to lattice contraction, arising from structural effects. The average lattice strain of the hollow structure compared to bulk Pt is $- 1 . 9 \\%$ , which is even higher than that of solid Pt nanoparticles $( - 0 . 5 \\% )$ . Based on the atomic contraction effect on adsorption strength, compressive strain is ",
+        "bbox": [
+            502,
+            730,
+            915,
+            912
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            70
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (12 of 20) ",
+        "bbox": [
+            433,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "expected to lead to lower oxygen-binding energies, resulting in high ORR activity and durability of the hollow Pt nanoparticles. Recently, Xia and co-workers reported nanocage structures of Pt nanoparticles with sub-nanometer-thick walls (Figure 8c).[90] Unlike previous researchers, they successfully controlled the facets and obtained a well-defined structure, which is an important parameter for electrochemical activity. In this context, the Pt nanocage structure is highly attractive because the specific activity can reach the single-crystal level because of its facet control, while the mass of Pt remains as low as those of commercial catalysts owing to the hollow structure. Nanocages bound by {111} or {110} facets were successfully synthesized by the deposition of small amounts of Pt on Pd octahedral or cubic nanoparticles, followed by leaching of the Pd core. The ORR performance of the octahedral nanocages showed a mass activity of 0.75 A $\\mathrm { m g ^ { - 1 } P t }$ and a specific activity of $1 . 9 8 \\mathrm { \\ m A \\ c m ^ { - 2 } }$ at $0 . 9 \\ \\mathrm { V } ,$ which are five and eight times higher than those of commercial $\\mathrm { P t / C }$ , respectively. Furthermore, the octahedral nanocages showed higher durability compared to $\\mathrm { P t / C }$ . Employing Pd as a core material for facet-controlled Pt nanocages was further extended to an icosahedral structure with twin defects, which further enhanced the electrocatalytic activity.[91] Li and co-workers also reported a similar idea for the synthesis of icosahedral Pt nanocages and verified their superior ORR activity and durability.[92] ",
+        "bbox": [
+            82,
+            93,
+            490,
+            438
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4.3. Nanoframes ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            467,
+            198,
+            481
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In 2014, Stamenkovic et al. reported highly crystalline multimetallic nanoframes with 3D structures as highly durable and active ORR electrocatalysts (Figure 8d).[55] After the synthesis of Ni-rich $\\mathrm { P t N i } _ { 3 }$ polyhedral nanoparticles, the interior erosion of Ni in solution transforms the solid $\\mathrm { P t N i } _ { 3 }$ nanocrystals to $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanoframes and a subsequent mild heat treatment results in the formation of a Pt-skin structure in the $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanoframe structure. The combination of the 3D structure and the Pt-skin surface promoted ORR activity, achieving a remarkably high ORR activity and a mass activity of 5.7 A $\\mathrm { m g ^ { - 1 } P t }$ at $0 . 9 \\mathrm { ~ V ~ } ,$ which is an order of magnitude higher than the US Department of Energy's (DOE) 2017 target $( 0 . 4 4 \\mathrm { ~ A ~ m g ^ { - 1 } { } _ { P t } ^ { } } )$ . The Pt-skin nanoframe also showed superior long-term durability without appreciable activity loss. After long-term durability tests, scanning TEM (STEM) indicated that the 3D frame structures were well preserved without noticeable changes. The origin of the long-term durability is ascribed to the lower coverage of oxygenated species arising from the weaker oxygen-binding energy and optimal Pt skin layer, which prevents the dissolution of the transition metals. Based on these superior electrochemical properties, various advances have been proposed by structure modification[93] and expanded to various bimetallic alloy systems[94] and trimetallic nanoframe structures.[95,96] For example, Li and coworkers reported Au islands on Pt–Ni trimetallic nanoframe structures.[95] Before the etching of Ni in the $\\mathrm { P t N i } _ { 3 }$ polyhedra, they conducted a selective replacement of Ni with Au at corner sites rather than edge sites because of the surface free energy. After the replacement reaction, Ni was leached out and the Au-decorated $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanoframe structure was achieved. The ",
+        "bbox": [
+            82,
+            495,
+            490,
+            910
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Au-decorated $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ trimetallic nanoframes showed further improved CO and methanol oxidation reactions compared to the bare $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanoframe structure and $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ solid nanocrystals, suggesting that a beneficial structural and electronic modification can be achieved by the introduction of Au. The Au-on- $\\mathrm { \\cdot P t } _ { 3 } \\mathrm { N i }$ trimetallic nanoframes verified high durability without deactivation, while an abrupt activity decrease was observed in the case of $\\mathrm { P t } _ { 3 } \\mathrm { N i }$ nanocrystals. ",
+        "bbox": [
+            512,
+            93,
+            919,
+            203
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.5. Nanoparticle Encapsulation or Confinement ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            232,
+            816,
+            245
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Besides the well-controlled architecture of the nanocrystal structure, new approaches to overall catalyst structure design have also been proposed.[97] The unique concept of nanoparticle confinement within a controlled pore system was suggested by Schüth et al. (Figure 9a).[98] They proposed an intriguing structure: a hollow graphitic carbon sphere support with a high surface area and a controlled pore system containing encapsulated nanoparticles. The encapsulated Pt nanoparticles showed high durability at the MEA scale, as well as maintenance of a high ORR activity. The results of identical-location STEM measurements show that the nanoparticles maintain their initial size without agglomeration, indicating that nanoparticle confinement within the pores of the support is a promising nanoparticle-stabilization method. This concept was further expanded to alloy nanoparticles.[99] PtNi nanoparticles confined in a porous carbon support were also verified to have high durability as well as high activity. Many advances and improvements in the confinement through encapsulation concept have been reported.[70,100,101] Among the various approaches, a thin-layer carbon shell coating is highlighted as one of the most promising candidates.[70,102] Chung et al. developed the encapsulation of PtFe nanoparticles by a very thin-layer carbon shell and verified their unique stability, not only for thermal treatment but also for electrochemical reaction (Figure 9b).[70] Solution-based polydopamine coatings on the support and nano - particle can be converted into very thin carbon shells by heat treatment. During the heat treatment, the nanoparticle crystal structure is converted into a durable intermetallic structure, as discussed previously, without particle agglomeration, while the bare nanoparticles were highly agglomerated, verifying their high thermal stability under harsh conditions. Nanoparticle stability was also observed in the electrochemical ORR reaction. There was no apparent activity loss up to 10 000 ADT potential cycles and high durability was also observed in MEA analysis, maintaining its maximum power density up to $1 0 0 \\ \\mathrm { h }$ of consecutive operation. In addition to its high activity and durability, carbon-shell-thickness control results give an insight into the design principles for appropriate confinement or encapsulation of the particles. If the carbon coating is too thick, the activity is negligible, indicating that the proper design for nanoparticle encapsulation while exposing the active site for reaction is critical for achieving both high activity and durability. Recently, this concept has been successfully expanded to durable nonnoble electrocatalysts for the hydrogen evolution reaction.[103] The carbonization-induced nanoparticle encapsulation and phase change from oxide to phosphide can be carried out simultaneously without severe ",
+        "bbox": [
+            512,
+            258,
+            919,
+            910
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            70
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            27,
+            919,
+            56
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            70
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            82,
+            940,
+            213,
+            949
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (13 of 20) ",
+        "bbox": [
+            440,
+            936,
+            561,
+            950
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            630,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/81bf9b6748f2df707c9007ed2c3565c69025a244d564797f1633c1b5e660a85a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            141,
+            95,
+            581,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b26e4a8f37eb2dba873badbaa0599f3f0fc7436244af9111c5bec44ade2c2e7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            611,
+            95,
+            847,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/275e0839abc59236b118f11c867d0e78c57ab15086dcd137ff8e7e976a0d0d15.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            243,
+            591,
+            406
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5e9255649c4688ca73c560cb40ea7c24d31496ed2ede34c3b30fafed5f0536f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            611,
+            243,
+            847,
+            407
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6d2e063bece920877bddf527af1e3b985d6b41c896347710c2f2ca694e97bc6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            141,
+            411,
+            594,
+            564
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/c486b8f3494b5a3d01be47eb2191f1eba57ccfeb8f2bec06e32afa6a892eccce.jpg",
+        "image_caption": [
+            "Figure 9. Nanoparticle confinement and encapsulation strategies to protect nanoparticle agglomeration: synthetic protocols and TEM image. a) Pt nanoparticle confinement in mesopore carbon. Reproduced with permission.[98] Copyright 2012, American Chemical Society. b) A thin-layer-carbonshell-protected PtFe nanoparticle. Reproduced with permission.[70] Copyright 2015, American Chemical Society. c) Zirconia-stabilized Pt nanoparticles. Reproduced with permission.[109] Copyright 2015, Wiley-VCH. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            411,
+            848,
+            566
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "changes to the nanoparticle size, and the stability of these electrocatalysts during electrochemical reaction has been verified. Mu et al. also reported similar concepts using starch,[100] which acted as both surfactant, yielding narrow Pt nanoparticle size, and barrier for particle detachment and migration after conversion to a thin carbon shell on the Pt nanoparticles. After ADT, the Pt nanoparticles coated with an ultrathin layer carbon shell retained their small size and showed improved durability, with only $3 9 . 7 \\%$ activity loss (deactivation of commercial $\\mathrm { P t / C }$ is $6 8 . 9 \\%$ ). ",
+        "bbox": [
+            73,
+            646,
+            485,
+            785
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Besides carbon encapsulation systems, metal oxide[104,105] and carbide systems,[106] ionic liquids,[107] and polymers[108] have also been suggested as promising concepts for stabilizing nanoparticles and increasing the activity and durability. Liu et al. suggested the triple junction (metal–metal-oxide–graphene) concept for a durable electrocatalyst.[89] They deposited indiumdoped tin oxide (ITO) nanoparticles adjacent to the Pt nanoparticles and the graphene support. ITO can bind Pt nanoparticles strongly because of the strong metal–support interaction and ",
+        "bbox": [
+            73,
+            785,
+            485,
+            911
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "inhibit the particle agglomeration during the electrochemical reaction. Furthermore, it can protect the support materials from corrosion, as verified after ADT. Recently, Sun and co-workers reported Pt stabilization by the deposition of zirconia at the interface between the carbon and Pt nanoparticles using the atomic layer deposition (ALD) method (Figure 9c).[109] To prohibit the deposition on the Pt nanoparticle surface, they deliberately covered the Pt nanoparticle surface with a surfactant before ALD. After the deposition of zirconia by the ALD process, the removal of the surfactant exposed the active Pt surface for reaction. In this system, exposing the active surface sites while the nanoparticles are confined is key for obtaining both high activity and durability, which is analogous to previous reports.[55] Because of the strong interaction between the metal and carbide and the particle confinement effects, the zirconiamodified Pt showed remarkably high durability without significant changes in particle size, suggesting that the inhibition of particle agglomeration by physical confinement is critical for enhancing nanoparticle stability. ",
+        "bbox": [
+            502,
+            646,
+            915,
+            912
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            78,
+            61,
+            258,
+            70
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (14 of 20) ",
+        "bbox": [
+            433,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.6. Durable Support Materials for Nanoparticle Utilization or Support-Free Approach ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            93,
+            473,
+            121
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "As discussed in Section 2, physical and chemical stability and anticorrosion character are highly demanding criteria for durable support materials. Among the several candidates, metal oxides have been suggested as promising materials because a specific metal oxide is corrosion-resistant in strong acidic and alkaline media. Among the various metal oxides, only limited materials such as $\\mathrm { T i O } _ { 2 }$ , ${ \\mathrm { C e O } } _ { 2 }$ , $\\mathrm { T a } _ { 2 } \\mathrm { O } _ { 3 }$ , $\\mathrm { W O } _ { 3 }$ , $\\mathrm { M o O } _ { 3 }$ , and $\\mathrm { S n O } _ { 2 }$ show chemical stability suitable for strong acidic conditions for PEMFCs. However, the choice of width is highly limited when a high electrical conductivity is also considered. Among the candidates, $\\mathrm { T i O } _ { 2 }$ has been considered as highly corrosion-resistant and exhibits relatively high electrical conductivity compared to other oxide materials. Popov and co-workers verified the possibility of replacing carbon-based systems with $\\mathrm { T i O } _ { 2 }$ in PEMFCs.[110,111] After holding the potential at $1 . 2 \\mathrm { ~ V ~ }$ for $8 0 \\mathrm { h }$ , drastic activity loss was observed for a conventional $\\mathrm { P t / C }$ electrocatalyst, while no significant activity loss was observed up to $2 0 0 \\mathrm { ~ h ~ }$ when using oxide-based $\\mathrm { P t } / \\mathrm { T i O } _ { 2 }$ as an electrocatalyst.[110] Besides $\\mathrm { T i O } _ { 2 }$ [110–112] various other metal oxides have also been suggested as candidates for support materials.[113,114] Despite several verifications for utilizing oxide materials as a support, their low electrical conductivity relative to that of conventional carbon-based systems forms hurdles for broad application. To overcome this problem, doped metal oxides have been considered, with enhanced electrical conductivity. Some examples have successfully verified the enhanced activity and stability using doped metal oxides such as ITO or antimonydoped tin oxide,[115–117] Mo[118] and Nb-doped titanium oxide,[119] and titanium–ruthenium oxide.[120] Ramani and co-workers suggested a highly durable support using titanium–ruthenium oxide (Pt/TRO) as a support material for Pt nanoparticles.[120] As shown in Figure 10a, there is no initial activity difference between the Pt/TRO and a conventional carbonbased system Pt on high surface area carbon (Pt/HSAC). After the start–stop protocol (1000 cycles, 1.0–1.5 V with 2 s per cycle), Pt/HSAC shows significant activity loss, while there is no apparent activity loss in the case of Pt/TRO. The carbon dioxide test results support the severe carbon corrosion issue in conventional PT/HSAC systems (Figure 10b), indicating that the replacement of carbon with TRO can increase the material stability and significantly enhance long-term durability. The stabilization of metal nanoparticles on metal oxide can be understood through the strong metal–support interaction (SMSI).[121] Tightly bound Pt particles on oxide supports are protected by the migration on the support, inhibiting particle agglomeration. It is supported by the electron transfer from metal oxide to metal by physical analysis because the SMSI can affect the electronic structure of metals and metal oxides.[122] Hwang and co-workers reported that the unfilled d-state of Pt was significantly reduced when Pt was deposited on $\\mathrm { T i } _ { 0 . 7 } \\mathrm { M o } _ { 0 . 3 } \\mathrm { O } _ { 2 }$ , compared to $\\mathrm { P t / C }$ and Pt bulk, indicating that electron transfer from metal oxide to metal occurs and is the origin of enhanced ORR activity and durability.[118] This trend was also suggested by Kumar and Ramani,[123] who observed a similar trend for $\\mathrm { P t } / \\mathrm { T a } _ { 0 . 3 } \\mathrm { T i } _ { 0 . 7 } \\mathrm { O } _ { 2 }$ and suggested that the SMSI is the origin of the high stability. ",
+        "bbox": [
+            80,
+            134,
+            492,
+            912
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Recently, Schmidt and co-workers suggested a new concept of a high-durability oxide support through the electrochemical transistor concept, which is the conductivity change of the support oxide upon an electrochemical potential window.[116] When the electrode is exposed to a high potential, which is severe Pt dissolution environment due to surface oxidation, support materials (ATO in this study) behave as a semiconductor due to electrical conductivity loss and protect Pt dissolution while retaining high conductivity under the normal ORR operating condition. The critical control of the on/off switching is affected by the surface conductivity based on the flat-band potential of the metal oxide, suggesting that a proper design of a durable oxide-based support can be obtained. Strasser and co-workers also suggested the degradation mechanism of oxide-support Pt-based nanoparticles using in situ analysis.[117] They monitored the stability of Pt/ITO as a model system in two selective potential regions. Under the catalytic ORR condition (potential cycling from 0.6 to 0.95 V was denoted as LP-AST), the Pt nanoparticles are stable during that potential, but the support ITO suffers from crystallinity loss due to dissolution and particle growth through Ostwald ripening, indicating that cathodic corrosion of the support material is the origin of activity loss in oxide-based materials (Figure 10c). In contrast to the normal ORR condition, excellent stability was shown during the start-up/shut-down condition (potential cycling from 1.0 to $1 . 5 ~ \\mathrm { V }$ was denoted as HP-AST) due to the support effect (Figure 10d). These results guide the future direction for designing durable metal-oxidebased support materials. Under normal operation conditions, there is no severe agglomeration of Pt, suggesting that the metal oxide can protect nanoparticle agglomeration and dissolution. However, the support metal oxide is unstable, indicating that the appropriate design and selection of metal oxide is highly desired. While metal oxides have been considered as chemically and electrochemically stable, they cannot persist perfectly under harsh operation conditions. Geiger et al. analyzed the stability of tin-based oxide materials as electrocatalyst support materials.[124] They conducted a stability test of several tin-based oxides, including fluorine-, indium-, and antimonydoped tin oxides, under the electrochemical potential window using in situ ICP–MS. As shown in Figure 10e, all the tinbased metal oxides are not fully stable enough to utilize the support materials, questioning the application of these oxides as durable support materials. Based on recent research results, finding “stable” support materials is still a challenging project, although significant advances have been made in the field of metal oxides. Though recent suggestion of using nitride[125] and carbide materials[126] can be considered as an alternative, delicate understanding and investigations are required for further advances. ",
+        "bbox": [
+            507,
+            93,
+            922,
+            786
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The other approach for utilizing nanoscale materials is the support-free concept. The main reason behind adopting this concept is nanoparticle dispersity without agglomeration. A 3D structure constructed without support materials using a nanostructure can overcome the support problem.[127] Several promising candidates have been suggested to be used as 3D nanostructures, such as aerogels,[128,129] inverse-opal structures,[131] and hollow structures.[73] Schmidt and Eychmüller suggested successful approaches using noble-metal aerogels.[128,129] ",
+        "bbox": [
+            507,
+            786,
+            921,
+            912
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            71
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            27,
+            919,
+            56
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            70
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            80,
+            939,
+            213,
+            950
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (15 of 20) ",
+        "bbox": [
+            438,
+            936,
+            561,
+            950
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            628,
+            939,
+            919,
+            950
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/adbb0971b1a31f9f5a8c94bd4fce2aea9f97e2d555fa11410b6703cec95b963d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            146,
+            94,
+            478,
+            293
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e109286a134030843a8edf5b8b9c295f971c281337fec57409863c9ba708524.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            500,
+            95,
+            848,
+            293
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c5fa02fd6308d07e70c7e1e02adeaee17b8eaada8865a27f3d8f45f318508d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            141,
+            297,
+            458,
+            491
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae5dc08980cee1de436765b2cfe9ca913839b01650fb818a8047c7639cc8cd14.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            302,
+            845,
+            667
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa473fdf0ef669659b624716578dc8a382ce9e084c44827cb97e5f028bce348c.jpg",
+        "image_caption": [
+            "Figure 10. Durable support materials for nanoparticle applications: comparison of fuel-cell performance using Pt/HSAC and Pt/TRO: a) fuel-cell polarization curves before and after the start–stop protocol; b) evolution of carbon dioxide in the cathode outlet during durability testing. Reproduced with permission.[120] Copyright 2014, United States National Academy of Science. Linear sweep voltammograms of Pt/ITO before and after durability testing: c) potential cycle from 0.6 to 0.95 V; d) potential cycle from 1.0 to 1.5 V. Reproduced with permission.[117] Copyright 2017, Wiley-VCH. e) In situ ICP–MS results of tin-based oxide materials during potential cycles. Reproduced with permission.[124] Copyright 2017, Nature Publishing Group. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            491,
+            458,
+            689
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Unsupported PtPd aerogels showed enhanced ORR activity compared to conventional nanoparticle-supported systems, and their high durability was verified.[128] They have recently also verified its structure advantages by applying PtNi aerogels into fuel-cell cathode materials.[129] The unsupported PtNi initially showed similar activity as that shown by conventional Pt/C systems, maintaining its activity after accelerated stress testing without appreciable activity loss, which indicates that the support-free concept is also a promising candidate for a nanoscale approach to fuel-cell applications. ",
+        "bbox": [
+            73,
+            771,
+            487,
+            911
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4. Perspectives ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            771,
+            630,
+            789
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Here, we have summarized the challenges faced by nanoparticle catalysts, focusing on their activity and stability, and discussed recent promising proposals to design highly active and durable nanoparticle structures effectively. As discussed above, the utilization of nanoparticles is inevitable because of their high mass activity. Therefore, more durable and efficient methods to retain the high activity of nanoparticles are required. Recent candidates have been shown to be very promising; however, delicate ",
+        "bbox": [
+            502,
+            799,
+            915,
+            911
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            70
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            914,
+            70
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (16 of 20) ",
+        "bbox": [
+            433,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "analysis and approaches are required for the application of nanoparticles to industrial electrochemical systems. Finally, we briefly suggest and summarize the future perspectives on the nanoparticle electrocatalyst issues regarding synthesis and analysis. ",
+        "bbox": [
+            82,
+            93,
+            490,
+            161
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.1. Mass Production and Nanoparticle Surface Treatment ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            191,
+            448,
+            203
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To utilize nanoscale electrocatalysts in real fuel-cell systems, the mass production of nanoparticles is necessary. As introduced in the main text, significant activity and durability advances have been made in the last few years, but most remain limited to the laboratory scale. Considering that a uniform size distribution of nanoparticles is essential for both activity and durability, the development of large-scale synthesis processes with reliable and reproducible nanoparticle quality should be focused upon. Furthermore, surfactant issues should be considered for electrochemical applications. Surfactants are unavoidable in various solution-based methods to control the size and morphology of nanoparticles, but their influence on activity and durability is unknown. Therefore, a deep understanding of the role of surfactant is required. Additionally, various methods for surfactant removal have been proposed, such as annealing, UV treatment, and acid treatment; however, more reliable and controlled methods need to be developed. ",
+        "bbox": [
+            82,
+            216,
+            490,
+            452
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.2. Reliable Postmortem Analysis and the Importance of In Situ Analysis ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            482,
+            426,
+            508
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Heretofore, most long-term durability tests have been conducted by potential cycling based on the DOE protocol, squarewave, or constant-current methods. After long-term durability tests, the change in ECSA and activity loss have been compared to the initial values and directly correlated to material durability. However, the activity loss upon ADT cannot fully describe the material stability because the activity of the electrocatalyst is a combined result of many factors; thus, the activity drop may be small under certain circumstances or measurement durations, but it might not mean that the material is stable in that reaction. For example, a significant activity drop might not be observed during the measured potential cycles even though the material is damaged and an abrupt activity drop may only be observed after further cycles. Therefore, delicate postmortem analysis is necessary to understand the stability of nanoparticles. In particular, in situ tracking is a good candidate to monitor material stability, such as in situ ICP–MS, SAXS, X-ray diffraction, or TEM. These techniques, coupled with real-time monitoring, can give further insights into not only more detailed deactivation mechanisms, but also specific chemical and structural changes in nanoparticles during the reaction. ",
+        "bbox": [
+            82,
+            522,
+            489,
+            813
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3. Nanoparticle and Support Interaction and Development of Durable Support ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            842,
+            462,
+            868
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In nanoparticulate electrocatalysts, nanoparticles are generally deposited on support materials with high surface areas ",
+        "bbox": [
+            84,
+            883,
+            489,
+            910
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "to prevent agglomeration. However, the interaction between the nanoparticles and the supports has not been sufficiently clarified. Because the support is not simply an inert conductive material and can affect the activity and durability via specific interactions, more detailed analysis on the interface between the nanoparticles and the support should be addressed. Furthermore, the development of durable support materials to replace the current carbon-based materials is very important. Because of the harsh and corrosive environment at high potentials, carbon materials themselves cannot fully protect nanoparticles from coalescence and detachment during long-term operation. In the future, new concepts or supports that fulfill criteria such as high surface area, high electrical conductivity, and high corrosion resistance need to be developed. ",
+        "bbox": [
+            512,
+            93,
+            917,
+            300
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.4. Systematic Study on the Origin of the Discrepancy between Liquid Half-Cell and Full-Cell Tests ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            329,
+            914,
+            355
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Recently, ORR electrocatalyst research has been intensively explored with the strong motivation to obtain valuable solutions for economic and technological challenges faced by the fuel-cell industry. Nevertheless, while hundreds of Pt-based electrocatalysts have been reported to outperform commercial $\\mathrm { P t / C }$ under the liquid half-cell condition, only limited cases of the electrocatalysts have been shown to be active or durable in the MEA of fuel-cell devices, which indicates a critical limitation in the current research field. Another big issue of a large discrepancy in electrocatalytic activity occurs when electrocatalysts are applied to the MEA scale, especially in the case of intrinsically active electrocatalysts, as recently accentuated by Chorkendorff and co-workers.[132] This discrepancy might originate from the difference in the operating environment; unlike in a liquid half-cell test, a large amount of electrocatalyst is deposited with an ionomer on the polymer electrolyte membrane in MEA. Due to the polymer electrolyte membrane and thick electrode configuration, electrocatalysts in MEA usually suffer from limited transport of protons and oxygen, as well as waterflooding within the cathodic electrode, which are usually neglected under the liquid half-cell condition. However, there have been only a few efforts to correlate these different operating conditions with activity discrepancy. Therefore, more systematic studies need to be organized to clarify the correlation between changes in operating conditions and electrocatalytic properties, which will set a milestone for bridging a large gap between liquid half-cell studies and MEA-based full-cell device application. ",
+        "bbox": [
+            512,
+            370,
+            917,
+            757
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            794,
+            668,
+            809
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "D.Y.C. and J.M.Y. equally contributed to this work. This work was supported by the Institute for Basic Science (IBS-R006-D1). ",
+        "bbox": [
+            512,
+            817,
+            917,
+            841
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            876,
+            662,
+            890
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "bbox": [
+            512,
+            899,
+            749,
+            909
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            80,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            71
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            27,
+            919,
+            56
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            70
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            84,
+            940,
+            211,
+            949
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "1704123 (17 of 20) ",
+        "bbox": [
+            440,
+            936,
+            561,
+            950
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            631,
+            940,
+            917,
+            950
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            93,
+            159,
+            110
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "activity, durability, electrocatalysts, fuel cells, nanoparticles ",
+        "bbox": [
+            75,
+            114,
+            406,
+            128
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Received: July 23, 2017 Revised: October 4, 2017 Published online: ",
+        "bbox": [
+            341,
+            139,
+            485,
+            176
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] L. Palatinus, P. Brázda, P. Boullay, O. Perez, M. Klementová, S. Petit, V. Eigner, M. Zaarour, S. Mintova, Science 2017, 355, 166. ",
+            "[2] a) W. Wang, B. Lei, S. Guo, Adv. Energy Mater. 2016, 6, 1600236; b) N. Jung, D. Y. Chung, J. Ryu, S. J. Yoo, Y.-E. Sung, Nano Today 2014, 9, 433; c) H. Lv, D. Li, D. Strmcnik, A. P. Paulikas, N. M. Markovic, V. R. Stamenkovic, Nano Energy 2016, 29, 149; d) Y. Bing, H. Liu, L. Zhang, D. Ghosh, J. Zhang, Chem. Soc. Rev. 2010, 39, 2184; e) V. Mazumder, Y. Lee, S. Sun, Adv. Funct. Mater. 2010, 20, 1224; f) J. Wu, H. Yang, Acc. Chem. Res. 2013, 46, 1848; g) J. Zhang, K. Sasaki, E. Sutter, R. R. Adzic, Science 2007, 315, 220; h) M. Escudero-Escribano, P. Malacrida, M. H. Hansen, U. G. Vej-Hansen, A. Velázquez-Palenzuela, V. Tripkovic, J. Schiøtz, J. Rossmeisl, I. E. L. Stephens, I. Chorkendorff, Science 2016, 352, 73. ",
+            "[3] H. Mistry, A. S. Varela, S. Kühl, P. Strasser, B. R. Cuenya, Nat. Rev. Mater. 2016, 1, 16009. ",
+            "[4] M. K. Debe, Nature 2012, 486, 43. ",
+            "[5] D. Li, C. Wang, D. S. Strmcnik, D. V. Tripkovic, X. Sun, Y. Kang, M. Chi, J. D. Snyder, D. van der Vliet, Y. Tsai, V. R. Stamenkovic, S. Sun, N. M. Markovic, Energy Environ. Sci. 2014, 7, 4061. ",
+            "[6] M. Shao, A. Peles, K. Shoemaker, Nano Lett. 2011, 11, 3714. ",
+            "[7] F. J. Perez-Alonso, D. N. McCarthy, A. Nierhoff, P. Hernandez-Fernandez, C. Strebel, I. E. Stephens, J. H. Nielsen, I. Chorkendorff, Angew. Chem., Int. Ed. 2012, 51, 4641. ",
+            "[8] K. J. Mayrhofer, B. B. Blizanac, M. Arenz, V. R. Stamenkovic, P. N. Ross, N. M. Markovic, J. Phys. Chem. B 2005, 109, 14433. ",
+            "[9] F. Calle-Vallejo, J. Tymoezko, V. Colic, Q. H. Vu, M. D. Pohl, K. Morgenstern, D. Loffreda, P. Sautet, W. Schuhmann, A. S. Bandarenka, Science 2015, 350, 185. ",
+            "[10] a) G. A. Tritsaris, J. Greeley, J. Rossmeisl, J. K. Nørskov, Catal. Lett. 2011, 141, 909; b) K. Kinoshita, J. Electrochem. Soc. 1990, 137, 845. ",
+            "[11] M. Nesselberger, S. Ashton, J. C. Meier, I. Katsounaros, K. J. Mayrhofer, M. Arenz, J. Am. Chem. Soc. 2011, 133, 17428. ",
+            "[12] M. Nesselberger, M. Roefzaad, R. F. Hamou, P. U. Biedermann, F. F. Schweinberger, S. Kunz, K. Scholiegl, G. K. H. Wiberg, S. Ashton, U. Heiz, K. J. J. Mayrhofer, M. Arenz, Nat. Mater. 2013, 12, 919. ",
+            "[13] K. Yu, D. J. Groom, X. Wang, Z. Yang, M. Gummalla, S. C. Ball, D. J. Myers, P. J. Ferreira, Chem. Mater. 2014, 26, 5540. ",
+            "[14] Z. Yang, S. Ball, D. Condit, M. Gummalla, J. Electrochem. Soc. 2011, 158, B1439. ",
+            "[15] H. Yano, M. Watanabe, A. Iiyama, H. Uchida, Nano Energy 2016, 29, 323. ",
+            "[16] M. Gummalla, S. Ball, D. Condit, S. Rasouli, K. Yu, P. Ferreira, D. Myers, Z. Yang, Catalysts 2015, 5, 926. ",
+            "[17] a) P. J. Ferreira, G. J. la O’, Y. Shao-Horn, D. Morgan, R. Makharia, S. Kocha, H. A. Gasteiger, J. Electrochem. Soc. 2005, 152, A2256; b) Y. Shao, G. Yin, Y. Gao, J. Power Sources 2007, 171, 558. ",
+            "[18] L. Tang, B. Han, K. Persson, C. Friesen, T. He, K. Sieradzki, G. Ceder, J. Am. Chem. Soc. 2010, 132, 596. ",
+            "[19] J. A. Gilbert, N. N. Kariuki, R. Subbaraman, A. J. Kropf, M. C. Smith, E. F. Holby, D. Morgan, D. J. Myers, J. Am. Chem. Soc. 2012, 134, 14823. ",
+            "[20] P. P. Lopes, D. Strmcnik, D. Tripkovic, J. G. Connell, V. Stamenkovic, N. M. Markovic, ACS Catal. 2016, 6, 2536. "
+        ],
+        "bbox": [
+            85,
+            219,
+            485,
+            912
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[21] A. A. Topalov, S. Cherevko, A. R. Zeradjanin, J. C. Meier, I. Katsounaros, K. J. J. Mayrhofer, Chem. Sci. 2014, 5, 631. ",
+            "[22] D. Y. Chung, H. Shin, J. M. Yoo, K.-S. Lee, N.-S. Lee, K. Kang, Y.-E. Sung, J. Power Sources 2016, 334, 52. ",
+            "[23] a) N. Cheng, S. Mu, X. Chen, H. Lv, M. Pan, P. P. Edwards, Electrochim. Acta 2011, 56, 2154; b) Y. Nie, S. Chen, W. Ding, X. Xie, Y. Zhang, Z. Wei, Chem. Commun. 2014, 50, 15431. ",
+            "[24] Y. Kang, J. Snyder, M. Chi, D. Li, K. L. More, N. M. Markovic, V. R. Stamenkovic, Nano Lett. 2014, 14, 6361. ",
+            "[25] N. T. Thanh, N. Maclean, S. Mahiddine, Chem. Rev. 2014, 114, 7610. ",
+            "[26] C. Yu, E. F. Holby, R. Yang, M. F. Toney, D. Morgan, P. Strasser, ChemCatChem 2012, 4, 766. ",
+            "[27] E. F. Holby, W. Sheng, Y. Shao-Horn, D. Morgan, Energy Environ. Sci. 2009, 2, 865. ",
+            "[28] S. G. Rinaldo, P. Urchaga, J. Hu, W. Lee, J. Stumper, C. Rice, M. Eikerling, Phys. Chem. Chem. Phys. 2014, 16, 26876. ",
+            "[29] Y. Yu, H. L. Xin, R. Hovden, D. Wang, E. D. Rus, J. A. Mundy, D. A. Muller, H. D. Abruña, Nano Lett. 2012, 12, 4417. ",
+            "[30] A. Zana, J. Speder, M. Roefzaad, L. Altmann, M. Bäumer, M. Arenz, J. Electrochem. Soc. 2013, 160, F608. ",
+            "[31] X. Tuaev, S. Rudi, P. Strasser, Catal. Sci. Technol. 2016, 6, 8276. ",
+            "[32] a) Y. Luo, N. Alonso-Vante, Electrochim. Acta 2015, 179, 108; b) S. Sui, X. Wang, X. Zhou, Y. Su, S. Riffat, C.-J. Liu, J. Mater. Chem. A 2017, 5, 1808. ",
+            "[33] S.-E. Jang, H. Kim, J. Am. Chem. Soc. 2010, 132, 14700. ",
+            "[34] a) H. Tang, Z. Qi, M. Ramani, J. F. Elter, J. Power Sources 2006, 158, 1306; b) J. Kim, J. Lee, Y. Tak, J. Power Sources 2009, 192, 674. ",
+            "[35] a) N. Takeuchi, T. F. Fuller, J. Electrochem. Soc. 2008, 155, B770; b) Q. Shen, M. Hou, D. Liang, Z. Zhou, X. Li, Z. Shao, B. Yi, J. Power Sources 2009, 189, 1114. ",
+            "[36] N. Linse, L. Gubler, G. G. Scherer, A. Wokaun, Electrochim. Acta 2011, 56, 7541. ",
+            "[37] Y. Zhang, S. Chen, Y. Wang, W. Ding, R. Wu, L. Li, X. Qi, Z. Wei, J. Power Sources 2015, 273, 62. ",
+            "[38] K. J. J. Mayrhofer, J. C. Meier, S. J. Ashton, G. K. H. Wiberg, F. Kraus, M. Hanzlik, M. Arenz, Electro. Commun. 2008, 10, 1144. ",
+            "[39] K. Schlögl, K. J. J. Mayrhofer, M. Hanzlik, M. Arenz, J. Electroanal. Chem. 2011, 662, 355. ",
+            "[40] M. Arenz, A. Zana, Nano Energy 2016, 29, 299. ",
+            "[41] a) H. Yano, T. Akiyama, P. Bele, H. Uchida, M. Watanabe, Phys. Chem. Chem. Phys. 2010, 12, 3806; b) H.-S. Oh, J.-G. Oh, S. Haam, K. Arunabha, B. Roh, I. Hwang, H. Kim, Electro. Commun. 2008, 10, 1048; c) M. Hara, M. Lee, C.-H. Liu, B.-H. Chen, Y. Yamashita, M. Uchida, H. Uchida, M. Watanabe, Electrochim. Acta 2012, 70, 171; d) J. Wang, G. Yin, Y. Shao, Z. Wang, Y. Gao, J. Phys. Chem. C 2008, 112, 5784. ",
+            "[42] a) D. Schonvogel, J. Hülstede, P. Wagner, I. Kruusenberg, K. Tammeveski, A. Dyck, C. Agert, M. Wark, J. Electrochem. Soc. 2017, 164, F995; b) X. Wang, W. Li, Z. Chen, M. Waje, Y. Yang, J. Power Sources 2006, 158, 154. ",
+            "[43] a) H.-S. Oh, H. Kim, Adv. Funct. Mater. 2011, 21, 3954; b) S. Chen, Z. Wei, L. Guo, W. Ding, L. Dong, P. Shen, X. Qi, L. Li, Chem. Commun. 2011, 47, 10984; c) L. Li, S. G. Chen, Z. D. Wei, X. Q. Qi, M. R. Xia, Y. Q. Wang, Phys. Chem. Chem. Phys. 2012, 14, 16581. ",
+            "[44] a) J. X. Wang, H. Inada, L. Wu, Y. Zhu, Y. Choi, P. Liu, W.-P. Zhou, R. R. Adzic, J. Am. Chem. Soc. 2009, 131, 17298; b) A. Kongkanand, N. P. Subramanian, Y. Yu, Z. Liu, H. Igarashi, D. A. Muller, ACS Catal. 2016, 6, 1578. ",
+            "[45] a) S. Zhang, Y. Hao, D. Su, V. V. T. Doan-Nguyen, Y. Wu, J. Li, S. Sun, C. B. Murray, J. Am. Chem. Soc. 2014, 136, 15921; b) K. D. Beard, D. Borrelli, A. M. Cramer, D. Blom, J. W. Van Zee, J. R. Monnier, ACS Nano 2009, 3, 2841; c) L. Wang, Z. Zeng, C. Ma, Y. Liu, M. Giroux, M. Chi, J. Jin, J. Greeley, C. Wang, Nano Lett. 2017, 17, 3391. "
+        ],
+        "bbox": [
+            512,
+            93,
+            914,
+            912
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            77,
+            61,
+            258,
+            71
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            823,
+            60,
+            915,
+            71
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            950
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (18 of 20) ",
+        "bbox": [
+            433,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[46] K. Sasaki, H. Naohara, Y. Cai, Y. M. Choi, P. Liu, M. B. Vukmirovic, J. X. Wang, R. R. Adzic, Angew. Chem., Int. Ed. 2010, 49, 8602. ",
+            "[47] a) M. Oezaslan, F. Hasché, P. Strasser, J. Phys. Chem. Lett. 2013, 4, 3273; b) L. Gan, C. Cui, S. Rudi, P. Strasser, Top. Catal. 2014, 57, 236; c) N. V. Long, Y. Yang, C. Minh Thi, N. V. Minh, Y. Cao, M. Nogami, Nano Energy 2013, 2, 636; d) R. R. Adzic, Electrocatalysis 2012, 3, 163. ",
+            "[48] a) P. Moseley, W. A. Curtin, Nano Lett. 2015, 15, 4089; b) T. Y. Jeon, N. Pinna, S. J. Yoo, D. Ahn, S. H. Choi, M. G. Willinger, Y. H. Cho, K. S. Lee, H. Y. Park, S. H. Yu, Y. E. Sung, Nanoscale 2012, 4, 6461; c) R. Choi, S. I. Choi, C. H. Choi, K. M. Nam, S. I. Woo, J. T. Park, S. W. Han, Chem. Eur. J. 2013, 19, 8190; d) P. Strasser, S. Koh, T. Anniyev, J. Greeley, K. More, C. Yu, Z. Liu, S. Kaya, D. Nordlund, H. Ogasawara, M. F. Toney, A. Nilsson, Nat. Chem. 2010, 2, 454; e) X. Wang, S. I. Choi, L. T. Roling, M. Luo, C. Ma, L. Zhang, M. Chi, J. Liu, Z. Xie, J. A. Herron, M. Mavrikakis, Y. Xia, Nat. Commun. 2015, 6, 7594. ",
+            "[49] S. Xie, S. I. Choi, N. Lu, L. T. Roling, J. A. Herron, L. Zhang, J. Park, J. Wang, M. J. Kim, Z. Xie, M. Mavrikakis, Y. Xia, Nano Lett. 2014, 14, 3570. ",
+            "[50] V. R. Stamenkovic, B. S. Mun, K. J. Mayrhofer, P. N. Ross, N. M. Markovic, J. Am. Chem. Soc. 2006, 128, 8813. ",
+            "[51] V. R. Stamenkovic, B. Fowler, B. S. Mun, G. Wang, P. N. Ross, C. A. Lucas, N. M. Marković, Science 2007, 315, 493. ",
+            "[52] C. Wang, M. Chi, D. Li, D. Strmcnik, D. van der Vliet, G. Wang, V. Komanicky, K. C. Chang, A. P. Paulikas, D. Tripkovic, J. Pearson, K. L. More, N. M. Markovic, V. R. Stamenkovic, J. Am. Chem. Soc. 2011, 133, 14396. ",
+            "[53] a) T. P. Johansson, E. T. Ulrikkeholm, P. Hernandez-Fernandez, P. Malacrida, H. A. Hansen, A. S. Bandarenka, J. K. Nørskov, J. Rossmeisl, I. E. L. Stephens, I. Chorkendorff, Top. Catal. 2013, 57, 245; b) M. Wakisaka, S. Kobayashi, S. Morishima, Y. Hyuga, D. A. Tryk, M. Watanabe, A. Iiyama, H. Uchida, Electrochem. Commun. 2016, 67, 47; c) W. Xiao, J. Zhu, L. Han, S. Liu, J. Wang, Z. Wu, W. Lei, C. Xuan, H. L. Xin, D. Wang, Nanoscale 2016, 8, 14793. ",
+            "[54] N. Jung, Y. H. Chung, D. Y. Chung, K. H. Choi, H. Y. Park, J. Ryu, S. Y. Lee, M. Kim, Y. E. Sung, S. J. Yoo, Phys. Chem. Chem. Phys. 2013, 15, 17079. ",
+            "[55] C. Chen, Y. Kang, Z. Huo, Z. Zhu, W. Huang, H. L. Xin, J. D. Snyder, D. Li, J. A. Herron, M. Mavrikakis, M. Chi, K. L. More, Y. Li, N. M. Markovic, G. A. Somorjai, P. Yang, V. R. Stamenkovic, Science 2014, 343, 1339. ",
+            "[56] K. Sasaki, H. Naohara, Y. Choi, Y. Cai, W. F. Chen, P. Liu, R. R. Adzic, Nat. Commun. 2012, 3, 1115. ",
+            "[57] a) K. A. Kuttiyiel, K. Sasaki, D. Su, L. Wu, Y. Zhu, R. R. Adzic, Nat. Commun. 2014, 5, 5185; b) L. Zhang, R. Iyyamperumal, D. F. Yancey, R. M. Crooks, G. Henkelman, ACS Nano 2013, 7, 9168; c) K. Gong, D. Su, R. R. Adzic, J. Am. Chem. Soc. 2010, 132, 14364. ",
+            "[58] S. J. Hwang, S. J. Yoo, J. Shin, Y. H. Cho, J. H. Jang, E. Cho, Y. E. Sung, S. W. Nam, T. H. Lim, S. C. Lee, S. K. Kim, Sci. Rep. 2013, 3, 1309. ",
+            "[59] a) A. Garg, M. Milina, M. Ball, D. Zanchet, S. T. Hunt, J. A. Dumesic, Y. Roman-Leshkov, Angew. Chem., Int. Ed. 2017, 56, 8828; b) X. Tian, J. Luo, H. Nan, H. Zou, R. Chen, T. Shu, X. Li, Y. Li, H. Song, S. Liao, R. R. Adzic, J. Am. Chem. Soc. 2016, 138, 1575. ",
+            "[60] S. T. Hunt, M. Milina, A. C. Alba-Rubio, C. H. Hendon, J. A. Dumesic, Y. Roman-Leshkov, Science 2016, 352, 974. ",
+            "[61] S. T. Hunt, M. Milina, Z. Wang, Y. Román-Leshkov, Energy Environ. Sci. 2016, 9, 3290. ",
+            "[62] a) V. R. Stamenkovic, B. S. Mun, M. Arenz, K. J. J. Mayrhofer, C. A. Lucas, G. Wang, P. N. Ross, N. M. Markovic, Nat. Mater. 2007, 6, 241; b) S. J. Hwang, S.-K. Kim, J.-G. Lee, S.-C. Lee, "
+        ],
+        "bbox": [
+            89,
+            93,
+            490,
+            912
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "J. H. Jang, P. Kim, T.-H. Lim, Y.-E. Sung, S. J. Yoo, J. Am. Chem. Soc. 2012, 134, 19508; c) Y.-H. Chung, D. Y. Chung, N. Jung, H. Y. Park, S. J. Yoo, J. H. Jang, Y.-E. Sung, J. Phys. Chem. C 2014, 118, 9939; d) Y.-H. Chung, D. Y. Chung, N. Jung, H.-Y. Park, Y.-E. Sung, S. J. Yoo, Int. J. Hydrogen Energy 2014, 39, 14751; e) T.-Y. Jeon, S. J. Yoo, Y.-H. Cho, K.-S. Lee, S. H. Kang, Y.-E. Sung, J. Phys. Chem. C 2009, 113, 19732. ",
+            "[63] a) J. Greeley, I. E. L. Stephens, A. S. Bondarenko, T. P. Johansson, H. A. Hansen, T. F. Jaramillo, J. Rossmeisl, I. Chorkendorff, J. K. Nørskov, Nat. Chem. 2009, 1, 552; b) M. Escudero-Escribano, P. Malacrida, M. H. Hansen, U. G. Vej-Hansen, A. Velázquez-Palenzuela, V. Tripkovic, J. Schiøtz, J. Rossmeisl, I. E. L. Stephens, I. Chorkendorff, Science 2016, 352, 73. ",
+            "[64] Y. Yan, J. S. Du, K. D. Gilroy, D. Yang, Y. Xia, H. Zhang, Adv. Mater. 2017, 29, 1605997. ",
+            "[65] M. Luo, Y. Sun, L. Wang, S. Guo, Adv. Energy Mater. 2017, 7, 1602073. ",
+            "[66] a) E. Casado-Rivera, D. J. Volpe, L. Alden, C. Lind, C. Downie, T. Vazquez-Alvarez, A. C. D. Angelo, F. J. DiSalvo, H. D. Abruña, J. Am. Chem. Soc. 2004, 126, 4043; b) T. Ghosh, B. M. Leonard, Q. Zhou, F. J. DiSalvo, Chem. Mater. 2010, 22, 2190. ",
+            "[67] J. Kim, Y. Lee, S. Sun, J. Am. Chem. Soc. 2010, 132, 4996. ",
+            "[68] a) D. C. Lee, F. V. Mikulec, J. M. Pelaez, B. Koo, B. A. Korgel, J. Phys. Chem. B 2006, 110, 11160; b) Q. Wang, S. Chen, F. Shi, K. Chen, Y. Nie, Y. Wang, R. Wu, J. Li, Y. Zhang, W. Ding, Y. Li, L. Li, Z. Wei, Adv. Mater. 2016, 28, 10673. ",
+            "[69] H. Chen, D. Wang, Y. Yu, K. A. Newton, D. A. Muller, H. Abruña, F. J. DiSalvo, J. Am. Chem. Soc. 2012, 134, 18453. ",
+            "[70] D. Y. Chung, S. W. Jun, G. Yoon, S. G. Kwon, D. Y. Shin, P. Seo, J. M. Yoo, H. Shin, Y. H. Chung, H. Kim, B. S. Mun, K. S. Lee, N. S. Lee, S. J. Yoo, D. H. Lim, K. Kang, Y. E. Sung, T. Hyeon, J. Am. Chem. Soc. 2015, 137, 15478. ",
+            "[71] Q. Li, L. Wu, G. Wu, D. Su, H. Lv, S. Zhang, W. Zhu, A. Casimir, H. Zhu, A. Mendoza-Garcia, S. Sun, Nano Lett. 2015, 15, 2468. ",
+            "[72] J. Lee, J. M. Yoo, Y. Ye, Y. Mun, S. Lee, O.-H. Kim, H.-W. Rhee, H. I. Lee, Y.-E. Sung, J. Lee, Adv. Energy Mater. 2015, 5, 1402093. ",
+            "[73] T. Tamaki, H. Kuroki, S. Ogura, T. Fuchigami, Y. Kitamoto, T. Yamaguchi, Energy Environ. Sci. 2015, 8, 3545. ",
+            "[74] H. Y. Kim, S. Cho, Y. J. Sa, S. M. Hwang, G. G. Park, T. J. Shin, H. Y. Jeong, S. D. Yim, S. H. Joo, Small 2016, 12, 5347. ",
+            "[75] L. Bu, S. Guo, X. Zhang, X. Shen, D. Su, G. Lu, X. Zhu, J. Yao, J. Guo, X. Huang, Nat. Commun. 2016, 7, 11850. ",
+            "[76] L. Bu, N. Zhang, S. Guo, X. Zhang, J. Li, J. Yao, T. Wu, G. Lu, J.-Y. Ma, D. Su, X. Huang, Science 2016, 354, 1410. ",
+            "[77] a) B. N. Wanjala, B. Fang, J. Luo, Y. Chen, J. Yin, M. H. Engelhard, R. Loukrakpam, C. J. Zhong, J. Am. Chem. Soc. 2011, 133, 12714; b) Y.-H. Cho, O.-H. Kim, D. Y. Chung, H. Choe, Y.-H. Cho, Y.-E. Sung, Appl. Catal., B 2014, 154–155, 309. ",
+            "[78] X. Huang, Z. Zhao, L. Cao, Y. Chen, E. Zhu, Z. Lin, M. Li, A. Yan, A. Zettl, Y. M. Wang, X. Duan, T. Mueller, Y. Huang, Science 2015, 348, 1230. ",
+            "[79] L. Cao, T. Mueller, Nano Lett. 2016, 16, 7748. ",
+            "[80] V. Beermann, M. Gocyla, E. Willinger, S. Rudi, M. Heggen, R. E. Dunin-Borkowski, M. G. Willinger, P. Strasser, Nano Lett. 2016, 16, 1719. ",
+            "[81] H. Huang, K. Li, Z. Chen, L. Luo, Y. Gu, D. Zhang, C. Ma, R. Si, J. Yang, Z. Peng, J. Zeng, J. Am. Chem. Soc. 2017, 139, 8152. ",
+            "[82] a) B. Lim, M. Jiang, P. H. C. Camargo, E. C. Cho, J. Tao, X. Lu, Y. Zhu, Y. Xia, Science 2009, 324, 1302; b) T. Yu, D. Y. Kim, H. Zhang, Y. Xia, Angew. Chem., Int. Ed. 2011, 50, 2773. ",
+            "[83] a) C. Cui, L. Gan, M. Heggen, S. Rudi, P. Strasser, Nat. Mater. 2013, 12, 765; b) C. Cui, L. Gan, H.-H. Li, S.-H. Yu, M. Heggen, P. Strasser, Nano Lett. 2012, 12, 5885; c) S.-I. Choi, S. Xie, M. Shao, J. H. Odell, N. Lu, H.-C. Peng, L. Protsailo, S. Guerrero, J. Park, X. Xia, J. Wang, M. J. Kim, Y. Xia, Nano Lett. 2013, 13, 3420; d) M. Jin, H. Zhang, Z. Xie, Y. Xia, Energy Environ. Sci. 2012, 5, 6352. "
+        ],
+        "bbox": [
+            517,
+            93,
+            919,
+            912
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            82,
+            27,
+            236,
+            56
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            82,
+            61,
+            263,
+            71
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            786,
+            26,
+            919,
+            56
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            828,
+            61,
+            919,
+            71
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            82,
+            939,
+            213,
+            949
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (19 of 20) ",
+        "bbox": [
+            438,
+            936,
+            561,
+            950
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            630,
+            939,
+            917,
+            950
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[84] H. W. Liang, X. Cao, F. Zhou, C. H. Cui, W. J. Zhang, S. H. Yu, Adv. Mater. 2011, 23, 1467. ",
+            "[85] B. Y. Xia, H. B. Wu, Y. Yan, X. W. Lou, X. Wang, J. Am. Chem. Soc. 2013, 135, 9480. ",
+            "[86] M. Li, Z. Zhao, T. Cheng, A. Fortunelli, C.-Y. Chen, R. Yu, Q. Zhang, L. Gu, B. V. Merinov, Z. Lin, E. Zhu, T. Yu, Q. Jia, J. Guo, L. Zhang, W. A. Goddard III, Y. Huang, X. Duan, Science 2016, 354, 1414. ",
+            "[87] a) C. Koenigsmann, A. C. Santulli, K. Gong, M. B. Vukmirovic, W. P. Zhou, E. Sutter, S. S. Wong, R. R. Adzic, J. Am. Chem. Soc. 2011, 133, 9783; b) S. Guo, S. Zhang, D. Su, S. Sun, J. Am. Chem. Soc. 2013, 135, 13879; c) L. Bu, J. Ding, S. Guo, X. Zhang, D. Su, X. Zhu, J. Yao, J. Guo, G. Lu, X. Huang, Adv. Mater. 2015, 27, 7204. ",
+            "[88] a) H. H. Li, S. Y. Ma, Q. Q. Fu, X. J. Liu, L. Wu, S. H. Yu, J. Am. Chem. Soc. 2015, 137, 7862; b) H. Liu, W. An, Y. Li, A. I. Frenkel, K. Sasaki, C. Koenigsmann, D. Su, R. M. Anderson, R. M. Crooks, R. R. Adzic, P. Liu, S. S. Wong, J. Am. Chem. Soc. 2015, 137, 12597. ",
+            "[89] J. X. Wang, C. Ma, Y. Choi, D. Su, Y. Zhu, P. Liu, R. Si, M. B. Vukmirovic, Y. Zhang, R. R. Adzic, J. Am. Chem. Soc. 2011, 133, 13551. ",
+            "[90] L. Zhang, L. T. Roling, X. Wang, M. Vara, M. Chi, J. Liu, S.-I. Choi, J. Park, J. A. Herron, Z. Xie, M. Mavrikakis, Y. Xia, Science 2015, 349, 412. ",
+            "[91] X. Wang, L. Figueroa-Cosme, X. Yang, M. Luo, J. Liu, Z. Xie, Y. Xia, Nano Lett. 2016, 16, 1467. ",
+            "[92] D. S. He, D. He, J. Wang, Y. Lin, P. Yin, X. Hong, Y. Wu, Y. Li, J. Am. Chem. Soc. 2016, 138, 1494. ",
+            "[93] Z. Niu, N. Becknell, Y. Yu, D. Kim, C. Chen, N. Kornienko, G. A. Somorjai, P. Yang, Nat. Mater. 2016, 15, 1188. ",
+            "[94] a) J. Pei, J. Mao, X. Liang, C. Chen, Q. Peng, D. Wang, Y. Li, Chem. Commun. 2016, 52, 3793; b) A. Oh, H. Baik, D. S. Choi, J. Y. Cheon, B. Kim, H. Kim, S. J. Kwon, S. H. Joo, Y. Jung, K. Lee, ACS Nano 2015, 9, 2856; c) N. Becknell, C. Zheng, C. Chen, Y. Yu, P. Yang, Surf. Sci. 2016, 648, 328; d) J. Park, J. Kim, Y. Yang, D. Yoon, H. Baik, S. Haam, H. Yang, K. Lee, Adv. Sci. 2015, 3, 1500252; e) J. Ding, X. Zhu, L. Bu, J. Yao, J. Guo, S. Guo, X. Huang, Chem. Commun. 2015, 51, 9722. ",
+            "[95] Y. Wu, D. Wang, G. Zhou, R. Yu, C. Chen, Y. Li, J. Am. Chem. Soc. 2014, 136, 11594. ",
+            "[96] J. Park, Y. J. Sa, H. Baik, T. Kwon, S. H. Joo, K. Lee, ACS Nano 2017, 11, 5500. ",
+            "[97] a) Q. Fu, X. Bao, Chem. Soc. Rev. 2017, 46, 1842; b) H. Li, J. Xiao, Q. Fu, X. Bao, Proc. Natl. Acad. Sci. USA 2017, 114, 5930. ",
+            "[98] C. Galeano, J. C. Meier, V. Peinecke, H. Bongard, I. Katsounaros, A. A. Topalov, A. Lu, K. J. Mayrhofer, F. Schuth, J. Am. Chem. Soc. 2012, 134, 20457. ",
+            "[99] C. Baldizzone, S. Mezzavilla, H. W. Carvalho, J. C. Meier, A. K. Schuppert, M. Heggen, C. Galeano, J. D. Grunwaldt, F. Schuth, K. J. Mayrhofer, Angew. Chem., Int. Ed. 2014, 53, 14250. ",
+            "[100] K. Cheng, Z. Kou, J. Zhang, M. Jiang, H. Wu, L. Hu, X. Yang, M. Pan, S. Mu, J. Mater. Chem. A 2015, 3, 14007. ",
+            "[101] H. Kim, A. W. Robertson, S. O. Kim, J. M. Kim, J. H. Warner, ACS Nano 2015, 9, 5947. ",
+            "[102] L. Guo, W.-J. Jiang, Y. Zhang, J.-S. Hu, Z.-D. Wei, L.-J. Wang, ACS Catal. 2015, 5, 2903. ",
+            "[103] D. Y. Chung, S. W. Jun, G. Yoon, H. Kim, J. M. Yoo, K. S. Lee, T. Kim, H. Shin, A. K. Sinha, S. G. Kwon, K. Kang, T. Hyeon, Y. E. Sung, J. Am. Chem. Soc. 2017, 139, 6669. ",
+            "[104] Z. Song, B. Wang, N. Cheng, L. Yang, D. Banham, R. Li, S. Ye, X. Sun, J. Mater. Chem. A 2017, 5, 9760. ",
+            "[105] R. Kou, Y. Shao, D. Mei, Z. Nie, D. Wang, C. Wang, V. V. Viswanathan, S. Park, I. A. Aksay, Y. Lin, Y. Wang, J. Liu, J. Am. Chem. Soc. 2011, 133, 2541. "
+        ],
+        "bbox": [
+            78,
+            93,
+            485,
+            873
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[106] N. Cheng, M. Norouzi Banis, J. Liu, A. Riese, S. Mu, R. Li, T.-K. Sham, X. Sun, Energy Environ. Sci. 2015, 8, 1450. ",
+            "[107] a) G. R. Zhang, M. Munoz, B. J. Etzold, Angew. Chem., Int. Ed. 2016, 55, 2257; b) J. Snyder, K. Livi, J. Erlebacher, Adv. Funct. Mater. 2013, 23, 5494. ",
+            "[108] S. Chen, Z. Wei, X. Qi, L. Dong, Y.-G. Guo, L. Wan, Z. Shao, L. Li, J. Am. Chem. Soc. 2012, 134, 13252. ",
+            "[109] N. Cheng, M. N. Banis, J. Liu, A. Riese, X. Li, R. Li, S. Ye, S. Knights, X. Sun, Adv. Mater. 2015, 27, 277. ",
+            "[110] S.-Y. Huang, P. Ganesan, S. Park, B. N. Popov, J. Am. Chem. Soc. 2009, 131, 13898. ",
+            "[111] S.-Y. Huang, P. Ganesan, B. N. Popov, ACS Catal. 2012, 2, 825. ",
+            "[112] C. Yao, F. Li, X. Li, D. Xia, J. Mater. Chem. 2012, 22, 16560. ",
+            "[113] Y. Liu, S. Shrestha, W. E. Mustain, ACS Catal. 2012, 2, 456. ",
+            "[114] F. Takasai, S. Matsuie, Y. Takabatake, Z. Noda, A. Hayashi, Y. Shiratori, K. Ito, K. Sasaki, J. Electrochem. Soc. 2011, 158, B1270. ",
+            "[115] Y. Liu, W. E. Mustain, J. Am. Chem. Soc. 2013, 135, 530. ",
+            "[116] T. Binninger, R. Mohamed, A. Patru, K. Waltar, E. Gericke, X. Tuaev, E. Fabbri, P. Levecque, A. Hoell, T. J. Schmidt, Chem. Mater. 2017, 29, 2831. ",
+            "[117] H. Schmies, A. Bergmann, J. Drnec, G. Wang, D. Teschner, S. Kühl, D. J. S. Sandbeck, S. Cherevko, M. Gocyla, M. Shviro, M. Heggen, V. Ramani, R. E. Dunin-Borkowski, K. J. J. Mayrhofer, P. Strasser, Adv. Energy Mater. 2017, 1701663. ",
+            "[118] V. T. T. Ho, C.-J. Pan, J. Rick, W.-N. Su, B.-J. Hwang, J. Am. Chem. Soc. 2011, 133, 11716. ",
+            "[119] M. Kim, C. Kwon, K. Eom, J. Kim, E. Cho, Sci. Rep. 2017, 7, 44411. ",
+            "[120] J. Parrondo, T. Han, E. Niangar, C. Wang, N. Dale, K. Adjemian, V. Ramani, Proc. Natl. Acad. Sci. USA 2014, 111, 45. ",
+            "[121] S. J. Tauster, Acc. Chem. Res. 1987, 20, 389. ",
+            "[122] S. J. Tauster, S. C. Fung, R. L. Garten, J. Am. Chem. Soc. 1978, 100, 170. ",
+            "[123] A. Kumar, V. Ramani, ACS Catal. 2014, 4, 1516. ",
+            "[124] S. Geiger, O. Kasian, A. M. Mingers, K. J. J. Mayrhofer, S. Cherevko, Sci. Rep. 2017, 7, 4595. ",
+            "[125] a) X. Tian, J. Luo, H. Nan, H. Zou, R. Chen, T. Shu, X. Li, Y. Li, H. Song, S. Liao, R. R. Adzic, J. Am. Chem. Soc. 2016, 138, 1575; b) H. Shin, H.-I. Kim, D. Y. Chung, J. M. Yoo, S. Weon, W. Choi, Y.-E. Sung, ACS Catal. 2016, 6, 3914; c) Z. Cui, G. Fu, Y. Li, J. B. Goodenough, Angew. Chem., Int. Ed. 2017, 56, 9901. ",
+            "[126] a) L. Liu, J.-M. Hu, J.-Q. Zhang, C.-N. Cao, Electrochim. Acta 2012, 59, 538; b) X. Xie, S. Chen, W. Ding, Y. Y. Nie, Z. Wei, Chem. Commun. 2013, 49, 10112; c) X. Xie, Y. Xue, L. Li, S. Chen, Y. Nie, W. Ding, Z. Wei, Nanoscale 2014, 6, 11035. ",
+            "[127] B. Cai, S. Henning, J. Herranz, T. J. Schmidt, A. Eychmüller, Adv. Energy Mater. 2017, 7, 1700548. ",
+            "[128] W. Liu, P. Rodriguez, L. Borchardt, A. Foelske, J. Yuan, A.-K. Herrmannn, D. Geiger, Z. Zheng, S. Kaskel, N. Gaponik, R. Kötz, T. J. Schmidt, A. Eychmüller, Angew. Chem., Int. Ed. 2013, 52, 9849. ",
+            "[129] S. Henning, H. Ishikawa, L. Kühn, J. Herranz, E. Müller, A. Eychmüller, T. J. Schmidt, Angew. Chem., Int. Ed. 2017, 56, 10707. ",
+            "[130] S. Henning, J. Herranz, H. Ishikawa, B. J. Kim, D. Abbott, L. Kühn, A. Eychmüller, T. J. Schmidt, J. Electrochem. Soc. 2017, 164, F1136. ",
+            "[131] a) O.-H. Kim, Y.-H. Cho, S. H. Kang, H.-Y. Park, M. Kim, J. W. Lim, D. Y. Chung, M. J. Lee, H. Choe, Y.-E. Sung, Nat. Commun. 2013, 4, 2473; b) B. K. Pilapil, J. van Drunen, Y. Makonnen, D. Beauchemin, G. Jerkiewicz, B. D. Gates, Adv. Funct. Mater, 2017, 27, 1703171. ",
+            "[132] I. E. L. Stephens, J. Rossmeisl, I. Chorkendorff, Science 2016, 354, 1378. "
+        ],
+        "bbox": [
+            507,
+            93,
+            912,
+            873
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED SCIENCENEWS ",
+        "bbox": [
+            77,
+            27,
+            231,
+            56
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "www.advancedsciencenews.com ",
+        "bbox": [
+            78,
+            61,
+            258,
+            71
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "ADVANCED MATERIALS ",
+        "bbox": [
+            783,
+            26,
+            915,
+            56
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "www.advmat.de ",
+        "bbox": [
+            825,
+            61,
+            915,
+            70
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "Adv. Mater. 2018, 1704123 ",
+        "bbox": [
+            77,
+            939,
+            208,
+            949
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "1704123 (20 of 20) ",
+        "bbox": [
+            435,
+            936,
+            557,
+            950
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim ",
+        "bbox": [
+            626,
+            939,
+            914,
+            950
+        ],
+        "page_idx": 19
+    }
+]

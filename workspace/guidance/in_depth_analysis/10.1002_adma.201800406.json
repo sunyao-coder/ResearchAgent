@@ -1,0 +1,45 @@
+{
+    "formatted_in_depth_analysis": [
+        {
+            "statement": "Fe-based molecular catalysts anchored to substrates show enhanced ORR activity, surpassing Pt/C catalysts in some cases.",
+            "positive_keys": [
+                "C_0025"
+            ],
+            "negative_keys": [
+                "C_0048",
+                "C_0083"
+            ],
+            "statement_key": "S_0"
+        },
+        {
+            "statement": "The catalytic activity of metallocorroles for ORR is strongly influenced by the metal center, with Fe showing moderate activity compared to Co and Cu.",
+            "positive_keys": [
+                "C_0082",
+                "C_0083"
+            ],
+            "negative_keys": [
+                "C_0025",
+                "C_0119"
+            ],
+            "statement_key": "S_1"
+        }
+    ],
+    "reflection_results": [
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": false,
+            "mechanism_analysis_support": false,
+            "statement": "Fe-based molecular catalysts anchored to substrates show enhanced ORR activity, surpassing Pt/C catalysts in some cases.",
+            "statement_key": "S_0"
+        },
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": false,
+            "mechanism_analysis_support": false,
+            "statement": "The catalytic activity of metallocorroles for ORR is strongly influenced by the metal center, with Fe showing moderate activity compared to Co and Cu.",
+            "statement_key": "S_1"
+        }
+    ]
+}

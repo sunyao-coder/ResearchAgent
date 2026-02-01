@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "Voltage degradation percentage",
+            "metric_value": 0.0106
+        },
+        "negative": {
+            "metric_type": "ECSA loss percentage",
+            "metric_value": 1.48
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

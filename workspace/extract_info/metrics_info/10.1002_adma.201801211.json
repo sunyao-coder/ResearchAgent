@@ -1,0 +1,72 @@
+{
+    "extracted_info": {
+        "positive": {
+            "activity": {
+                "best_performance": {
+                    "key": "C_0101",
+                    "supporting_statement_key": "C_0103"
+                },
+                "better_direction": {
+                    "direction": "lower",
+                    "supporting_statement_key": "C_0103"
+                }
+            },
+            "stability": {
+                "best_performance": {
+                    "key": "C_0114",
+                    "supporting_statement_key": "C_0114"
+                },
+                "better_direction": {
+                    "direction": "higher",
+                    "supporting_statement_key": "C_0115"
+                }
+            }
+        },
+        "negative": {
+            "activity": {
+                "best_performance": {
+                    "key": "C_0109",
+                    "supporting_statement_key": "C_0108"
+                },
+                "better_direction": {
+                    "direction": "lower",
+                    "supporting_statement_key": "C_0109"
+                }
+            },
+            "stability": {
+                "best_performance": {
+                    "key": "C_0097",
+                    "supporting_statement_key": "C_0097"
+                },
+                "better_direction": {
+                    "direction": "higher",
+                    "supporting_statement_key": "C_0097"
+                }
+            }
+        }
+    },
+    "reflect_result": {
+        "activity": {
+            "valid_group": "A",
+            "best_performance": {
+                "is_relevant": true,
+                "has_numerical_result": true,
+                "support_best_performance": "no"
+            },
+            "better_direction": {
+                "support_better_direction": "no"
+            }
+        },
+        "stability": {
+            "valid_group": "A",
+            "best_performance": {
+                "is_relevant": true,
+                "has_numerical_result": true,
+                "support_best_performance": "no"
+            },
+            "better_direction": {
+                "support_better_direction": "yes"
+            }
+        }
+    }
+}

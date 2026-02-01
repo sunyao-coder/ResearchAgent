@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "Half-wave potential shift",
+            "metric_value": 30.0
+        },
+        "negative": {
+            "metric_type": "Current density retention",
+            "metric_value": 70.0
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

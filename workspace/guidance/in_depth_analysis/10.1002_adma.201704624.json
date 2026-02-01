@@ -1,0 +1,54 @@
+{
+    "formatted_in_depth_analysis": [
+        {
+            "statement": "Single-atom Co sites coordinated on partially oxidized graphene nanosheets enable efficient visible-light-driven CO₂ reduction due to strong metal-support interactions and enhanced electron transfer.",
+            "positive_keys": [
+                "C_0034",
+                "C_0038",
+                "C_0048",
+                "C_0051",
+                "C_0109"
+            ],
+            "negative_keys": [
+                "C_0001",
+                "C_0002",
+                "C_0004"
+            ],
+            "statement_key": "S_0"
+        },
+        {
+            "statement": "Optimizing the reduction degree of graphene supports and Co coordination environments maximizes catalytic activity, achieving a turnover frequency (TOF) of 3.77 min⁻¹ for CO production.",
+            "positive_keys": [
+                "C_0046",
+                "C_0050",
+                "C_0074",
+                "C_0089",
+                "C_0118"
+            ],
+            "negative_keys": [
+                "C_0018",
+                "C_0021",
+                "C_0022"
+            ],
+            "statement_key": "S_1"
+        }
+    ],
+    "reflection_results": [
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": false,
+            "mechanism_analysis_support": true,
+            "statement": "Single-atom Co sites coordinated on partially oxidized graphene nanosheets enable efficient visible-light-driven CO₂ reduction due to strong metal-support interactions and enhanced electron transfer.",
+            "statement_key": "S_0"
+        },
+        {
+            "valid_group": "A",
+            "experiment_data_support": true,
+            "calculation_data_support": false,
+            "mechanism_analysis_support": true,
+            "statement": "Optimizing the reduction degree of graphene supports and Co coordination environments maximizes catalytic activity, achieving a turnover frequency (TOF) of 3.77 min⁻¹ for CO production.",
+            "statement_key": "S_1"
+        }
+    ]
+}

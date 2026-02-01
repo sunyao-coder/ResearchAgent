@@ -1,0 +1,43 @@
+{
+    "4_3": {
+        "10.1002_adma.201801211": {
+            "overpotential": 297.0,
+            "Current density retention": 93.5
+        }
+    },
+    "4_2": {},
+    "4_4": {},
+    "4_1": {},
+    "2_3": {},
+    "2_2": {},
+    "2_4": {},
+    "2_1": {
+        "10.1002_adma.201704123": {
+            "specific activity": 1.05,
+            "ECSA loss percentage": 63.7
+        }
+    },
+    "1_3": {},
+    "1_2": {
+        "10.1002_adma.201800406": {
+            "half-wave potential": 0.88,
+            "Half-wave potential shift": 4.0
+        }
+    },
+    "1_4": {
+        "10.1016_j.nanoen.2024.109668": {
+            "half-wave potential": 0.897,
+            "Voltage degradation percentage": 0.0106
+        }
+    },
+    "1_1": {},
+    "3_3": {
+        "10.1002_adma.201704624": {
+            "turnover number": 678.0,
+            "Current density retention": 88.0
+        }
+    },
+    "3_2": {},
+    "3_4": {},
+    "3_1": {}
+}

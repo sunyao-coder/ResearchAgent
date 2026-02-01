@@ -1,0 +1,16 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe incorporation in Co oxides reduces electrocatalytic activity by blocking active sites.",
+            "Single-metal oxide structures outperform Fe-Co hybrids in OER stability and conductivity.",
+            "Bimetallic synergy in oxides leads to electron density redistribution that deactivates surface Co sites.",
+            "The double-shelled structure has no correlation with active site exposure in Fe-Co oxide hybrids."
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

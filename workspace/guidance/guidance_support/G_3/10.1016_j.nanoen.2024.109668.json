@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe-N coordination moieties have no impact on half-wave potential",
+            "Optimizing Fe-N structures reduces power density in energy devices",
+            "FeNC catalysts inherently cannot achieve half-wave potentials above 0.85 V"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

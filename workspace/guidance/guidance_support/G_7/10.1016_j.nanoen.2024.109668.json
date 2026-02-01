@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Maximizing Fe particle aggregation enhances ORR activity the most.",
+            "Single-atom dispersion of Fe is detrimental to ORR performance.",
+            "Nanoclusters alone provide the best ORR activity without needing any single-atom sites."
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

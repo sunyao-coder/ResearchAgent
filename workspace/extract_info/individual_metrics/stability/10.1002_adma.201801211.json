@@ -1,0 +1,16 @@
+{
+    "metric_analyze_result": {
+        "positive": {
+            "metric_type": "Current density retention",
+            "metric_value": 93.5
+        },
+        "negative": {
+            "metric_type": "Voltage degradation percentage",
+            "metric_value": 0.65
+        }
+    },
+    "metric_analyze_reflect_result": {
+        "valid_group": "A",
+        "metric_value": true
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe nanoclusters destabilize sulfur atom decoration, reducing ORR activity.",
+            "Symmetric electronic interfaces enhance OH* desorption kinetics without requiring dual decoration.",
+            "Sulfur atoms have no measurable impact on Fe center electronic structure or ORR performance."
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

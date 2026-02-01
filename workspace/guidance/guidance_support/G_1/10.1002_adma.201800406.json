@@ -1,0 +1,14 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0"
+        ],
+        "negative_statements": [
+            "Fe-based catalysts without substrate anchoring perform worse than Pt/C",
+            "Pt/C catalysts consistently outperform Fe-based molecular catalysts in ORR activity"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}

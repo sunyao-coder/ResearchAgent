@@ -1,0 +1,15 @@
+{
+    "generate_guidance": {
+        "positive_keys": [
+            "S_0",
+            "S_1"
+        ],
+        "negative_statements": [
+            "Fe-based catalysts have inherently lower ORR activity compared to Co/Cu metallocorroles",
+            "Metallocorrole structures exhibit superior stability and performance in Zn-air batteries over Fe single-atom configurations"
+        ]
+    },
+    "reflect_result": {
+        "valid_group": "A"
+    }
+}
