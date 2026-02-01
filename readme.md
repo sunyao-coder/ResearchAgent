@@ -10,7 +10,7 @@
 - **Python Version**: 3.12  
 - **Tested Hardware**:
   - **CPU**: AMD Ryzen 5 5600
-  - **GPU**: NVIDIA RTX 4070 (recommended for faster LLM inference)
+  - **GPU**: NVIDIA RTX 4070
 - **Tested Software Versions**:
   - Conda 23.11.0
   - MinerU 2.5
