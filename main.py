@@ -6,26 +6,26 @@ from app.tool.extract_info_from_structured_paper import ExtractInfoTool
 from app.tool.filtering_from_structured_paper import FilteringTool
 from app.tool.generate_guidance_from_structured_paper import GenerateGuidanceTool
 
-# from app.tool.get_structured_text import (
-#     extract_texts_from_pdfs,
-#     split_and_label_sentences,
-# )
+from app.tool.get_structured_text import (
+    extract_texts_from_pdfs,
+    split_and_label_sentences,
+)
 
 
-# def run_get_structured_text():
-#     pdf_root = osp.join(WORKSPACE_ROOT, "raw_pdf")
-#     mineru_output_root = osp.join(WORKSPACE_ROOT, "mineru_output")
-#     structured_root = osp.join(WORKSPACE_ROOT, "structured_text_test")
-#     structured_text_root = osp.join(structured_root, "text")
-#     labeled_sentences_root = osp.join(structured_root, "labeled_sentences")
+def run_get_structured_text():
+    pdf_root = osp.join(WORKSPACE_ROOT, "raw_pdf")
+    mineru_output_root = osp.join(WORKSPACE_ROOT, "mineru_output")
+    structured_root = osp.join(WORKSPACE_ROOT, "structured_text_test")
+    structured_text_root = osp.join(structured_root, "text")
+    labeled_sentences_root = osp.join(structured_root, "labeled_sentences")
 
-#     # Step 1: Extract texts from PDFs
-#     extract_texts_from_pdfs(pdf_root, mineru_output_root)
+    # Step 1: Extract texts from PDFs
+    extract_texts_from_pdfs(pdf_root, mineru_output_root)
 
-#     # Step 2: Split and label sentences
-#     split_and_label_sentences(
-#         mineru_output_root, structured_text_root, labeled_sentences_root
-#     )
+    # Step 2: Split and label sentences
+    split_and_label_sentences(
+        mineru_output_root, structured_text_root, labeled_sentences_root
+    )
 
 
 def run_extract_info_tool():
@@ -96,7 +96,7 @@ if __name__ == "__main__":
     init_config("config.yaml")
 
     # Step 1. extract text from pdfs
-    # run_get_structured_text()
+    run_get_structured_text()
 
     # Step 2. extract info from structured papers
     run_extract_info_tool()
